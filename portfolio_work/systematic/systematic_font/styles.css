@@ -1,0 +1,1586 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+
+.ring_border {
+	left:0; right:0;
+   	top:0; bottom:0;
+	margin: auto;
+
+	border-radius: 50%;
+	border: 1px solid black;
+}
+
+div.message {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+}
+
+	div.white {
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		background: white;
+		opacity: .8;
+		z-index: -1;
+	}
+
+	div.directions {
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		font-family: impact, sans-serif;
+		font-size: 20pt;
+		text-align: center;
+		top: 10vh;
+		z-index: 2;
+	}
+
+div.enter {
+	position: fixed;
+	text-align: center;
+	z-index: -2;
+}
+
+/*////////////     SHAPE RULES     //////////////////////////////////////*/
+
+		/*div.circle {
+			width: 100px;
+			height: 100px;
+			border-radius: 50%;
+
+			background-color: black;
+		}
+
+		div.half_circle {
+			width: 100px;
+			height: 100px;
+		}
+			div.ring_one {
+				position: relative;
+				width: 98px;
+				height: 98px;
+			}
+
+			div.ring_two {
+				position: absolute;
+				width: 73px;
+				height: 73px;
+			}
+
+			div.ring_three {
+				position: absolute;
+				width: 48px;
+				height: 48px;
+			}
+
+			div.ring_four {
+				position: absolute;
+				width: 23px;
+				height: 23px;
+			}
+
+		div.vertical {
+			width: 25px;
+			height: 100px;
+
+			outline: 5px solid black;
+			outline-offset: -2.5px;
+		}
+
+		div.horizontal {
+			width: 100px;
+			height: 25px;
+
+			background-color: black;
+		}
+
+		div.diagnol_box {
+			height: 100px;
+			width: 100px;
+			overflow: hidden;
+		}
+
+			div.diagnol {
+				position: absolute;
+				width: 1px;
+				height: 200px;
+
+				left:0; right:0;
+	       		top:0; bottom:0;
+				margin: auto;
+
+				background-color: black;
+
+				transform: rotate(22.5deg);
+			}*/
+
+/*////////////     LETTERBOX     //////////////////////////////////////*/
+
+	div.letterbox {
+		display: inline-block;
+		position: relative;
+		top: 0;
+		bottom: 0;
+		margin: 5px;
+
+	}
+
+	div#letters {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+	}
+
+	div#click {
+		position: absolute;
+		width: 100%;
+		top: 10%;
+		text-align: center;
+		font-family: impact, sans-serif;
+	}
+
+	div.name {
+		position: fixed;
+		text-align: center;
+		width: 100%;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+
+/*////////////     GENERIC LETTERS RULES     //////////////////////////////////////*/
+	
+	/*  A  */
+
+		div.a {
+			width: calc(150px + 2px);
+			height: 200px;
+			overflow: hidden;
+		}
+
+			div.a_left_diagnol_box {
+				position: absolute;
+				left: calc(25%);
+
+				width: 1px;
+				height: 120%;
+				top: 0; bottom: 0; margin: auto;
+				transform: rotate(20.556deg);
+
+				background-color: black;
+			}
+
+			div.a_right_diagnol_box {
+				position: absolute;
+				left: calc(75% - 1px);
+
+				width: 1px;
+				height: 120%;
+				top: 0; bottom: 0; margin: auto;
+
+				transform: rotate(-20.556deg);
+
+				background-color: black;
+			}	
+
+			div.a_horizontal {
+				position: absolute;
+				top: 0; bottom: 0; left: 0; right: 0; margin: auto;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+	/*  B  */
+
+		div.b {
+			width: 77.5px;
+			height: 200px;
+		}
+
+			div.b_bottom_half_circle {
+				position: absolute;
+				top: 50%;
+				left: 27.5px;
+				width: 50px;
+				height: 100px;
+				overflow: hidden;
+			}
+
+					div.b_ring_one {
+						position: relative;
+						width: 98px;
+						height: 98px;
+						left: -50px;
+					}
+
+					div.b_ring_two {
+						position: absolute;
+						width: 73px;
+						height: 73px;
+					}
+
+					div.b_ring_three {
+						position: absolute;
+						width: 48px;
+						height: 48px;
+					}
+
+					div.b_ring_four {
+						position: absolute;
+						width: 23px;
+						height: 23px;
+					}
+
+			div.b_top_half_circle {
+				position: absolute;
+				left: 27.5px;
+				width: 50px;
+				height: 100px;
+				overflow: hidden;
+			}
+
+			div.b_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}		
+
+	/*  C  */
+
+		div.c {
+			width: 100px;
+			height: 200px;
+		}
+
+			div.c_half_circle {
+				position: absolute;
+				width: 100px;
+				height: 200px;
+
+				overflow: hidden;
+			}
+
+					div.c_ring_one {
+						position: relative;
+						width: 198px;
+						height: 198px;
+					}
+
+					div.c_ring_two {
+						position: absolute;
+						width: 148px;
+						height: 148px;
+					}
+
+					div.c_ring_three {
+						position: absolute;
+						width: 98px;
+						height: 98px;
+					}
+
+					div.c_ring_four {
+						position: absolute;
+						width: 48px;
+						height: 48px;
+					}
+
+	/*  D  */
+
+		div.d {
+			width: 127.5px;
+			height: 200px;
+		}
+
+			div.d_half_circle {
+				position: absolute;
+				width: 100px;
+				height: 200px;
+				left: 27.5px;
+
+				overflow: hidden;
+			}
+
+					div.d_ring_one {
+						position: relative;
+						width: 198px;
+						height: 198px;
+						left: -100px;
+					}
+
+					div.d_ring_two {
+						position: absolute;
+						width: 148px;
+						height: 148px;
+					}
+
+					div.d_ring_three {
+						position: absolute;
+						width: 98px;
+						height: 98px;
+					}
+
+					div.d_ring_four {
+						position: absolute;
+						width: 48px;
+						height: 48px;
+					}
+
+			div.d_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+				
+	/*  E  */
+
+		div.e {
+			width: 125px;
+			height: 200px;
+		}
+
+			div.e_top_horizontal {
+				position: absolute;
+				left: 25px;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.e_middle_horizontal {
+				position: absolute;
+				left: 25px; top: 0; bottom: 0; margin: auto;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.e_bottom_horizontal {
+				position: absolute;
+				left: 25px;
+				bottom: 0;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.e_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  F  */
+
+		div.f {
+			width: 125px;
+			height: 200px;
+		}
+
+			div.f_top_horizontal {
+				position: absolute;
+				left: 25px;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.f_middle_horizontal {
+				position: absolute;
+				left: 25px; top: 0; bottom: 0; margin: auto;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.f_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  G  */
+
+		div.g {
+			width: 200px;
+			height: 200px;
+		}
+
+			div.g_half_circle {
+				position: absolute;
+				width: 200px;
+				height: 200px;
+			}
+
+				div.g_ring_one {
+					position: relative;
+					width: 198px;
+					height: 198px;
+					transform: rotate(-45deg);
+				}
+
+				div.g_ring_two {
+					position: absolute;
+					width: 148px;
+					height: 148px;
+				}
+
+				div.g_ring_three {
+					position: absolute;
+					width: 98px;
+					height: 98px;
+				}
+
+				div.g_ring_four {
+					position: absolute;
+					width: 48px;
+					height: 48px;
+				}
+
+					div.g_ring_border {						
+						left:0; right:0;
+					   	top:0; bottom:0;
+						margin: auto;
+
+						border-radius: 50%;
+						border: 1px solid black;
+
+						border-right-color: transparent;
+					}
+
+			div.g_vertical {
+				position: absolute;
+				width: 25px;
+				height: calc(100px - 5px);
+				right: 2.5px;
+				bottom: 2.5px;
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.g_horizontal {
+				position: absolute;
+				width: 100px;
+				height: 25px;
+				left: 50%;
+				top: 50%;
+
+				background-color: black;
+			}
+
+	/*  H  */
+
+		div.h {
+			width: 150px;
+			height: 200px;
+		}
+
+			div.h_horizontal {
+				position: absolute;
+				left: 25px; top: 0; bottom: 0; margin: auto;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.h_left_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.h_right_vertical {
+				position: absolute;
+				right: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  I  */
+
+		div.i {
+			width: 30px;
+			height: 200px;
+		}
+
+			div.i_vertical {
+				position: absolute;
+				right: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  J  */
+
+		div.j {
+			width: 100px;
+			height: 200px;
+		}
+
+			div.j_horizontal {
+				position: absolute;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.j_vertical {
+				position: absolute;
+				right: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.j_half_circle {
+				position: absolute;
+				width: 50px;
+				height: 50px;
+				bottom: 0;
+				right: 27.5px;
+
+				overflow: hidden;
+			}
+
+				div.j_ring_one {
+					position: relative;
+					width: 98px;
+					height: 98px;
+					top: -50px;	
+				}
+
+				div.j_ring_two {				
+					position: absolute;
+					width: 73px;
+					height: 73px;
+				}
+
+				div.j_ring_three {
+					position: absolute;
+					width: 48px;
+					height: 48px;
+				}
+
+				div.j_ring_four {
+					position: absolute;
+					width: 23px;
+					height: 23px;
+				}
+
+	/*  K  */
+
+		div.k {
+			width: calc(65px + 2px);
+			height: 200px;
+		}
+
+			div.k_top_diagnol_box {
+				position: absolute;
+				width: 39.5px;
+				height: 100px;
+				left: 27.5px;
+				overflow: hidden;
+			}
+
+					div.k_top_diagnol {
+						position: absolute;
+						left: 50%;
+
+						width: 1px;
+						height: 120%;
+						top: 0; bottom: 0; margin: auto;
+
+						transform: rotate(20.556deg);
+
+						background-color: black;
+					}
+
+			div.k_bottom_diagnol_box {
+				position: absolute;
+				width: 39.5px;
+				height: 100px;
+				left: 27.5px;
+				bottom: 0;
+				overflow: hidden;
+			}
+
+					div.k_bottom_diagnol {
+						position: absolute;
+						left: 50%;
+
+						width: 1px;
+						height: 120%;
+						top: 0; bottom: 0; margin: auto;
+
+						transform: rotate(-20.556deg);
+
+						background-color: black;
+					}
+
+			div.k_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  L  */
+
+		div.l {
+			width: 125px; 
+			height: 200px;
+		}
+
+			div.l_horizontal {
+				position: absolute;
+				left: 25px;
+				bottom: 0;
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.l_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  M  */
+
+		div.m {
+			width: 136px;
+			height: 200px;
+		}
+
+			div.m_left_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.m_right_vertical {
+				position: absolute;
+				right: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.m_left_diagnol_box {
+				position: absolute;
+				width: 39.5px;
+				height: 100px;
+				left: 28.5px;
+				overflow: hidden;
+			}
+
+				div.m_left_diagnol {
+					position: absolute;
+						left: 50%;
+
+						width: 1px;
+						height: 120%;
+						top: 0; bottom: 0; margin: auto;
+
+						transform: rotate(-20.556deg);
+
+						background-color: black;
+				}
+
+			div.m_right_diagnol_box {	
+				position: absolute;
+				width: 39.5px;
+				height: 100px;
+				right: 30px;
+				overflow: hidden;
+			}
+
+				div.m_right_diagnol {			
+						position: absolute;
+						left: 50%;
+
+						width: 1px;
+						height: 120%;
+						top: 0; bottom: 0; margin: auto;
+
+						transform: rotate(20.556deg);
+
+						background-color: black;
+				}
+
+	/*  N  */
+
+		div.n {		
+			width: 134px;
+			height: 200px;
+
+			overflow: hidden;
+		}
+
+			div.n_left_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.n_right_vertical {
+				position: absolute;
+				right: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.n_diagnol_box {
+				position: absolute;
+				left: calc(37.5px + 29px);
+
+				width: 1px;
+				height: 120%;
+				top: 0; bottom: 0; margin: auto;
+
+				transform: rotate(-20.556deg);
+
+				background-color: black;
+			}
+
+				div.n_diagnol {
+				}
+
+	/*  O  */
+
+		div.o {
+			width: 200px;
+			height: 200px;
+		}
+
+			div.o_circle {			
+				width: 200px;
+				height: 200px;
+				border-radius: 50%;
+
+				background-color: black;
+				}
+
+	/*  P  */
+
+		div.p {
+			width: 77.5px;
+			height: 200px;
+		}
+
+			div.p_half_circle {
+				position: absolute;
+				left: 27.5px;
+				width: 50px;
+				height: 100px;
+				overflow: hidden;
+			}
+					div.p_ring_one {
+						position: relative;
+						width: 98px;
+						height: 98px;
+						left: -50px;
+					}
+
+					div.p_ring_two {
+						position: absolute;
+						width: 73px;
+						height: 73px;
+					}
+
+					div.p_ring_three {
+						position: absolute;
+						width: 48px;
+						height: 48px;
+					}
+
+					div.p_ring_four {
+						position: absolute;
+						width: 23px;
+						height: 23px;
+					}
+
+			div.p_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}	
+
+			div.r_bottom_diagnol_box {
+				position: absolute;
+				width: 39.5px;
+				height: 100px;
+				left: 27.5px;
+				bottom: 0;
+				overflow: hidden;
+			}
+
+					div.r_bottom_diagnol {
+						position: absolute;
+						left: 50%;
+
+						width: 1px;
+						height: 120%;
+						top: 0; bottom: 0; margin: auto;
+
+						transform: rotate(-20.556deg);
+
+						background-color: black;
+					}
+
+	/*  Q  */
+
+		div.q {
+			width: 200px;
+			height: 200px;
+		}
+
+			div.q_half_circle {
+				position: absolute;
+				width: 200px;
+				height: 200px;
+			}
+
+				div.q_ring_one {
+					position: relative;
+					width: 198px;
+					height: 198px;
+					transform: rotate(45deg);
+				}
+
+				div.q_ring_two {
+					position: absolute;
+					width: 148px;
+					height: 148px;
+				}
+
+				div.q_ring_three {
+					position: absolute;
+					width: 98px;
+					height: 98px;
+				}
+
+				div.q_ring_four {
+					position: absolute;
+					width: 48px;
+					height: 48px;
+				}
+
+					div.q_ring_border {						
+						left:0; right:0;
+					   	top:0; bottom:0;
+						margin: auto;
+
+						border-radius: 50%;
+						border: 1px solid black;
+
+						border-right-color: transparent;
+					}
+
+			div.q_diagnol_box {
+				position: absolute;
+				width: 100px;
+				height: 100px;
+				left: 50%;
+				bottom: 0;
+				overflow: hidden;
+			}
+
+					div.q_diagnol {
+						position: absolute;
+						left: 50%;
+
+						width: 1px;
+						height: 200%;
+						top: 0; bottom: 0; margin: auto;
+
+						transform: rotate(-45deg);
+
+						background-color: black;
+					}
+
+	/*  R  */
+
+		div.r {
+			width: 77.5px;
+			height: 200px;
+		}
+
+			div.r_half_circle {
+				position: absolute;
+				left: 27.5px;
+				width: 50px;
+				height: 100px;
+				overflow: hidden;
+			}
+					div.r_ring_one {
+						position: relative;
+						width: 98px;
+						height: 98px;
+						left: -50px;
+					}
+
+					div.r_ring_two {
+						position: absolute;
+						width: 73px;
+						height: 73px;
+					}
+
+					div.r_ring_three {
+						position: absolute;
+						width: 48px;
+						height: 48px;
+					}
+
+					div.r_ring_four {
+						position: absolute;
+						width: 23px;
+						height: 23px;
+					}
+
+			div.r_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}	
+
+	/*  S  */
+
+		div.s {
+			width: 100px;
+			height: 200px;
+		}
+
+			div.s_top_half_circle {
+				position: absolute;
+				width: 100px;
+				height: 100px;
+				top: .5px;
+
+				transform: rotate(135deg);
+			}
+
+				div.s_ring_one {
+					position: relative;
+					width: 98px;
+					height: 98px;
+				}
+
+				div.s_ring_two {
+					position: absolute;
+					width: 73px;
+					height: 73px;
+				}
+
+				div.s_ring_three {
+					position: absolute;
+					width: 48px;
+					height: 48px;
+				}
+
+				div.s_ring_four {
+					position: absolute;
+					width: 23px;
+					height: 23px;
+				}
+
+						.s_top_ring_border {
+							left:0; right:0;
+   							top:0; bottom:0;
+							margin: auto;
+
+							border-radius: 50%;
+							border: 1px solid black;
+							border-top-color: transparent;
+						}
+
+			div.s_bottom_half_circle {
+				position: absolute;
+				bottom: .5px;
+				width: 100px;
+				height: 100px;
+
+				transform: rotate(-45deg);
+			}
+
+						.s_bottom_ring_border {
+							left:0; right:0;
+   							top:0; bottom:0;
+							margin: auto;
+
+							border-radius: 50%;
+							border: 1px solid black;
+							border-top-color: transparent;
+						}
+
+	/*  T  */
+
+		div.t {
+			width: 100px;
+			height: 200px;
+		}
+
+			div.t_vertical {
+				position: absolute;
+				left: 0; right: 0; margin: auto;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(200px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.t_horizontal {
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+	/*  U  */
+
+		div.u {
+			width: 100px;
+			height: 200px;
+		}
+
+			div.u_half_circle {
+				position: absolute;
+				bottom: 0;
+				width: 100px;
+				height: 50px;
+				overflow: hidden;
+			}
+
+				div.u_ring_one {
+					position: absolute;
+					width: 98px;
+					height: 98px;
+					bottom: 50px;
+				}
+
+				div.u_ring_two {
+					position: absolute;
+					width: 73px;
+					height: 73px;
+				}
+
+				div.u_ring_three {
+					position: absolute;
+					width: 48px;
+					height: 48px;
+				}
+
+				div.u_ring_four {
+					position: absolute;
+					width: 23px;
+					height: 23px;
+				}
+
+			div.u_left_vertical {				
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(150px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.u_right_vertical {
+				position: absolute;
+				right: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(150px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  V  */
+
+		div.v {
+			width: calc(150px + 2px);
+			height: 200px;
+			overflow: hidden;
+		}
+
+			div.v_left_diagnol_box {
+					position: absolute;
+					left: calc(25%);
+
+					width: 1px;
+					height: 120%;
+					top: 0; bottom: 0; margin: auto;
+					transform: rotate(-20.556deg);
+
+					background-color: black;
+				}
+
+				div.v_right_diagnol_box {
+					position: absolute;
+					left: calc(75% - 1px);
+
+					width: 1px;
+					height: 120%;
+					top: 0; bottom: 0; margin: auto;
+
+					transform: rotate(20.556deg);
+
+					background-color: black;
+				}	
+
+	/*  W  */
+
+		div.w {
+			width: 200px;
+			height: 200px;
+		}
+
+			div.w_left_half_circle {
+				position: absolute;
+				bottom: 0;
+				width: 100px;
+				height: 50px;
+				overflow: hidden;
+			}
+
+				div.w_ring_one {
+					position: absolute;
+					width: 98px;
+					height: 98px;
+					bottom: 50px;
+				}
+
+				div.w_ring_two {
+					position: absolute;
+					width: 73px;
+					height: 73px;
+				}
+
+				div.w_ring_three {
+					position: absolute;
+					width: 48px;
+					height: 48px;
+				}
+
+				div.w_ring_four {
+					position: absolute;
+					width: 23px;
+					height: 23px;
+				}
+
+			div.w_right_half_circle {				
+				position: absolute;
+				bottom: 0;
+				right: 0px;
+				width: 100px;
+				height: 50px;
+				overflow: hidden;
+			}
+
+			div.w_left_vertical {
+				position: absolute;
+				left: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(150px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.w_middle_vertical {
+				position: absolute;
+				right: 0; left: 0; margin: auto;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(150px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+			div.w_right_vertical {		
+				position: absolute;
+				right: 2.5px;
+				top: 2.5px;
+
+				width: 25px;
+				height: calc(150px - 5px);
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  X  */
+
+		div.x {
+			width: 76px;
+			height: 200px;
+			overflow: hidden;
+		}
+
+			div.x_left_diagnol_box {
+					position: absolute;
+					left: 37.5px;
+
+					width: 1px;
+					height: 120%;
+					top: 0; bottom: 0; margin: auto;
+					transform: rotate(-20.556deg);
+
+					background-color: black;
+				}
+
+				div.x_right_diagnol_box {
+					position: absolute;
+					left: 37.5px;
+
+					width: 1px;
+					height: 120%;
+					top: 0; bottom: 0; margin: auto;
+
+					transform: rotate(20.556deg);
+
+					background-color: black;
+				}	
+
+	/*  Y  */
+
+		div.y {
+			width: calc(100px - 2.5px);
+			height: 200px;
+		}
+
+			div.y_left_diagnol_box {
+				position: absolute;
+				width: 39.5px;
+				height: 100px;
+				right: 0.5px;
+				overflow: hidden;
+			}
+
+				div.y_left_diagnol {
+					position: absolute;
+					left: 50%;
+
+					width: 1px;
+					height: 120%;
+					top: 0; bottom: 0; margin: auto;
+
+					transform: rotate(20.556deg);
+
+					background-color: black;
+				}
+
+			div.y_right_diagnol_box {
+				position: absolute;
+				width: 39.5px;
+				height: 100px;
+				left: -1px;
+				overflow: hidden;
+			}
+
+				div.y_right_diagnol {
+					position: absolute;
+					left: 50%;
+
+					width: 1px;
+					height: 120%;
+					top: 0; bottom: 0; margin: auto;
+
+					transform: rotate(-20.556deg);
+
+					background-color: black;
+				}
+
+			div.y_vertical {		
+				position: absolute;		
+				width: 25px;
+				height: 100px;
+				left: 0; right: 0; margin: auto;
+				bottom: 2.5px;
+
+				outline: 5px solid black;
+				outline-offset: -2.5px;
+			}
+
+	/*  Z  */
+
+		div.z {
+			width: 100px;
+			height: 200px;
+			overflow: hidden;
+		}
+
+			div.z_top_horizontal {
+				position: absolute;		
+				width: 100px;
+				height: 25px;
+
+				background-color: black;
+			}
+
+			div.z_bottom_horizontal {
+				position: absolute;		
+				width: 100px;
+				height: 25px;
+				bottom: 0;
+
+				background-color: black;
+			}
+
+			div.z_diagnol_box {
+				position: absolute;
+				left: 50%;
+
+				width: 1px;
+				height: 120%;
+				top: 0; bottom: 0; margin: auto;
+
+				transform: rotate(20.556deg);
+
+				background-color: black;
+			}
+
+				div.z_diagnol {
+				}
+
+/*////////////     BIG WORD SCALES     //////////////////////////////////////*/
+
+	div.gyllenhaal, div.catherine, div.ambass, div.underwood, div.onerepublic, div.wahlberg, div.degeneres {
+		transform: scale(.80);
+		position: relative;
+		margin-top: -20px;
+		margin-bottom: -20px;
+		width: 120%;
+		left: -10%;
+	}
+
+	div.zeta, div.jones {
+		display: inline-block;
+		position: relative;
+	}
+
+/*////////////     BACKGROUND COLORS     //////////////////////////////////////*/
+
+	/*div#amy_schumer {
+		background-color: red;
+	}
+
+	div#bradley_cooper {
+		background-color: orange;
+	}
+
+	div#chelsea_handler {
+		background-color: red;
+	}
+
+	div#ellen_degeneres {
+		background-color: red;
+	}
+
+	div#emma_stone {
+		background-color: red;
+	}
+
+	div#tina_fey {
+		background-color: red;
+	}
+
+	div#lady_gaga {
+		background-color: red;
+	}
+
+	div#hugh_jackman {
+		background-color: red;
+	}
+
+	div#imagine_dragons {
+		background-color: red;
+	}
+
+	div#jake_gyllenhaal {
+		background-color: red;
+	}
+
+	div#kesha {
+		background-color: red;
+	}
+
+	div#jennifer_lawrence {
+		background-color: red;
+	}
+
+	div#miley_cyrus {
+		background-color: red;
+	}
+
+	div#nicole_richie {
+		background-color: red;
+	}
+
+	div#onerepublic {
+		background-color: red;
+	}
+
+	div#amy_poehler {
+		background-color: red;
+	}
+
+	div#queen_latifah {
+		background-color: red;
+	}
+
+	div#margot_robbie {
+		background-color: red;
+	}
+
+	div#taylor_swift {
+		background-color: red;
+	}
+
+	div#tom_hanks {
+		background-color: red;
+	}
+
+	div#carrie_underwood {
+		background-color: red;
+	}
+
+	div#viola_davis {
+		background-color: red;
+	}
+
+	div#mark_wahlberg {
+		background-color: red;
+	}
+
+	div#x_ambass {
+		background-color: red;
+	}
+
+	div#young_thug {
+		background-color: red;
+	}
+
+	div#catherine_zeta_jones {
+		background-color: red;
+	}*/
+
+
+
+
+*/
