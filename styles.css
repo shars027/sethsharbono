@@ -28,8 +28,40 @@ footer, header, hgroup, menu, nav, section {
 
 @font-face {
     font-family: "helveticaneue-thin";
-    src: url("helveticaneue-thin-13-webfont.woff") format('woff'),
-         url("helveticaneue-thin-13-webfont.woff2") format('woff2');
+    src: url("fonts/helveticaneue-thin-13-webfont.woff") format('woff'),
+         url("fonts/helveticaneue-thin-13-webfont.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "helveticaneue-bold";
+    src: url("fonts/HelveticaNeue-CondensedBold.woff") format('woff'),
+         url("fonts/HelveticaNeue-CondensedBold.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "helveticaneue-italic";
+    src: url("fonts/HelveticaNeue-Italic.woff") format('woff'),
+         url("fonts/HelveticaNeue-Italic.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "helveticaneue-Thinitalic";
+    src: url("fonts/HelveticaNeue-ThinItalic.woff") format('woff'),
+         url("fonts/HelveticaNeue-ThinItalic.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "helveticaneue";
+    src: url("fonts/HelveticaNeue.woff") format('woff'),
+         url("fonts/HelveticaNeue.woff2") format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -38,6 +70,22 @@ body {
 	position: fixed;
 	font-family: "helveticaneue-thin";
 }
+
+	b {
+		font-family: "helveticaneue";
+		font-size: 2.25vmin;
+	}
+
+	bb {
+		font-family: "helveticaneue-bold";
+		text-transform: uppercase;
+		font-size: 2.25vmin;
+	}
+
+	em {
+		font-family: "helveticaneue-italic";
+		baseline-shift: -12px;
+	}
 
 #menu_icon {
 	position: fixed;
@@ -78,6 +126,76 @@ body {
 				100% {filter: invert(0%);}
 			}
 
+/*//////////*/
+
+	#right_white_box, #left_white_box {
+		position: fixed;
+		top: calc(10% + 1px);
+		height: calc(90% - 2.5vw - 2px);
+		width: calc(5vh);
+		background-color: white;
+		z-index: 101;
+	}
+
+		#right_white_box {
+			right: 1px;
+		}
+
+		#left_white_box {
+			left: calc(30% + 1px);
+		}
+
+/*//////////*/
+
+	button {
+		border: none;
+	}
+
+		.forward_BOX, .back_BOX {
+				position: absolute;
+				height: 2.5vw;
+				width: 5vh;
+				outline: 2px solid black;
+				outline-offset: -1px;
+
+				bottom: 0;
+				background-color: black;
+			}
+
+		.forward_arrow, .back_arrow {
+			width: 50%;
+			height: 50%;
+			top: 0; bottom: 0; right: 0; left: 0; margin: auto;
+			position: absolute;
+			filter: invert(100%);
+		}
+
+				.forward_BOX {
+					right: 0;
+				}
+
+					.forward_BOX:hover {
+						animation: invert_menu .5s forwards;
+					}
+
+					.forward_BOX:hover > .forward_arrow {
+						animation: invert_button .5s forwards;
+					}
+
+				.back_BOX {
+					left: -2;
+				}
+
+					.back_BOX:hover {
+						animation: invert_menu .5s forwards;
+					}
+
+					.back_BOX:hover > .back_arrow {
+						animation: invert_button .5s forwards;
+					}
+
+/*//////////*/
+
 #logo_bar, #title_sec, #description_sec, #content_sec {
 	position: fixed;
 	display: inline-block;
@@ -112,22 +230,27 @@ body {
 		div.title_box {
 			position: relative;
 			height: 100%;
+			width: calc(100% - 1vmax);
 			overflow: hidden;
+			display: table;
 		}
 
 			div.title {
-				position: absolute;
-				display: inline-block;
-				top: 0; bottom: 0; margin-bottom: auto; margin-top: auto;
+				height: 100%;
+				width: 100%;
 
-				font-size: 2.5vmax;
-				height: 2.5vmax;
-				line-height: 3.125vmax;
+				font-family: "helveticaneue-bold";
+				text-transform: uppercase;
+				font-size: 3.5vmin;
 
-				right: 1vmax;
+
+				display: table-cell;
+				text-align: right;				
+				vertical-align: middle;
 			}
 
 	#description_sec {
+		position: fixed;
 		width: 30%;
 		height: 90%;
 		top: 10%;
@@ -144,352 +267,48 @@ body {
 			div.description {
 				width: 100%;
 				display: table-cell;
-				font-size: 16pt;
-				padding: 9%;
+				font-size: 1.75vmin;
+				padding: 7.5%;
 
 				vertical-align: middle;
 			}
 
 	#content_sec {
+		position: fixed;
 		width: 70%;
 		height: 90%;
 		top: 10%;
 		left: 30%;
-		overflow-y: auto;
 	}
 
-		div.gucci_content_box {
+		div.content_box {
 			position: relative;
 			display: table;
-			width: 1300%;
-			height: 90vh;
-			overflow-x: auto;
+			height: 100%;
+			width: 100%;
+			z-index: -1;
 		}
 
-			div.gucci_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
+			div.content_sub_box {
+				position: absolute;
+				width: 100%;
 				height: 100%;
-				width: calc(100% / 13);
+				display: table-cell;
+				vertical-align: middle;
 			}
 
 			img.content {
 				position: absolute;
-				top: 0; 
-				bottom: 0; 
-				left: 0;
-				right: 0;
-				margin: auto;
-
-				max-width: 90%;
-				max-height: 80%;
+				top: -2.5vw; bottom: 0; left: 0; right: 0; margin: auto;
+				max-height: calc(100% - 10vw);
+				max-width: calc(100% - 10vh);
 			}
 
-		div.senior_content_box {
-			position: relative;
-			display: table;
-			width: 400%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.senior_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 4);
+			.gucci_content_box {
+				display: none;
 			}
 
-		div.script_content_box {
-			position: relative;
-			display: table;
-			width: 1900%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.script_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 19);
-			}
-
-		div.system_content_box {
-			position: relative;
-			display: table;
-			width: 600%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.system_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 6);
-			}
-
-		div.mc_content_box {
-			position: relative;
-			display: table;
-			width: 200%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.mc_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 2);
-			}
-
-		div.lyric_content_box {
-			position: relative;
-			display: table;
-			width: 800%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.lyric_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 8);
-			}
-
-		div.dot_content_box {
-			position: relative;
-			display: table;
-			width: 800%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.dot_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 8);
-			}
-
-		div.grad_content_box {
-			position: relative;
-			display: table;
-			width: 2200%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.grad_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 22);
-			}
-
-		div.con_content_box {
-			position: relative;
-			display: table;
-			width: 600%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.con_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 6);
-			}
-
-		div.ave_content_box {
-			position: relative;
-			display: table;
-			width: 200%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.ave_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 2);
-			}
-
-		div.bs_content_box {
-			position: relative;
-			display: table;
-			width: 500%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.bs_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 5);
-			}
-
-		div.rd_content_box {
-			position: relative;
-			display: table;
-			width: 500%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.rd_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 5);
-			}
-
-		div.tears_content_box {
-			position: relative;
-			display: table;
-			width: 100%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.tears_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 1);
-			}
-
-		div.f_content_box {
-			position: relative;
-			display: table;
-			width: 400%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.f_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 4);
-			}
-
-		div.black_content_box {
-			position: relative;
-			display: table;
-			width: 100%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.black_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 1);
-			}
-
-		div.rainbowland_content_box {
-			position: relative;
-			display: table;
-			width: 100%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.rainbowland_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 1);
-			}
-
-		div.glitch_content_box {
-			position: relative;
-			display: table;
-			width: 100%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.glitch_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 1);
-			}
-
-		div.anx_content_box {
-			position: relative;
-			display: table;
-			width: 200%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.anx_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 2);
-			}
-
-		div.alt_content_box {
-			position: relative;
-			display: table;
-			width: 400%;
-			height: 90vh;
-			overflow-x: auto;
-		}
-
-			div.alt_content {
-				display: inline-block;
-				position: relative;
-				vertical-align: middle;
-				height: 100%;
-				width: calc(100% / 4);
-			}
-
-			div.alt_description {
-				width: 100%;
-				display: table-cell;
-				font-size: 16pt;
-				padding: 9%;
-
-				vertical-align: middle;
-				color: white;
-			}
-
-			a {
-				text-decoration: none;
-				color: cyan;
-			}
-
-#content_sec, #description_sec, #title_sec {
+#content_sec, #description_sec, #title_sec, #alt_content_sec {
 	-webkit-overflow-scrolling: touch;
  	-webkit-scroll-snap-type: mandatory;
     -ms-scroll-snap-type: mandatory;
@@ -502,23 +321,10 @@ body {
         scroll-snap-points-y: repeat(100%);
 }
 
-#title_sec {
-	-webkit-overflow-scrolling: touch;
- 	-webkit-scroll-snap-type: mandatory;
-    -ms-scroll-snap-type: mandatory;
-        scroll-snap-type: mandatory;
- 	-webkit-scroll-snap-destination: 100% 0%;
-    -ms-scroll-snap-destination: 100% 0%;
-        scroll-snap-destination: 100% 0%;
-  	-webkit-scroll-snap-points-y: repeat(100%);
-    -ms-scroll-snap-points-y: repeat(100%);
-        scroll-snap-points-y: repeat(100%);
-}
-
-	div.title_box, div.description_box, div.content_box {
+	div.title_box, div.description_box, div.content_box, div.alt_content {
 		scroll-snap-align: start;
-		-webkit-transition: all 0.3s ease-out;
- 		transition: all 0.3s ease-out;
+		-webkit-transition: all 0.1s ease-out;
+ 		transition: all 0.1s ease-out;
 	}
 
 	div::-webkit-scrollbar { 
@@ -538,6 +344,8 @@ body {
 
 /*//////////*/
 
+		
+
 div#alt_body {
 	position: fixed;
 	width: 100%;
@@ -546,16 +354,47 @@ div#alt_body {
 	z-index: 98;
 }
 
-.alt {
-	position: fixed;
-	display: inline-block;
+	.alt {
+		position: fixed;
+		display: inline-block;
 
 
-	outline: 1px solid white;
-	outline-offset: -1px;
+		outline: 1px solid white;
+		outline-offset: -1px;
 
-	overflow: scroll;
-}
+		overflow: scroll;
+	}
+
+	div.alt_content_box {
+			position: relative;
+			width: 100%;
+		}
+
+			div.alt_content {
+				display: inline-block;
+				position: relative;
+				vertical-align: middle;
+				height: 100%;
+			}
+
+			div.alt_description {
+				width: 100%;
+				display: table-cell;
+				font-size: 1.75vmin;
+				padding: 9%;
+
+				vertical-align: middle;
+				color: white;
+			}
+
+			a {
+				text-decoration: none;
+				color: cyan;
+			}
+
+		#right_white_box.toggled, #left_white_box.toggled {
+			display: none;
+		}
 
 		#menu_icon.toggled {
 			transition: all .6s;
@@ -592,15 +431,6 @@ div#alt_body {
 		left: 0;
 	}
 
-		.portrait_png {
-			position: absolute;
-			top: 0; bottom: 0; left: 0; right: 0; margin: auto;
-			height: auto;
-			width: auto;
-			max-width: 90%;
-			max-height: 90%;
-		}
-
 	#alt_content_sec {
 		width: 70%;
 		height: 90%;
@@ -610,7 +440,7 @@ div#alt_body {
 
 /*//////////*/
 
-	@media only screen and (max-width: 600px) {
+/*	@media only screen and (max-width: 600px) {
 		#logo_bar, #title_sec, #description_sec, #content_sec {
 			position: relative;
 			top: 0;
@@ -631,5 +461,5 @@ div#alt_body {
 		body {
 			display: none;
 		}
-	}
+	}*/
 

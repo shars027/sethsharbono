@@ -10,6 +10,8 @@ $(document).ready(function(){
 		$("#logo_bar").toggleClass("expanded");
 		$("#logo").toggleClass("inverted");
 		$("#menu_icon").toggleClass("toggled");
+		$("#right_white_box").toggleClass("toggled");
+		$("#left_white_box").toggleClass("toggled");
 
 		if(x == 0) {
 			$("#icon").attr("src","logo/menu_icon_x.svg"); 
@@ -21,4 +23,6 @@ $(document).ready(function(){
 	    };
 
 	});
+
+
 });
