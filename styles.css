@@ -515,7 +515,7 @@ body {
         scroll-snap-points-y: repeat(100%);
 }
 
-	div.title, div.description, div.content {
+	div.title_box, div.description_box, div.content_box {
 		scroll-snap-align: start;
 		-webkit-transition: all 0.3s ease-out;
  		transition: all 0.3s ease-out;
