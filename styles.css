@@ -304,10 +304,6 @@ body {
 				max-width: calc(100% - 10vh);
 			}
 
-			.gucci_content_box {
-				display: none;
-			}
-
 #content_sec, #description_sec, #title_sec, #alt_content_sec {
 	-webkit-overflow-scrolling: touch;
  	-webkit-scroll-snap-type: mandatory;
