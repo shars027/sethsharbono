@@ -625,7 +625,7 @@ body {font-family: "helveticaneue-thin";}
 
 #project_body {	top: 202px;	height: calc(100% - 202px);}
 
-#content_box {height: calc(100% - 202px); top: 202px;}
+#content_box {height: calc(100% - 302px); top: 202px;}
 
 .description {font-size: 20pt; bottom: 100px; line-height: 28pt;}
 
