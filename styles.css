@@ -604,7 +604,8 @@ body {font-family: "helveticaneue-thin";}
 
 @media only screen and (min-height: 1000px) and (max-width: 1000px) { 
 
-.arrows {height: 100px;}
+.arrows {height: 100px; font-size: 24pt;}
+#content_description { font-size: 24pt; }
 
 #nav_bar {height: 200px;}
 
