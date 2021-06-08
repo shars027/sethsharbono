@@ -602,7 +602,7 @@ body {font-family: "helveticaneue-thin";}
 		}
 }
 
-@media only screen and (min-height: 600px) { 
+@media only screen and (min-height: 1000px) and (max-width: 1000px) { 
 
 .arrows {height: 100px;}
 
