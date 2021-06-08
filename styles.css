@@ -614,7 +614,7 @@ body {font-family: "helveticaneue-thin";}
 
 #project_button_box {height: 200px;	}
 
-.nav_buttons {height: 100px; font-size: 24pt;} 
+.nav_buttons {height: 90%; font-size: 24pt; border: none;} 
 
 #menu_box {height: calc(100% - 202px); top: 202px;}
 
