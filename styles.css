@@ -26,9 +26,11 @@
 		display: block;
 	}
 
+
+
 /* fonts */
 	@font-face {
-	    font-family: "h-thin", Helvetica, sans-serif;
+	    font-family: "h-thin", sans-serif;
 	    src: url("fonts/helveticaneue-thin-13-webfont.woff") format('woff'),
 	         url("fonts/helveticaneue-thin-13-webfont.woff2") format('woff2');
 	    font-weight: normal;
@@ -37,17 +39,17 @@
 	}
 
 	@font-face {
-	    font-family: "h-bold", Helvetica, sans-serif;
+	    font-family: "h-bold", sans-serif;
 	    src: url("fonts/HelveticaNeue-CondensedBold.woff") format('woff'),
 	         url("fonts/HelveticaNeue-CondensedBold.woff2") format('woff2');
 	    font-weight: normal;
 	    font-style: normal;
 		font-display: swap;
-	    
+
 	}
 
 	@font-face {
-	    font-family: "h-italic", Helvetica, sans-serif;
+	    font-family: "h-italic", sans-serif;
 	    src: url("fonts/HelveticaNeue-Italic.woff") format('woff'),
 	         url("fonts/HelveticaNeue-Italic.woff2") format('woff2');
 	    font-weight: normal;
@@ -57,7 +59,7 @@
 	}
 
 	@font-face {
-	    font-family: "h-thinitalic", Helvetica, sans-serif;
+	    font-family: "h-thinitalic", sans-serif;
 	    src: url("fonts/HelveticaNeue-ThinItalic.woff") format('woff'),
 	         url("fonts/HelveticaNeue-ThinItalic.woff2") format('woff2');
 	    font-weight: normal;
@@ -67,7 +69,7 @@
 	}
 
 	@font-face {
-	    font-family: "h", Helvetica, sans-serif;
+	    font-family: "h", sans-serif;
 	    src: url("fonts/HelveticaNeue.woff") format('woff'),
 	         url("fonts/HelveticaNeue.woff2") format('woff2');
 	    font-weight: normal;
