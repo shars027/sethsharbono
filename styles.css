@@ -35,7 +35,7 @@
 	         url("fonts/helveticaneue-thin-13-webfont.woff2") format('woff2');
 	    font-weight: normal;
 	    font-style: normal;
-		font-display: swap;
+
 	}
 
 	@font-face {
@@ -44,7 +44,7 @@
 	         url("fonts/HelveticaNeue-CondensedBold.woff2") format('woff2');
 	    font-weight: normal;
 	    font-style: normal;
-		font-display: swap;
+
 
 	}
 
@@ -54,7 +54,7 @@
 	         url("fonts/HelveticaNeue-Italic.woff2") format('woff2');
 	    font-weight: normal;
 	    font-style: normal;
-		font-display: swap;
+
 
 	}
 
@@ -74,7 +74,7 @@
 	         url("fonts/HelveticaNeue.woff2") format('woff2');
 	    font-weight: normal;
 	    font-style: normal;
-		font-display: swap;
+
 	}
 
 /* scrollbar */
