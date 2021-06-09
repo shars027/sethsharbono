@@ -27,54 +27,50 @@
 	}
 
 
-
 /* fonts */
 	@font-face {
-	    font-family: "h-thin", sans-serif;
+	    font-family: "h-thin";
 	    src: url("fonts/helveticaneue-thin-13-webfont.woff") format('woff'),
 	         url("fonts/helveticaneue-thin-13-webfont.woff2") format('woff2');
 	    font-weight: normal;
-	    font-style: normal;
-
+		font-style: normal;
+		font-display: swap;
 	}
 
 	@font-face {
-	    font-family: "h-bold", sans-serif;
+	    font-family: "h-bold";
 	    src: url("fonts/HelveticaNeue-CondensedBold.woff") format('woff'),
-	         url("fonts/HelveticaNeue-CondensedBold.woff2") format('woff2');
+	         url("fonts/HelveticaNeue-CondendsedBold.woff2") format('woff2');
 	    font-weight: normal;
-	    font-style: normal;
-
-
+		font-style: normal;
+		font-display: swap;
 	}
 
 	@font-face {
-	    font-family: "h-italic", sans-serif;
+	    font-family: "h-italic";
 	    src: url("fonts/HelveticaNeue-Italic.woff") format('woff'),
 	         url("fonts/HelveticaNeue-Italic.woff2") format('woff2');
 	    font-weight: normal;
-	    font-style: normal;
-
-
+		font-style: normal;
+		font-display: swap;
 	}
 
 	@font-face {
-	    font-family: "h-thinitalic", sans-serif;
+	    font-family: "h-thinitalic";
 	    src: url("fonts/HelveticaNeue-ThinItalic.woff") format('woff'),
 	         url("fonts/HelveticaNeue-ThinItalic.woff2") format('woff2');
 	    font-weight: normal;
-	    font-style: normal;
-	    font-display: swap;
-
+		font-style: normal;
+		font-display: swap;
 	}
 
 	@font-face {
-	    font-family: "h", sans-serif;
+	    font-family: "h";
 	    src: url("fonts/HelveticaNeue.woff") format('woff'),
 	         url("fonts/HelveticaNeue.woff2") format('woff2');
 	    font-weight: normal;
-	    font-style: normal;
-
+		font-style: normal;
+		font-display: swap;
 	}
 
 /* scrollbar */
@@ -93,7 +89,7 @@
 	    opacity: 0;
 	}
 
-body {font-family: "helveticaneue-thin";}
+body {font-family: "helveticaneue-thin", Helvetica, sans-serif;}
 
 #web_heading, #nav_bar, #menu_box {
 	z-index: 100;
@@ -136,7 +132,7 @@ body {font-family: "helveticaneue-thin";}
 }		
 	
 	#dialogue {position: absolute; top: 20%; right: 0; left: 0; margin: auto;
-		padding-left: 11.5%; padding-right: 11.5%; font-size: 14pt; line-height: 20pt; letter-spacing: .05em; font-family: h;
+		padding-left: 11.5%; padding-right: 11.5%; font-size: 14pt; line-height: 20pt; letter-spacing: .05em; font-family: h, Helvetica, sans-serif;
 	}
 
 	#enter_site { 
@@ -148,7 +144,7 @@ body {font-family: "helveticaneue-thin";}
 			align-items: center;
 			justify-content: center;
 			border: 2px solid black;
-			font-family: h-bold; font-size: 16pt;
+			font-family: h-bold, Helvetica, sans-serif; font-size: 16pt;
 			height: 50px;
 			text-transform: uppercase;
 			background-color: white;
@@ -164,7 +160,7 @@ body {font-family: "helveticaneue-thin";}
 			align-items: center;
 			justify-content: center;
 			border: 2px solid black;
-			font-family: h-bold; font-size: 16pt;
+			font-family: h-bold, Helvetica, sans-serif; font-size: 16pt;
 			height: 50px;
 			text-transform: uppercase;
 			background-color: white;
@@ -224,7 +220,7 @@ body {font-family: "helveticaneue-thin";}
 
 .nav_buttons {
 	border: 2px solid black;
-	font-family: h-bold; font-size: 16pt;
+	font-family: h-bold, Helvetica, sans-serif; font-size: 16pt;
 	width: 100%; 
 	height: 50px;
 	text-transform: uppercase;
@@ -256,7 +252,7 @@ body {font-family: "helveticaneue-thin";}
 			margin-top: 3px;
 			width: 100%;
 			height: 100%;
-			font-family: h-thin; font-size: calc(.5vw + 10pt); line-height: calc(.5vw + 12pt); text-transform: uppercase; letter-spacing: .2em;
+			font-family: h-thin, Helvetica, sans-serif; font-size: calc(.5vw + 10pt); line-height: calc(.5vw + 12pt); text-transform: uppercase; letter-spacing: .2em;
 		}
 		.menu_items:hover {cursor: pointer; color: white; transition: .3s}
 		.menu_item_box:hover {background-color: black; cursor: pointer; transition: .3s}
@@ -298,7 +294,7 @@ body {font-family: "helveticaneue-thin";}
 		background: rgba(0, 0, 0, .85);
 		color: white;	
 		font-size: 13pt;
-		font-family: h-thinitalic;
+		font-family: h-thinitalic, Helvetica, sans-serif;
 		letter-spacing: .05em;
 		line-height: 20pt;
 		text-align: justify;
@@ -323,11 +319,11 @@ body {font-family: "helveticaneue-thin";}
 		.content_vinyl { position: absolute; 			top: calc(25px); left: calc(((3.33% / 10) * 4) - 1px); margin: auto; }
 			.content_vinyl > a:hover { filter: invert(); }
 		#content_description { position: absolute; 		top: calc(125px + 3px); right: calc(((3.33% / 10) * 4) - 1px); margin: auto; 
-								font-family: h-bold; font-size: 18pt; background-color: black; color: white; border: 0;}
+								font-family: h-bold, Helvetica, sans-serif; font-size: 18pt; background-color: black; color: white; border: 0;}
 			#content_description:hover { background-color: white; color: black; border: 2px solid black; }
 	
 		#lc_content_description { position: absolute; 		top: calc(25px); right: calc(((3.33% / 10) * 4) - 1px); margin: auto; 
-								font-family: h-bold; font-size: 18pt; background-color: black; color: white; border: 0;}
+								font-family: h-bold, Helvetica, sans-serif; font-size: 18pt; background-color: black; color: white; border: 0;}
 			#lc_content_description:hover { background-color: white; color: black; border: 2px solid black; }
 
 	.vicks_body_color {
@@ -461,7 +457,7 @@ body {font-family: "helveticaneue-thin";}
 
 		.vinylviewall {
 			grid-column: 1 / -1;
-			font-family: h-bold;
+			font-family: h-bold, Helvetica, sans-serif;
 			letter-spacing: 0em;
 			font-size: 16pt;
 		} .vinylviewall:hover { background-color: black; font color: white; }
