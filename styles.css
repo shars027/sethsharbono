@@ -216,7 +216,7 @@ body {font-family: "helveticaneue-thin", Helvetica, sans-serif;}
 				top: 0; bottom: 0; margin: auto;
 				max-width: 90%;
 				} 
-				#bio { right: calc(3.33% - 1px); }#menu { left: calc(3.33% + 1px); }
+				#bio { right: calc(3.33% - 1px); } #menu { left: calc(3.33% + 1px); }
 
 .nav_buttons {
 	border: 2px solid black;
