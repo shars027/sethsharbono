@@ -136,7 +136,7 @@ border-style: solid; border-color: black;
 overflow: scroll;
 }
 
-#dialogue {position: absolute; top: 20%; right: 0; left: 0; margin: auto;
+#dialogue {
 padding-left: 11.5%; padding-right: 11.5%; font-size: 14pt; line-height: 20pt; letter-spacing: .05em; font-family: h, Helvetica, sans-serif;
 }
 
@@ -612,19 +612,14 @@ position: absolute;
 top: 0; bottom: 0; left: 0; right: 0; margin: auto;
 max-width: calc(100% - ((3.33% * 2) + 2px));
 } 
+#ani_logo { display: none;}
 
-#intro { height: 25%; }
-#ani_logo { max-width: 90%;}
-
-#intro_dialogue { height: 75%; top: 25%; }
-
-#dialogue {top: 10%;
+#dialogue {
 padding-left: 6.5%; padding-right: 6.5%; font-size: 12pt; line-height: 16pt;
 }
 
 #enter_site { 
-width: 87%;
-bottom: calc(50px); 
+width: 87%; 
 } 
 
 #enter_bio {
@@ -666,13 +661,19 @@ margin-bottom: 10px;
 #content_box {height: calc(100% - 302px); top: 202px;}
 
 .description {font-size: 20pt; bottom: 100px; line-height: 32pt; text-align: left;}
-.dialogue {font-size: 20pt; line-height: 32pt; text-align: left;}
+#dialogue {font-size: 18pt; line-height: 26pt;}
 
 #bio_content_box {height: calc(100% - 202px); top: 202px;}
 
 #bio_box {height: calc(100% - 202px); top: 202px; }
 
 .vinyltitle {font-size: calc(.3vw + 16pt);}
+
+#enter_site {height: 100px; font-size: 24pt; top: calc(50% - 100px - 10px); 
+} 
+
+#enter_bio {height: 100px; font-size: 24pt; top: calc(50% + 10px); 
+}
 
 }
 
