@@ -242,6 +242,25 @@ text-transform: uppercase;
 } 
 .nav_buttons:hover {background-color: black; cursor: pointer; color: white; transition: .2s;}
 
+.v_project_title, .project_title {
+height: calc(50px - 2px - 2px);
+position: absolute; 
+border: 2px solid black;
+font-family: h-bold, Helvetica, sans-serif; text-transform: uppercase; font-size: 14pt;
+background-color: white;
+top: calc(25px); 
+
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+padding-left: 20px;
+padding-right: 20px;
+z-index: 100;
+} 
+.v_project_title {left: calc(((((3.33% / 10) * 4) - 1px) + 50px) + 5px);}
+.project_title {left: calc(((3.33% / 10) * 4) - 1px);}
+
 #menu_box {
 position: fixed;
 width: calc(40% - 2px);
@@ -265,7 +284,7 @@ height: 50px;
 margin-top: 3px;
 width: 100%;
 height: 100%;
-font-family: h-thin, Helvetica, sans-serif; font-size: calc(.5vw + 10pt); line-height: calc(.5vw + 12pt); text-transform: uppercase; letter-spacing: .2em;
+font-family: h-thin, Helvetica, sans-serif; font-size: calc(.5vw + 8pt); line-height: calc(.5vw + 12pt); text-transform: uppercase; letter-spacing: .2em;
 }
 .menu_items:hover {cursor: pointer; color: white; transition: .3s}
 .menu_item_box:hover {background-color: black; cursor: pointer; transition: .3s}
@@ -561,6 +580,10 @@ line-height: 16pt;
 letter-spacing: .075em;
 }
 
+.project_title {
+	left: 10px; right: 10px; top: 10px; border: none; background-color: black; color: white;
+}
+
 #bio_content_box {
 width: 100%;
 height: calc((100% - 102px) / 2);
@@ -679,7 +702,13 @@ margin-bottom: 10px;
 
 .emailme {height: 150px; background-color: white;}
 
-}
+.content_vinyl {width: 100px;}
+
+.v_project_title {height: calc(100px - 2px - 2px); left: calc(((((3.33% / 10) * 4) - 1px) + 100px) + 5px); font-size: 20pt; padding-right: 50px;padding-left: 50px;}
+
+.vinyltitle { height: 100px; }
+
+.project_title { height: 100px; font-size: 20pt;}
 
 
 
