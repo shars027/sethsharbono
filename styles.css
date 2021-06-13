@@ -243,11 +243,11 @@ text-transform: uppercase;
 .nav_buttons:hover {background-color: black; cursor: pointer; color: white; transition: .2s;}
 
 .v_project_title, .project_title {
-height: calc(50px - 2px - 2px);
+height: calc(50px);
 position: absolute; 
-border: 2px solid black;
 font-family: h-bold, Helvetica, sans-serif; text-transform: uppercase; font-size: 14pt;
-background-color: white;
+background-color: black;
+color: white;
 top: calc(25px); 
 
 display: flex;
@@ -704,7 +704,7 @@ margin-bottom: 10px;
 
 .content_vinyl {width: 100px;}
 
-.v_project_title {height: calc(100px - 2px - 2px); left: calc(((((3.33% / 10) * 4) - 1px) + 100px) + 5px); font-size: 20pt; padding-right: 50px;padding-left: 50px;}
+.v_project_title {height: calc(100px); left: calc(((((3.33% / 10) * 4) - 1px) + 100px) + 5px); font-size: 20pt; padding-right: 50px;padding-left: 50px;}
 
 .vinyltitle { height: 100px; }
 
