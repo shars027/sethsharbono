@@ -710,6 +710,9 @@ margin-bottom: 10px;
 .project_title { height: 100px; font-size: 20pt;}
 
 .wilay_description { height: calc((100% - 302px) / 2); overflow-y: scroll;}
+
+#amtracvid {display: none;}
+#mobilevideo {display: block; position: absolute; padding: 50px; font-size: 36pt; text-transform: uppercase; font-family: h-bold; top: 0; bottom: 0; right: 0; left: 0; margin: auto; color: red; text-align: center; display: flex; align-items: center; justify-content: center;}
 }
 
 
