@@ -311,7 +311,7 @@ top: 102px;
 .content_slides {
 position: absolute;
 max-height: calc(100% - 50px);
-max-width: calc(100% - (75px + ((3.33% + 1px) *2)));
+max-width: calc(100% - (75px + ((3.33% + 1px) * 2)));
 top: 0; bottom: 0; left: 0; right: 0; margin: auto;
 }
 
