@@ -3,15 +3,83 @@
 	<head>
 		<title>Seth Sharbono</title>
 		<link rel="stylesheet" type="text/css" href="styles.css">
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript" defer></script>
+		<script src="script.js" type="text/javascript" defer></script>
 	</head>
 	<body>
-		<div id="intro">
-			<video autoplay muted playsinline id="ani_logo"><source src="logo/animation_logo.mp4" type="video/mp4"></video>
-			<img src="logo/focus_logo_short.jpg" id="focus_logo_short">
-		</div>
-		<div id="intro_buttons">
-			<a href="sites/highlights.html" id="enter_site"><div>Project Highlights</div></a>
-			<a href="sites/bio.html" id="enter_bio"><div>Bio</div></a>
+			<div id="web_heading">
+				<div id="nav_bar">
+						<div id="logo_box">
+							<a href="index.html"><img id="focus_logo" src="logo/focus_logo.jpg"></a>
+							<a href="index.html"><img id="focus_logo_short" src="logo/focus_logo_short.jpg"></a>
+						</div>
+						<div id="bio_button_box">
+							<a href="sites/bio.html"><button class="nav_buttons" id="bio">bio</button></a>
+						</div>
+						<div id="project_button_box">
+							<button class="nav_buttons" id="menu" data-text-swap="CLOSE">menu</button>
+						</div>
+				</div>
+			<!-- PLACE COPY -->
+	<div id="menu_box">
+		<div class="menu_item_box"><a href="sites/amtrac.html"><button class="menu_items">AMTRAC</button></a></div>
+		<div class="menu_item_box"><a href="sites/britney.html"><button class="menu_items">Britney Spears</button></a></div>
+		<div class="menu_item_box"><a href="sites/caroleking.html"><button class="menu_items">Carole King In Concert</button></a></div>
+		<div class="menu_item_box"><a href="sites/devil_prada.html"><button class="menu_items">The Devil Wears Prada</button></a></div>
+		<div class="menu_item_box"><a href="sites/londoncalling.html"><button class="menu_items">London Calling Bus Wrap</button></a></div>
+		<div class="menu_item_box"><a href="sites/mc.html"><button class="menu_items">Mariah Carey</button></a></div>
+		<div class="menu_item_box"><a href="sites/mk.html"><button class="menu_items">Midnight Kids</button></a></div>
+		<div class="menu_item_box"><a href="sites/musicprocon.html"><button class="menu_items">Music Production Convention</button></a></div>
+		<div class="menu_item_box"><a href="sites/perpich.html"><button class="menu_items">Perpich Graduation</button></a></div>
+		<div class="menu_item_box"><a href="sites/portraits.html"><button class="menu_items">Portraits</button></a></div>
+		<div class="menu_item_box"><a href="sites/singles.html"><button class="menu_items">Single Artwork</button></a></div>
+		<div class="menu_item_box"><a href="sites/podcasts.html"><button class="menu_items">Sony Podcasts</button></a></div>
+		<div class="menu_item_box"><a href="sites/systematic_type.html"><button class="menu_items">Systematic Typeface</button></a></div>
+		<div class="menu_item_box"><a href="sites/triplay.html"><button class="menu_items">TriPlay</button></a></div>
+		<div class="menu_item_box"><a href="sites/vicks.html"><button class="menu_items">Vicks</button></a></div>
+		<div class="menu_item_box"><a href="sites/vinylmenu.html"><button class="menu_items">Vinyl Packages</button></a></div>
+		<div class="menu_item_box"><a href="sites/wilay.html"><button class="menu_items">When I Look At You</button></a></div>
+		<div class="menu_item_box"><a href="sites/logos.html"><button class="menu_items">Miscellaneous Logos</button></a></div>
+		<div class="menu_item_box"><a href="sites/misc.html"><button class="menu_items">Miscellaneous</button></a></div>
+	</div>
+			<!-- END COPY -->
+			</div>
+		<div id="project_body">
+			<div class="row"> 
+				<div class="column">
+				    <a href="sites/mc.html" class="highlight_link"><img src="projects/highlights/1.jpg"></a>
+				    <a href="sites/podcasts.html" class="highlight_link"><img src="projects/highlights/2.jpg"></a>
+				    <a href="sites/londoncalling.html" class="highlight_link"><img src="projects/highlights/19.jpg"></a>
+				    <a href="sites/podcasts.html" class="highlight_link"><video autoplay loop muted playsinline><source src="projects/highlights/31.mp4" type="video/mp4"></video></a>
+				    <a href="sites/atthemovies.html" class="highlight_link"><img src="projects/highlights/12.jpg"></a>
+				    <a href="sites/triplay.html" class="highlight_link"><img src="projects/highlights/8.jpg"></a>
+				</div>
+				<div class="column">
+					<a href="sites/misc.html" class="highlight_link"><img src="projects/highlights/9.jpg"></a>
+				    <a href="sites/vicks.html" class="highlight_link"><img src="projects/highlights/10.jpg"></a>
+				    <a href="sites/amtrac.html" class="highlight_link"><img src="projects/highlights/11.jpg"></a>
+			    	<a href="sites/systematic_type.html" class="highlight_link"><img src="projects/highlights/5.jpg"></a>
+			    	<a href="sites/mk.html" class="highlight_link"><video autoplay loop muted playsinline><source src="projects/highlights/13.mp4" type="video/mp4"></video></a>
+			    	<a href="sites/britney.html" class="highlight_link"><img src="projects/highlights/14.jpg"></a>
+			    </div>
+				<div class="column">
+					<a href="sites/caroleking.html" class="highlight_link"><img src="projects/highlights/17.jpg"></a>
+				    <a href="sites/logos.html" class="highlight_link"><img src="projects/highlights/18.jpg"></a>
+				    <a href="sites/portraits.html" class="highlight_link"><img src="projects/highlights/3.jpg"></a>
+				    <a href="sites/logos.html" class="highlight_link"><img src="projects/highlights/4.jpg"></a>
+				    <a href="sites/devil_prada.html" class="highlight_link"><img src="projects/highlights/16.jpg"></a>
+    			    <a href="sites/musicprocon.html" class="highlight_link"><img src="projects/highlights/24.jpg"></a>
+    			</div>
+				<div class="column" style="margin-bottom: 10px">
+					<a href="sites/podcasts.html" class="highlight_link"><video autoplay loop muted playsinline><source src="projects/highlights/25.mp4" type="video/mp4"></video></a>
+				    <a href="sites/wilay.html" class="highlight_link"><img src="projects/highlights/26.jpg"></a>
+	   			    <a href="sites/singles.html" class="highlight_link"><img src="projects/highlights/6.jpg"></a>
+	   			    <a href="sites/britney.html" class="highlight_link"><img src="projects/highlights/28.jpg"></a>
+	   			    <a href="sites/singles.html" class="highlight_link"><img src="projects/highlights/20.jpg"></a>
+				    <a href="sites/misc.html" class="highlight_link"><img src="projects/highlights/30.jpg"></a>
+				</div>    
+			  </div>
+			</div>
 		</div>
 	</body>
 </html>
