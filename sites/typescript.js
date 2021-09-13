@@ -1,6 +1,7 @@
 function open1() {
     document.getElementById("mo1").style.display = "block";
     document.getElementById("name").style.position = "fixed";
+    document.getElementById("name").style.color = "white";
 }
 
 function open2() {
@@ -41,6 +42,8 @@ function open8() {
 function open9() {
     document.getElementById("mo9").style.display = "block";
     document.getElementById("name").style.position = "fixed";
+    document.getElementById("name").style.color = "white";
+
 }
 
 function open10() {

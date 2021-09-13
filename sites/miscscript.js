@@ -31,6 +31,8 @@ function open6() {
 function open7() {
     document.getElementById("mo7").style.display = "block";
     document.getElementById("name").style.position = "fixed";
+    document.getElementById("name").style.color = "white";
+
 }
 
 function open8() {

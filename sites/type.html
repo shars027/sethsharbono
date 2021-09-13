@@ -64,7 +64,7 @@
 
 
 	<!-- MODAL -->
-	<div id="mo1" class="modal">
+	<div id="mo1" class="modal" style="background-color: black;">
 		<div class="modalContent">
 			<div class="mySlides ">
 				<img src="../projects/roses/1.jpg">
@@ -116,8 +116,10 @@
 	<div id="mo2" class="modal">
 		<div class="modalContent">
 			<div class="mySlides ">
-				<img src="../projects/bestnew/1.mp4">
-				<div class="caption-container"></div>
+				<video autoplay loop muted playsinline>
+					<source src="../projects/bestnew/1.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
 			</div>
 
 			<span class="close cursor" onclick="closeModal()">CLOSE</span>
