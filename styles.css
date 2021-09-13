@@ -248,6 +248,15 @@ nav ul {
 	padding: 0 5px;
 	margin-bottom: 10px;
 	}
+
+	#name {
+		position: absolute;
+		left: initial; right: 20px; text-align: right; margin: auto;
+		padding-top: 35px;
+		font-family: itc-avant-garde-gothic-pro, sans-serif; font-weight: 700; font-style: normal; text-transform: uppercase; letter-spacing: .25em; font-size: 20px;
+		z-index: 1;
+		white-space: nowrap; color: #1c1c1c;
+	}
 	}
 												
 												
