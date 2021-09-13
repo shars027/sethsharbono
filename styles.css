@@ -162,81 +162,81 @@ nav ul {
 
 		/* MODAL */
 
-											/* The Modal (background) */
-											.modal {
-												display: none;
-												position: fixed;
-												z-index: 0;
-												left: 0;
-												top: 0;
-												padding-top: 90px;
-												width: 100%;
-												height: calc(100% - 90px);
-												background-color: white;
-											}
+		/* The Modal (background) */
+		.modal {
+			display: none;
+			position: fixed;
+			z-index: 0;
+			left: 0;
+			top: 0;
+			padding-top: 90px;
+			width: 100%;
+			height: calc(100% - 90px);
+			background-color: white;
+		}
 
-											.mySlides > img, .mySlides > video {
-												position: fixed;
-												right: 0; left: 0; top: 0; bottom: 0;
-												margin: auto;
-												max-height: calc(100% - 180px);
-												max-width: calc(100% - 40px);
-												border-radius: 5px;
-											}
+		.mySlides > img, .mySlides > video {
+			position: fixed;
+			right: 0; left: 0; top: 0; bottom: 0;
+			margin: auto;
+			max-height: calc(100% - 180px);
+			max-width: calc(100% - 40px);
+			border-radius: 5px;
+		}
 
-											#mo19 div div img {
-												max-height: 100%;
-												max-width: 100%;
-											}
+		#mo19 div div img {
+			max-height: 100%;
+			max-width: 100%;
+		}
 
-											#mo22 div div .caption-container, #mo20 div div .caption-container {
-												color: white;
-											}
+		#mo22 div div .caption-container, #mo20 div div .caption-container {
+			color: white;
+		}
 
-											.mySlides {
-												display:none;
-											}
-											.active-slide {
-												display:block;
-											}
+		.mySlides {
+			display:none;
+		}
+		.active-slide {
+			display:block;
+		}
 
-											.modalThumbs {
-												position: fixed;
-												left: 20px;
-												width: 200px;
-												height: calc(100% - 180px);
-												overflow-y: scroll;
-												border-radius: 5px;
-											}
-											
-											/* .mySlides {
-												display: none;
-											} */
-											
-											.cursor {
-												cursor: crosshair;
-											}
-											
-											.caption-container {
-												position: fixed;
-												bottom: 20px; right: 20px; left: 20px; margin: 0 auto;
-												width: 35%;
-												text-align: center;
-												padding: 15px 25px 15px 25px;
-												color: #1c1c1c;
-												font-size: 16px;
-												user-select: none; -moz-user-select: none;
-											}
-											
-											.demo {
-												opacity: 0.6;
-											}
-											
-											.active,
-											.demo:hover {
-												opacity: 1;
-												transition: .4s;
-											}
+		.modalThumbs {
+			position: fixed;
+			left: 20px;
+			width: 200px;
+			height: calc(100% - 180px);
+			overflow-y: scroll;
+			border-radius: 5px;
+		}
+		
+		/* .mySlides {
+			display: none;
+		} */
+		
+		.cursor {
+			cursor: crosshair;
+		}
+		
+		.caption-container {
+			position: fixed;
+			bottom: 20px; right: 20px; left: 20px; margin: 0 auto;
+			width: 35%;
+			text-align: center;
+			padding: 15px 25px 15px 25px;
+			color: #1c1c1c;
+			font-size: 16px;
+			user-select: none; -moz-user-select: none;
+		}
+		
+		.demo {
+			opacity: 0.6;
+		}
+		
+		.active,
+		.demo:hover {
+			opacity: 1;
+			transition: .4s;
+		}
 
 @media only screen and (max-width: 1000px) {
 	
