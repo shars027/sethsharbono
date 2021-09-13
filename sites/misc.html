@@ -1,136 +1,514 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Seth Sharbono</title>
-		<link rel="stylesheet" type="text/css" href="../styles.css">
-		<script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
-		<script src="../script.js" type="text/javascript"></script>
-	</head>
-	<body>
-			<div id="web_heading">
-				<div id="nav_bar">
-						<div id="logo_box">
-							<a href="../index.html"><img id="focus_logo" src="../logo/focus_logo.jpg"></a>
-							<a href="../index.html"><img id="focus_logo_short" src="../logo/focus_logo_short.jpg"></a>
-						</div>
-						<div id="bio_button_box">
-							<a href="../sites/bio.html"><button class="nav_buttons" id="bio">bio</button></a>
-						</div>
-						<div id="project_button_box">
-							<button class="nav_buttons" id="menu" data-text-swap="CLOSE">menu</button>
-						</div>
-				</div>
-			<!-- PLACE COPY -->
-	<div id="menu_box">
-		<div class="menu_item_box"><a href="amtrac.html"><button class="menu_items">AMTRAC</button></a></div>
-		<div class="menu_item_box"><a href="britney.html"><button class="menu_items">Britney Spears</button></a></div>
-		<div class="menu_item_box"><a href="caroleking.html"><button class="menu_items">Carole King In Concert</button></a></div>
-		<div class="menu_item_box"><a href="devil_prada.html"><button class="menu_items">The Devil Wears Prada</button></a></div>
-		<div class="menu_item_box"><a href="londoncalling.html"><button class="menu_items">London Calling Bus Wrap</button></a></div>
-		<div class="menu_item_box"><a href="mc.html"><button class="menu_items">Mariah Carey</button></a></div>
-		<div class="menu_item_box"><a href="mk.html"><button class="menu_items">Midnight Kids</button></a></div>
-		<div class="menu_item_box"><a href="musicprocon.html"><button class="menu_items">Music Production Convention</button></a></div>
-		<div class="menu_item_box"><a href="perpich.html"><button class="menu_items">Perpich Graduation</button></a></div>
-		<div class="menu_item_box"><a href="portraits.html"><button class="menu_items">Portraits</button></a></div>
-		<div class="menu_item_box"><a href="singles.html"><button class="menu_items">Single Artwork</button></a></div>
-		<div class="menu_item_box"><a href="podcasts.html"><button class="menu_items">Sony Podcasts</button></a></div>
-		<div class="menu_item_box"><a href="systematic_type.html"><button class="menu_items">Systematic Typeface</button></a></div>
-		<div class="menu_item_box"><a href="triplay.html"><button class="menu_items">TriPlay</button></a></div>
-		<div class="menu_item_box"><a href="vicks.html"><button class="menu_items">Vicks</button></a></div>
-		<div class="menu_item_box"><a href="vinylmenu.html"><button class="menu_items">Vinyl Packages</button></a></div>
-		<div class="menu_item_box"><a href="wilay.html"><button class="menu_items">When I Look At You</button></a></div>
-		<div class="menu_item_box"><a href="logos.html"><button class="menu_items">Miscellaneous Logos</button></a></div>
-		<div class="menu_item_box"><a href="misc.html"><button class="menu_items">Miscellaneous</button></a></div>
-	</div>
-			<!-- END COPY -->
+
+<head>
+	<title>Seth Sharbono - Highlights</title>
+	<link rel="stylesheet" type="text/css" href="../styles.css">
+	<link rel="stylesheet" href="https://use.typekit.net/udy7tnc.css">
+	<script src="miscscript.js" type="text/javascript" defer></script>
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<!-- <li id="bio"><a href="about.html" class="mainm">About</a></li> -->
+			<li><a href="#" class="mainm">Miscellaneous</a>
+				<ul>
+					<li class="dropdown"><a href="music.html">Music</a></li>
+					<li class="dropdown"><a href="podcasts.html">Podcasts</a></li>
+					<li class="dropdown"><a href="type.html">Branding + Type</a></li>
+					<li class="dropdown"><a href="motion.html">Motion</a></li>
+					<li class="dropdown"><a href="../index.html">Highlights</a></li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+	<div id="name">Seth Sharbono</div>
+	<div id="project_body">
+		<div class="row">
+			<div class="column">
+				<video autoplay loop muted playsinline onclick="open19();">
+					<source src="../misc/1.mp4" type="video/mp4">
+				</video>
+				<img src="../misc/5.jpg" onclick="open5();">
+				<video autoplay loop muted playsinline onclick="open9();">
+					<source src="../misc/9.mp4" type="video/mp4">
+				</video>
+				<img src="../misc/13.jpg" onclick="open2();">
 			</div>
-		<div id="project_body">
-			<div id="content_box">
-				<div class="project_title">miscellaneous personal projects</div>
-				<div class="slides">
-					<img src="../projects/misc/1.jpg" class="content_slides">
-					<div class="description">
-						Completely random Photoshop experiment. Image from Unsplash.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/2.jpg" class="content_slides">
-					<div class="description">
-						Random design project.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/3.jpg" class="content_slides">
-					<div class="description">
-						Imaging Experimental Assignment &#8212; In my imaging class in college, everyone in the course drew a still life and then cut it up into tiny 1in x 1in squares. We then each had to sift through the squares and make a new image using pieces from everyones' still life. 
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/4.jpg" class="content_slides">
-					<div class="description">
-						Personal Typography Project &#8212; When I graduated from college during the pandemic, I began to miss working on personal projects outside of work. I had found this font concept on Behance called 'Hipster Blackletter' that was incomplete, and lacked consistency between letter forms. I was inspired to rebuild the font from scratch in illustrator and added my own touch to make the font feel sharper and more modern.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/5.jpg" class="content_slides">
-					<div class="description">
-						Photography Assignment &#8212; This was the first Photoshop project I ever worked on back in high school for my Intro to Photography class. It was a long time ago; however, it is part of the foundation of where I am today, so that's why I keep it in my portfolio. 
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/7.jpg" class="content_slides">
-					<div class="description">
-						Personal Project &#8212; When I graduated from college during the pandemic, I found myself wanting to experiment a lot more with imagery. I found this Photoshop plug-in called 'Filter Forge,' which allows you to program custom filters. I experimented around with the different components/variables available, and created this filter that takes flat black and white images and turns them into these colorful chrome images. I thought they were really beautiful and I opened up a Society6 store with the patterns I was creating with my filter. 
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/8.jpg" class="content_slides">
-					<div class="description">
-						Personal Project &#8212; When I graduated from college during the pandemic, I found myself wanting to experiment a lot more with imagery. I found this Photoshop plug-in called 'Filter Forge,' which allows you to program custom filters. I experimented around with the different components/variables available, and created this filter that takes flat black and white images and turns them into these colorful chrome images. I thought they were really beautiful and I opened up a Society6 store with the patterns I was creating with my filter. 
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/9.jpg" class="content_slides">
-					<div class="description">
-						Personal Project &#8212; When I graduated from college during the pandemic, I found myself wanting to experiment a lot more with imagery. I found this Photoshop plug-in called 'Filter Forge,' which allows you to program custom filters. I experimented around with the different components/variables available, and created this filter that takes flat black and white images and turns them into these colorful chrome images. I thought they were really beautiful and I opened up a Society6 store with the patterns I was creating with my filter. 
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/12.jpg" class="content_slides">
-					<div class="description">
-						Imaging Assignment &#8212; In my college imaging class we made portraits inspired by different artists assigned to us. I was assigned Roy Lichtenstein. I utilized his Ben-Day Dots pattern and facial feature black lines, and then to make it my own I collaged together images from different celebrities faces to resemble me.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/13.jpg" class="content_slides">
-					<div class="description">
-						Multi-Media Assignment &#8212; This one is a bit tricky to explain. In one of my studio courses in college we were paired together with a partner and had to make two portraits using unusual methods. I took photographs of each of us and split them into 4 layers of different shades. Then on 4 separate layers of paper, I cut out the different shapes. Using lyrics from songs that we felt best represented ourselves, I printed out the lyrics with different shaded backgrounds. Using a method I learned in another college course, if you douse the printed paper with a product called 'Citrasolv' and rub it against another piece of paper, you can transfer the ink; similar to how temporary tattooes work. 
-					</div>	
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/14.jpg" class="content_slides">
-					<div class="description">
-						Portrait Assignment &#8212; Photography and Photoshop project inspired by Sia's album '1000 Forms of Fear'.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/16.png" class="content_slides">
-					<div class="description">
-						Tyography Assignment &#8212; This is the first ever tyography project I did in high school for my Intro to Graphic Design class. This project was a big moment for me because after the project was done, my teacher pulled me aside and recommended I look into a career in Graphic Design. Voila, look where I am now!
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/misc/17.jpg" class="content_slides">
-					<div class="description">
-						Personal Tyographic Project &#8212; This was the beginning of a font I was creating for fun. The words 'Bad Karma' was used simply because that was the name of a Miley Cyrus and Joan Jett song that had just been released. 
-					</div>
-				</div>
+			<div class="column">
+				<img src="../misc/2.jpg" onclick="open2();">
+				<img src="../misc/6.jpg" onclick="open6();">
+				<img src="../misc/10.jpg" onclick="open10();">
+				<img src="../misc/14.jpg" onclick="open14();">
 			</div>
-			<div class="content_buttons">
-				<button class="arrows" id="content_description" data-text-swap="X">?</button>
-				<button class="content_left_arrow arrows" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="content_right_arrow arrows" onclick="plusDivs(1)">&#10095;</button>
+			<div class="column">
+				<img src="../misc/3.jpg" onclick="open3();">
+				<img src="../misc/7.jpg" onclick="open7();">
+				<img src="../misc/11.jpg" onclick="open11();">
+				<img src="../misc/15.jpg" onclick="open2();">
+			</div>
+			<div class="column" style="margin-bottom: 10px">
+				<img src="../misc/4.jpg" onclick="open4();">
+				<img src="../misc/8.jpg" onclick="open8();">
+				<img src="../misc/12.jpg" onclick="open12();">
+				<a href="../projects/systematictype/index.html" target="_blank" rel="noopener noreferrer"><video
+						autoplay loop muted playsinline>
+						<source src="../misc/16.mp4" type="video/mp4">
+					</video></a>
 			</div>
 		</div>
-	</body>
+	</div>
+
+
+
+
+	<!-- MODAL -->
+	<div id="mo19" class="modal" style="background-color: rgb(230, 230, 230);">
+		<div class="modalContent">
+			<div class="mySlides">
+				<img src="../projects/wilay/1.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/2.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/3.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/4.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/5.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/6.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/7.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/8.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/9.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/10.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/11.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/12.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/13.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/14.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/15.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/16.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/17.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/18.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/wilay/19.png">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+	<div id="mo2" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/misc/1.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/misc/2.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/misc/3.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+	<div id="mo3" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/coastal/1.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/coastal/2.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+
+	<div id="mo4" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/misc/4.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo5" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/misc/5.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo6" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/1.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>=
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo7" class="modal">
+		<div class="modalContent">
+			<div class="modalContent">
+				<div class="mySlides ">
+					<img src="../projects/roses/1.jpg">
+					<div class="caption-container">Caption Text</div>
+				</div>
+				<div class="mySlides ">
+					<img src="../projects/roses/2.jpg">
+					<div class="caption-container">Caption Text</div>
+				</div>
+				<div class="mySlides">
+					<video autoplay loop muted playsinline>
+						<source src="../projects/roses/3.mp4" type="video/mp4">
+						<div class="caption-container">Caption Four</div>
+					</video>
+				</div>
+				<div class="mySlides ">
+					<img src="../projects/roses/4.jpg">
+					<div class="caption-container">Caption Text</div>
+				</div>
+				<div class="mySlides ">
+					<img src="../projects/roses/5.jpg">
+					<div class="caption-container">Caption Text</div>
+				</div>
+				<div class="mySlides ">
+					<img src="../projects/roses/6.jpg">
+					<div class="caption-container">Caption Text</div>
+				</div>
+				<div class="mySlides ">
+					<img src="../projects/roses/7.jpg">
+					<div class="caption-container">Caption Text</div>
+				</div>
+				<div class="mySlides ">
+					<img src="../projects/roses/8.jpg">
+					<div class="caption-container">Caption Text</div>
+				</div>
+				<div class="mySlides ">
+					<img src="../projects/roses/9.jpg">
+					<div class="caption-container">Caption Text</div>
+				</div>
+
+				<a class="prev">&#9650;</a>
+				<a class="next">&#9660;</a>
+
+				<span class="close cursor" onclick="closeModal()">CLOSE</span>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo8" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/devil_prada/1.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/devil_prada/2.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/devil_prada/3.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/devil_prada/4.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/devil_prada/5.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/devil_prada/6.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/devil_prada/7.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/devil_prada/8.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo9" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/portraits/1.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/2.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/3.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/4.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo10" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<img src="../projects/misc/6.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo11" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/misc/7.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo12" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/misc/8.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo14" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/misc/9.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo14" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/1.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo15" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="../projects/mk/1.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="../projects/mk/2.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="../projects/mk/3.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/mk/4.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/mk/5.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev" onclick="offSound();">&#9650;</a>
+			<a class="next" onclick="offSound();"">&#9660;</a>
+
+			<span class=" close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo16" class="modal" style="background-color: rgb(179, 179, 179);">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/portraits/1.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/2.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/3.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/4.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+</body>
+
 </html>

@@ -1,85 +1,829 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Seth Sharbono</title>
-		<link rel="stylesheet" type="text/css" href="styles.css">
-		<script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript" defer></script>
-		<script src="script.js" type="text/javascript" defer></script>
-	</head>
-	<body>
-			<div id="web_heading">
-				<div id="nav_bar">
-						<div id="logo_box">
-							<a href="index.html"><img id="focus_logo" src="logo/focus_logo.jpg"></a>
-							<a href="index.html"><img id="focus_logo_short" src="logo/focus_logo_short.jpg"></a>
-						</div>
-						<div id="bio_button_box">
-							<a href="sites/bio.html"><button class="nav_buttons" id="bio">bio</button></a>
-						</div>
-						<div id="project_button_box">
-							<button class="nav_buttons" id="menu" data-text-swap="CLOSE">menu</button>
-						</div>
-				</div>
-			<!-- PLACE COPY -->
-	<div id="menu_box">
-		<div class="menu_item_box"><a href="sites/amtrac.html"><button class="menu_items">AMTRAC</button></a></div>
-		<div class="menu_item_box"><a href="sites/britney.html"><button class="menu_items">Britney Spears</button></a></div>
-		<div class="menu_item_box"><a href="sites/caroleking.html"><button class="menu_items">Carole King In Concert</button></a></div>
-		<div class="menu_item_box"><a href="sites/devil_prada.html"><button class="menu_items">The Devil Wears Prada</button></a></div>
-		<div class="menu_item_box"><a href="sites/londoncalling.html"><button class="menu_items">London Calling Bus Wrap</button></a></div>
-		<div class="menu_item_box"><a href="sites/mc.html"><button class="menu_items">Mariah Carey</button></a></div>
-		<div class="menu_item_box"><a href="sites/mk.html"><button class="menu_items">Midnight Kids</button></a></div>
-		<div class="menu_item_box"><a href="sites/musicprocon.html"><button class="menu_items">Music Production Convention</button></a></div>
-		<div class="menu_item_box"><a href="sites/perpich.html"><button class="menu_items">Perpich Graduation</button></a></div>
-		<div class="menu_item_box"><a href="sites/portraits.html"><button class="menu_items">Portraits</button></a></div>
-		<div class="menu_item_box"><a href="sites/singles.html"><button class="menu_items">Single Artwork</button></a></div>
-		<div class="menu_item_box"><a href="sites/podcasts.html"><button class="menu_items">Sony Podcasts</button></a></div>
-		<div class="menu_item_box"><a href="sites/systematic_type.html"><button class="menu_items">Systematic Typeface</button></a></div>
-		<div class="menu_item_box"><a href="sites/triplay.html"><button class="menu_items">TriPlay</button></a></div>
-		<div class="menu_item_box"><a href="sites/vicks.html"><button class="menu_items">Vicks</button></a></div>
-		<div class="menu_item_box"><a href="sites/vinylmenu.html"><button class="menu_items">Vinyl Packages</button></a></div>
-		<div class="menu_item_box"><a href="sites/wilay.html"><button class="menu_items">When I Look At You</button></a></div>
-		<div class="menu_item_box"><a href="sites/logos.html"><button class="menu_items">Miscellaneous Logos</button></a></div>
-		<div class="menu_item_box"><a href="sites/misc.html"><button class="menu_items">Miscellaneous</button></a></div>
-	</div>
-			<!-- END COPY -->
+
+<head>
+	<title>Seth Sharbono - Highlights</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link rel="stylesheet" href="https://use.typekit.net/udy7tnc.css">
+	<script src="script.js" type="text/javascript" defer></script>
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<!-- <li id="bio"><a href="sites/about.html" class="mainm">About</a></li> -->
+			<li><a href="#" class="mainm">Project Highlights</a>
+				<ul>
+					<li class="dropdown"><a href="sites/music.html">Music</a></li>
+					<li class="dropdown"><a href="sites/podcasts.html">Podcasts</a></li>
+					<li class="dropdown"><a href="sites/type.html">Branding + Type</a></li>
+					<li class="dropdown"><a href="sites/motion.html">Motion</a></li>
+					<li class="dropdown"><a href="sites/misc.html">Miscellaneous</a></li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+	<div id="name">Seth Sharbono</div>
+	<div id="project_body">
+		<div class="row">
+			<div class="column">
+				<img src="highlights/1.jpg" onclick="open1();">
+				<img src="highlights/5.jpg" onclick="open5();">
+				<img src="highlights/9.jpg" onclick="open9();">
+				<img src="highlights/13.jpg" onclick="open13();">
+				<video autoplay loop muted playsinline onclick="open19();">
+					<source src="highlights/19.mp4" type="video/mp4">
+				</video>
+				<img src="highlights/21.jpg" onclick="open21();">
 			</div>
-		<div id="project_body">
-			<div class="row"> 
-				<div class="column">
-				    <a href="sites/mc.html" class="highlight_link"><img src="projects/highlights/1.jpg"></a>
-				    <a href="sites/podcasts.html" class="highlight_link"><img src="projects/highlights/2.jpg"></a>
-				    <a href="sites/londoncalling.html" class="highlight_link"><img src="projects/highlights/19.jpg"></a>
-				    <a href="sites/podcasts.html" class="highlight_link"><video autoplay loop muted playsinline><source src="projects/highlights/31.mp4" type="video/mp4"></video></a>
-				    <a href="sites/atthemovies.html" class="highlight_link"><img src="projects/highlights/12.jpg"></a>
-				    <a href="sites/triplay.html" class="highlight_link"><img src="projects/highlights/8.jpg"></a>
-				</div>
-				<div class="column">
-					<a href="sites/misc.html" class="highlight_link"><img src="projects/highlights/9.jpg"></a>
-				    <a href="sites/vicks.html" class="highlight_link"><img src="projects/highlights/10.jpg"></a>
-				    <a href="sites/amtrac.html" class="highlight_link"><img src="projects/highlights/11.jpg"></a>
-			    	<a href="sites/systematic_type.html" class="highlight_link"><img src="projects/highlights/5.jpg"></a>
-			    	<a href="sites/mk.html" class="highlight_link"><video autoplay loop muted playsinline><source src="projects/highlights/13.mp4" type="video/mp4"></video></a>
-			    	<a href="sites/britney.html" class="highlight_link"><img src="projects/highlights/14.jpg"></a>
-			    </div>
-				<div class="column">
-					<a href="sites/caroleking.html" class="highlight_link"><img src="projects/highlights/17.jpg"></a>
-				    <a href="sites/logos.html" class="highlight_link"><img src="projects/highlights/18.jpg"></a>
-				    <a href="sites/portraits.html" class="highlight_link"><img src="projects/highlights/3.jpg"></a>
-				    <a href="sites/logos.html" class="highlight_link"><img src="projects/highlights/4.jpg"></a>
-				    <a href="sites/devil_prada.html" class="highlight_link"><img src="projects/highlights/16.jpg"></a>
-    			    <a href="sites/musicprocon.html" class="highlight_link"><img src="projects/highlights/24.jpg"></a>
-    			</div>
-				<div class="column" style="margin-bottom: 10px">
-					<a href="sites/podcasts.html" class="highlight_link"><video autoplay loop muted playsinline><source src="projects/highlights/25.mp4" type="video/mp4"></video></a>
-				    <a href="sites/wilay.html" class="highlight_link"><img src="projects/highlights/26.jpg"></a>
-	   			    <a href="sites/singles.html" class="highlight_link"><img src="projects/highlights/6.jpg"></a>
-	   			    <a href="sites/britney.html" class="highlight_link"><img src="projects/highlights/28.jpg"></a>
-	   			    <a href="sites/singles.html" class="highlight_link"><img src="projects/highlights/20.jpg"></a>
-				    <a href="sites/misc.html" class="highlight_link"><img src="projects/highlights/30.jpg"></a>
-				</div>    
-			  </div>
+			<div class="column">
+				<img src="highlights/2.jpg" onclick="open2();">
+				<a href="projects/systematictype/index.html" target="_blank" rel="noopener noreferrer"><video autoplay
+						loop muted playsinline>
+						<source src="highlights/6.mp4" type="video/mp4">
+					</video></a>
+				<video autoplay loop muted playsinline onclick="open10();">
+					<source src="highlights/10.mp4" type="video/mp4">
+				</video>
+				<img src="highlights/14.jpg" onclick="open14();">
+				<img src="highlights/18.jpg" onclick="open18();">
+				<img src="highlights/22.jpg" onclick="open22();">
+			</div>
+			<div class="column">
+				<img src="highlights/3.jpg" onclick="open3();">
+				<img src="highlights/7.jpg" onclick="open7();">
+				<img src="highlights/11.jpg" onclick="open11();">
+				<video autoplay loop muted playsinline onclick="open15();">
+					<source src="highlights/15.mp4" type="video/mp4">
+				</video>
+				<img src="highlights/17.jpg" onclick="open17();">
+				<img src="highlights/23.jpg" onclick="open23();">
+			</div>
+			<div class="column" style="margin-bottom: 10px">
+				<video autoplay loop muted playsinline onclick="open4();">
+					<source src="highlights/4.mp4" type="video/mp4">
+				</video>
+				<img src="highlights/8.jpg" onclick="open8();">
+				<img src="highlights/12.jpg" onclick="open12();">
+				<video autoplay loop muted playsinline onclick="open16();">
+					<source src="highlights/16.mp4" type="video/mp4">
+				</video>
+				<img src="highlights/20.jpg" onclick="open20();">
+				<video autoplay loop muted playsinline onclick="open24();">
+					<source src="highlights/24.mp4" type="video/mp4">
+				</video>
 			</div>
 		</div>
-	</body>
+	</div>
+
+
+
+
+	<!-- MODAL -->
+	<div id="mo1" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<img src="projects/mc/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/2.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/3.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/4.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/5.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/6.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/7.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/8.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/9.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/10.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/11.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/12.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/13.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/14.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/15.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/16.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/17.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/18.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/19.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/20.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<img src="projects/mc/21.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<video controls preload="auto">
+					<source src="projects/mc/22.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+		</div>
+	</div>
+
+
+	<div id="mo2" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/type/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+	<div id="mo3" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/vinyl/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vinyl/2.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vinyl/3.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+
+	<div id="mo4" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video autoplay loop muted playsinline">
+					<source src="projects/podcasts/1.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src="projects/podcasts/2.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo5" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/vinyl/4.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vinyl/5.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vinyl/6.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo7" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/podcasts/3.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/4.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/5.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo8" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/singles/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo9" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/podcasts/6.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/7.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/8.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/9.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/10.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/11.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/12.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/podcasts/13.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo10" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src="projects/amtrac/1.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/amtrac/2.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src="projects/amtrac/3.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo11" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/vinyl/7.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vinyl/8.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo12" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/singles/2.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo13" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/singles/3.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/singles/4.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo14" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo15" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="projects/mk/1.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="projects/mk/2.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="projects/mk/3.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/mk/4.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/mk/5.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev" onclick="offSound();">&#9650;</a>
+			<a class="next" onclick="offSound();"">&#9660;</a>
+
+			<span class=" close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo16" class="modal" style="background-color: rgb(179, 179, 179);">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/portraits/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/portraits/2.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/portraits/3.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/portraits/4.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo17" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/triplay/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/triplay/2.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/triplay/3.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/triplay/4.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo18" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/podcasts/14.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo19" class="modal" style="background-color: rgb(230, 230, 230);">
+		<div class="modalContent">
+			<div class="mySlides">
+				<img src="projects/wilay/1.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/2.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/3.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/4.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/5.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/6.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/7.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/8.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/9.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/10.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/11.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/12.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/13.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/14.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/15.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/16.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/17.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/18.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/wilay/19.png">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo20" class="modal" style="background-color: black;">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/type/2.png">
+				<div class="caption-container"></div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo21" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/type/3.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo22" class="modal" style="background-color: black;">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/roses/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/roses/2.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src="projects/roses/3.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/roses/4.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/roses/5.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/roses/6.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/roses/7.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/roses/8.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/roses/9.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo23" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="projects/misc/1.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/misc/2.jpg">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/misc/3.jpg">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo24" class="modal" style="background-color: #f4efe9;">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src="projects/vicks/1.mp4" type="video/mp4">
+					<div class="caption-container"></div>
+				</video>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/2.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/3.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/4.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/5.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/6.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/7.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/8.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/9.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/10.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/11.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/12.png">
+				<div class="caption-container"></div>
+			</div>
+			<div class="mySlides ">
+				<img src="projects/vicks/13.png">
+				<div class="caption-container"></div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+</body>
+
 </html>

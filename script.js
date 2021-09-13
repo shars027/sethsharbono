@@ -1,61 +1,205 @@
-$(document).ready(function(){
-	$("#menu").click(function() {
-		$("#menu_box").toggle();
-
-		var el = $(this);
-			if (el.text() == el.data("text-swap")) {
-				el.text(el.data("text-original"));
-			} else {
-				el.data("text-original", el.text());
-				el.text(el.data("text-swap"));
-			}
-	});
-
-	$("#content_description").click(function() {
-		$(".description").toggle();
-
-		var el = $(this);
-			if (el.text() == el.data("text-swap")) {
-				el.text(el.data("text-original"));
-			} else {
-				el.data("text-original", el.text());
-				el.text(el.data("text-swap"));
-			}
-	});
-
-	$("#lc_content_description").click(function() {
-	$(".description").toggle();
-
-	var el = $(this);
-		if (el.text() == el.data("text-swap")) {
-			el.text(el.data("text-original"));
-		} else {
-			el.data("text-original", el.text());
-			el.text(el.data("text-swap"));
-		}
-});
-
-});
-
-
-var slideIndex = 1;
-showDivs(slideIndex);
-
-
-function plusDivs(n) {
-	showDivs(slideIndex += n);
-	$('.vid').each(function() {
-		$(this).get(0).pause();
-	});
+function open1() {
+    document.getElementById("mo1").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
 }
 
-function showDivs(n) {
-	var i;
-	var x = document.getElementsByClassName("slides");
-	if (n > x.length) {slideIndex = 1} 
-	if (n < 1) {slideIndex = x.length} ;
-	for (i = 0; i < x.length; i++) {
-	x[i].style.display = "none"; 
-	}
-	x[slideIndex-1].style.display = "block"; 
+function open2() {
+    document.getElementById("mo2").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
 }
+
+function open3() {
+    document.getElementById("mo3").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open4() {
+    document.getElementById("mo4").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open5() {
+    document.getElementById("mo5").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open6() {
+    document.getElementById("mo6").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open7() {
+    document.getElementById("mo7").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open8() {
+    document.getElementById("mo8").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open9() {
+    document.getElementById("mo9").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open10() {
+    document.getElementById("mo10").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open11() {
+    document.getElementById("mo11").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open12() {
+    document.getElementById("mo12").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open13() {
+    document.getElementById("mo13").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open14() {
+    document.getElementById("mo14").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open15() {
+    document.getElementById("mo15").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open16() {
+    document.getElementById("mo16").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open17() {
+    document.getElementById("mo17").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open18() {
+    document.getElementById("mo18").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open19() {
+    document.getElementById("mo19").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open20() {
+    document.getElementById("mo20").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+    document.getElementById("name").style.color = "white";
+
+}
+
+function open21() {
+    document.getElementById("mo21").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open22() {
+    document.getElementById("mo22").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+    document.getElementById("name").style.color = "white";
+}
+
+function open23() {
+    document.getElementById("mo23").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+function open24() {
+    document.getElementById("mo24").style.display = "block";
+    document.getElementById("name").style.position = "fixed";
+}
+
+
+
+
+function closeModal() {
+    document.getElementById("name").style.position = "absolute";
+    document.getElementById("mo1").style.display = "none";
+    document.getElementById("mo2").style.display = "none";
+    document.getElementById("mo3").style.display = "none";
+    document.getElementById("mo4").style.display = "none";
+    document.getElementById("mo5").style.display = "none";
+    // document.getElementById("mo6").style.display = "none";
+    document.getElementById("mo7").style.display = "none";
+    document.getElementById("mo8").style.display = "none";
+    document.getElementById("mo9").style.display = "none";
+    document.getElementById("mo10").style.display = "none";
+    document.getElementById("mo11").style.display = "none";
+    document.getElementById("mo12").style.display = "none";
+    document.getElementById("mo13").style.display = "none";
+    document.getElementById("mo14").style.display = "none";
+    document.getElementById("mo15").style.display = "none";
+    document.getElementById("mo16").style.display = "none";
+    document.getElementById("mo17").style.display = "none";
+    document.getElementById("mo18").style.display = "none";
+    document.getElementById("mo19").style.display = "none";
+    document.getElementById("mo20").style.display = "none";
+    document.getElementById("mo21").style.display = "none";
+    document.getElementById("mo22").style.display = "none";
+    document.getElementById("mo23").style.display = "none";
+    document.getElementById("mo24").style.display = "none";
+    document.getElementById("name").style.color = "#1c1c1c";
+}
+
+(function () {
+
+    init(); //on page load - show first slide, hidethe rest
+
+    function init() {
+
+        parents = document.getElementsByClassName('modalContent');
+
+        for (j = 0; j < parents.length; j++) {
+            var slides = parents[j].getElementsByClassName("mySlides");
+            slides[0].classList.add('active-slide');
+        }
+    }
+
+    //prev/next functionality
+    links = document.querySelectorAll('.modalContent a');
+
+    for (i = 0; i < links.length; i++) {
+        links[i].onclick = function () {
+
+            current = this.parentNode;
+
+            var slides = current.getElementsByClassName("mySlides");
+            curr_slide = current.getElementsByClassName('active-slide')[0];
+            curr_slide.classList.remove('active-slide');
+
+            if (this.className == 'next') {
+
+                if (curr_slide.nextElementSibling.classList.contains('mySlides')) {
+                    curr_slide.nextElementSibling.classList.add('active-slide');
+                } else {
+                    slides[0].classList.add('active-slide');
+                }
+
+            }
+
+            if (this.className == 'prev') {
+
+                if (curr_slide.previousElementSibling) {
+                    curr_slide.previousElementSibling.classList.add('active-slide');
+                } else {
+                    slides[slides.length - 1].classList.add('active-slide');
+                }
+
+            }
+
+        }
+
+    }
+})();

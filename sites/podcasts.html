@@ -1,175 +1,510 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Seth Sharbono</title>
-		<link rel="stylesheet" type="text/css" href="../styles.css">
 
-		<script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
-		<script src="../script.js" type="text/javascript"></script>
-	</head>
-	<body>
-			<div id="web_heading">
-				<div id="nav_bar">
-						<div id="logo_box">
-							<a href="../index.html"><img id="focus_logo" src="../logo/focus_logo.jpg"></a>
-							<a href="../index.html"><img id="focus_logo_short" src="../logo/focus_logo_short.jpg"></a>
-						</div>
-						<div id="bio_button_box">
-							<a href="../sites/bio.html"><button class="nav_buttons" id="bio">bio</button></a>
-						</div>
-						<div id="project_button_box">
-							<button class="nav_buttons" id="menu" data-text-swap="CLOSE">menu</button>
-						</div>
-				</div>
-			<!-- PLACE COPY -->
-	<div id="menu_box">
-		<div class="menu_item_box"><a href="amtrac.html"><button class="menu_items">AMTRAC</button></a></div>
-		<div class="menu_item_box"><a href="britney.html"><button class="menu_items">Britney Spears</button></a></div>
-		<div class="menu_item_box"><a href="caroleking.html"><button class="menu_items">Carole King In Concert</button></a></div>
-		<div class="menu_item_box"><a href="devil_prada.html"><button class="menu_items">The Devil Wears Prada</button></a></div>
-		<div class="menu_item_box"><a href="londoncalling.html"><button class="menu_items">London Calling Bus Wrap</button></a></div>
-		<div class="menu_item_box"><a href="mc.html"><button class="menu_items">Mariah Carey</button></a></div>
-		<div class="menu_item_box"><a href="mk.html"><button class="menu_items">Midnight Kids</button></a></div>
-		<div class="menu_item_box"><a href="musicprocon.html"><button class="menu_items">Music Production Convention</button></a></div>
-		<div class="menu_item_box"><a href="perpich.html"><button class="menu_items">Perpich Graduation</button></a></div>
-		<div class="menu_item_box"><a href="portraits.html"><button class="menu_items">Portraits</button></a></div>
-		<div class="menu_item_box"><a href="singles.html"><button class="menu_items">Single Artwork</button></a></div>
-		<div class="menu_item_box"><a href="podcasts.html"><button class="menu_items">Sony Podcasts</button></a></div>
-		<div class="menu_item_box"><a href="systematic_type.html"><button class="menu_items">Systematic Typeface</button></a></div>
-		<div class="menu_item_box"><a href="triplay.html"><button class="menu_items">TriPlay</button></a></div>
-		<div class="menu_item_box"><a href="vicks.html"><button class="menu_items">Vicks</button></a></div>
-		<div class="menu_item_box"><a href="vinylmenu.html"><button class="menu_items">Vinyl Packages</button></a></div>
-		<div class="menu_item_box"><a href="wilay.html"><button class="menu_items">When I Look At You</button></a></div>
-		<div class="menu_item_box"><a href="logos.html"><button class="menu_items">Miscellaneous Logos</button></a></div>
-		<div class="menu_item_box"><a href="misc.html"><button class="menu_items">Miscellaneous</button></a></div>
-	</div>
-			<!-- END COPY -->
+<head>
+	<title>Seth Sharbono - Highlights</title>
+	<link rel="stylesheet" type="text/css" href="../styles.css">
+	<link rel="stylesheet" href="https://use.typekit.net/udy7tnc.css">
+	<script src="podcastscript.js" type="text/javascript" defer></script>
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<!-- <li id="bio"><a href="sites/about.html" class="mainm">About</a></li> -->
+			<li><a href="#" class="mainm">Podcasts</a>
+				<ul>
+					<li class="dropdown"><a href="music.html">Music</a></li>
+					<li class="dropdown"><a href="type.html">Branding + Type</a></li>
+					<li class="dropdown"><a href="motion.html">Motion</a></li>
+					<li class="dropdown"><a href="../index.html">Highlights</a></li>
+					<li class="dropdown"><a href="misc.html">Miscellaneous</a></li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+	<div id="name">Seth Sharbono</div>
+	<div id="project_body">
+		<div class="row">
+			<div class="column">
+				<img src="../podcasts/1.jpg" onclick="open1();">
+				<video autoplay loop muted playsinline onclick="open5();">
+					<source src="../podcasts/5.mp4" type="video/mp4">
+				</video>
+				<video autoplay loop muted playsinline onclick="open9();">
+					<source src="../podcasts/9.mp4" type="video/mp4">
+				</video>
+				<img src="../podcasts/13.jpg" onclick="open13();">
+				<video autoplay loop muted playsinline onclick="open5();">
+					<source src="../podcasts/17.mp4" type="video/mp4">
+				</video>
+				<img src="../podcasts/21.jpg" onclick="open4();">
 			</div>
-		<div id="project_body">
-			<div id="content_box">
-				<div class="project_title">sony podcasts</div>
-				<div class="slides">
-					<img src="../projects/podcasts/1.jpg" class="content_slides">
-					<div class="description">
-						Tile Art Design &#8212; This tile art design is pretty cryptic if you're unfamiliar with the story. An arsonist was apprehended for starting several fires in LA (one of which was fatal) after a film script began circulating in Hollywood with eerily similar details to the string of fires he started. 
-					</div>
-				</div>				
-				<div class="slides not1">
-					<img src="../projects/podcasts/2.gif" class="content_slides">
-					<div class="description">
-						Tile Art Gifs &#8212; This tile art was created by the production company, I then animated the artwork for social media promotion.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/3.jpg" class="content_slides">
-					<div class="description">
-						Tile Art Design
-					</div>
-				</div>				
-				<div class="slides not1">
-					<img src="../projects/podcasts/4.jpg" class="content_slides">
-					<div class="description">
-						Tile Art Design &#8212; The image on the left was the season 1 artwork designed by the incredibly talented Jeff Schulz. I designed the Season 2 artwork using identical treatments.
-					</div>
-				</div>
-				<div class="slides not1">
-				    <video autoplay loop muted playsinline class="content_slides">
-				    	<source src="../projects/podcasts/5.mp4" type="video/mp4" preload="auto">
-				    </video>			  	
-					<div class="description">
-						Tile Art Gifs &#8212; Animations of my tile art design for social media promotion.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/6.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept &#8212; This podcast tells the story of a serial killer from the Bay Area in the 70s who targeted closeted gay men. He got his moniker because he lured men in by sketching their portraits in gay bars. He has never been caught since many of his targets that got away refused to participate in the investigation because they didn't want their sexuality to become public. For this specific comp, I did some research with Getty Images and found an image that was taken at a gay bar in the area he targeted that was taken around the time of the killings. I did some photo editing to distort their faces since a big factor in the story was going to be about the anonymity of his targets. 
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/7.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept &#8212; This was another comp I did that I really liked. The imagery from this comp was focused on where the victims bodies were found (on beaches around the bay area).
-					</div>
-				</div>
-				<div class="slides not1">
-				    <video autoplay loop muted playsinline class="content_slides">
-				    	<source src="../projects/podcasts/9.mp4" type="video/mp4" preload="auto">
-				    </video>			  	
-					<div class="description">
-						Tile Art Gifs &#8212; This tile art was created by the amazing Annie Stoll, I then animated the artwork for social media promotion.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/10.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept &#8212; The tile art on the left was created by the amazing Annie Stoll for Season 1. The tile art on the right was originally approved for Season 2, the story of a controversial tech businessman and spiritual guru. I had designed this concept and worked with Annie who helped illustrate the silhouette in the same style as her Season 1 art. They ultimately decided to divest from the illustration style of the first season as they wanted to attract more of a true crime audience.
-					</div>
-				</div>
-				<div class="slides not1">
-					<video controls class="content_slides vid" preload="auto">
-							<source src="../projects/podcasts/11.mp4" type="video/mp4">
-					</video>
-					<div class="description">
-						Video Teaser &#8212; I animated the tile art for Seasons 1 and 2 with minimal typography for social media promotion. 
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/12.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/13.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/14.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept
-					</div>
-				</div>
-				<div class="slides not1">
-					<video autoplay loop muted playsinline class="content_slides" preload="auto">
-							<source src="../projects/podcasts/15.mp4" type="video/mp4">
-					</video>
-					<div class="description">
-						Tile Art Gifs &#8212; This tile art was created by the production company, I then animated the artwork for social media promotion.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/16.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept &#8212; This show was a summer spin-off of a successful children's podcast. The image on the left is the original tile art. They requested we follow their brand guidelines with specific fonts and their color palette. I went for the camp badge direction. I liked how simple and clean it was and how it complimented the production company's other show art.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/17.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept &#8212; This show was a summer spin-off of a successful children's podcast. The image on the left is the original tile art. They requested we follow their brand guidelines with specific fonts and their color palette. I went for the camp badge direction. I liked how simple and clean it was and how it complimented the production company's other show art.
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/18.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept &#8212; This was a comp they turned down for Firebug. Another one of the twists in the story is that the arsonist was the lead arson investigator. I liked this comp because the reflection of the fire in the badge subtly communicates that part of the story. 
-					</div>
-				</div>
-				<div class="slides not1">
-					<img src="../projects/podcasts/19.jpg" class="content_slides">
-					<div class="description">
-						Unpublished Tile Art Concept &#8212; This comp was more broad, it didn't focus on the investigator or the manuscript, but just emphasized that the story took place in LA.
-					</div>
-				</div>
+			<div class="column">
+				<img src="../podcasts/2.jpg" onclick="open2();">
+				<img src="../podcasts/6.jpg" onclick="open6();">
+				<img src="../podcasts/10.jpg" onclick="open10();">
+				<img src="../podcasts/14.jpg" onclick="open9();">
+				<img src="../podcasts/18.jpg" onclick="open18();">
+				<img src="../podcasts/22.jpg" onclick="open2();">
 			</div>
-			<div class="content_buttons">
-				<button class="arrows" id="content_description" data-text-swap="X">?</button>
-				<button class="content_left_arrow arrows" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="content_right_arrow arrows" onclick="plusDivs(1)">&#10095;</button>
+			<div class="column">
+				<video autoplay loop muted playsinline onclick="open3();">
+					<source src="../podcasts/3.mp4" type="video/mp4">
+				</video>
+				<img src="../podcasts/7.jpg" onclick="open7();">
+				<img src="../podcasts/11.jpg" onclick="open11();">
+				<img src="../podcasts/15.jpg" onclick="open4();">
+				<img src="../podcasts/19.jpg" onclick="open19();">
+				<img src="../podcasts/23.jpg" onclick="open13();">
+			</div>
+			<div class="column" style="margin-bottom: 10px">
+				<img src="../podcasts/4.jpg" onclick="open4();">
+				<img src="../podcasts/8.jpg" onclick="open8();">
+				<img src="../podcasts/12.jpg" onclick="open1();">
+				<video autoplay loop muted playsinline onclick="open16();">
+					<source src="../podcasts/16.mp4" type="video/mp4">
+				</video>
+				<img src="../podcasts/20.jpg" onclick="open7();">
+				<img src="../podcasts/24.jpg" onclick="open24();">
+
 			</div>
 		</div>
-	</body>
+	</div>
+
+
+
+
+	<!-- MODAL -->
+	<div id="mo1" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<img src="../projects/podcasts/15.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides">
+				<img src="../projects/podcasts/16.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+	<div id="mo2" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/17.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/18.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+	<div id="mo3" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/19.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline">
+					<source src="../projects/podcasts/20.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline">
+					<source src="../projects/podcasts/21.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+
+	<div id="mo4" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/3.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/4.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/5.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo5" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video controls preload="auto">
+					<source src=" ../projects/podcasts/22.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src=" ../projects/podcasts/28.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src=" ../projects/podcasts/29.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo6" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/23.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src=" ../projects/podcasts/24.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+	<div id="mo7" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/25.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/26.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo8" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/27.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo9" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src=" ../projects/podcasts/30.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src=" ../projects/podcasts/31.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/32.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo10" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/33.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo11" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/12.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/13.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo13" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/34.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/35.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo16" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src=" ../projects/podcasts/1.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video autoplay loop muted playsinline>
+					<source src=" ../projects/podcasts/2.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo15" class="modal">
+		<div class="modalContent">
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="../projects/mk/1.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="../projects/mk/2.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides">
+				<video class="vid" controls preload="auto">
+					<source src="../projects/mk/3.mp4" type="video/mp4">
+					<div class="caption-container">Caption Four</div>
+				</video>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/mk/4.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/mk/5.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev" onclick="offSound();">&#9650;</a>
+			<a class="next" onclick="offSound();"">&#9660;</a>
+
+			<span class=" close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo16" class="modal" style="background-color: rgb(179, 179, 179);">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/portraits/1.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/2.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/3.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/portraits/4.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo18" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/36.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+	<div id="mo19b" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/14.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+	<div id="mo24" class="modal">
+		<div class="modalContent">
+			<div class="mySlides ">
+				<img src="../projects/podcasts/6.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/7.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/8.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/9.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/10.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+			<div class="mySlides ">
+				<img src="../projects/podcasts/11.jpg">
+				<div class="caption-container">Caption Text</div>
+			</div>
+
+			<a class="prev">&#9650;</a>
+			<a class="next">&#9660;</a>
+
+			<span class="close cursor" onclick="closeModal()">CLOSE</span>
+		</div>
+	</div>
+
+
+
+
+</body>
+
 </html>
