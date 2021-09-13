@@ -383,15 +383,17 @@ a {
 
 .caption-container {
   position: fixed;
-  bottom: 20px;
+  bottom: 0;
+  height: 55px;
   right: 20px;
   left: 20px;
   margin: 0 auto;
-  width: 35%;
+  width: calc(100% - 480px);
+  vertical-align: middle;
   text-align: center;
-  padding: 15px 25px 15px 25px;
   color: #1c1c1c;
   font-size: 14px;
+  letter-spacing: 0.05em;
   user-select: none;
   -moz-user-select: none;
 }
