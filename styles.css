@@ -185,7 +185,7 @@ nav ul li,
 .next {
   float: left;
   border-radius: 25px;
-  min-width: 250px;
+  min-width: 325px;
   background-color: #f3f3f3;
 }
 #bio {
@@ -245,12 +245,10 @@ nav ul li a {
   -moz-user-select: none;
   -webkit-user-select: none;
   left: 20px;
-}
-.prev {
-  top: calc(50% - 30px);
+  bottom: 20px;
 }
 .next {
-  top: calc(50% + 30px);
+  left: 125px;
 }
 
 .close {
