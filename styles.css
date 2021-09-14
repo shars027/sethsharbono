@@ -394,7 +394,8 @@ a {
   vertical-align: middle;
   text-align: center;
   color: #1c1c1c;
-  font-size: 14px;
+  font-size: 0.95vw;
+  line-height: 1.5vw;
   letter-spacing: 0.05em;
   user-select: none;
   -moz-user-select: none;

@@ -109,6 +109,7 @@ function open23() {
 function open25() {
     document.getElementById("mo25").style.display = "block";
     document.getElementById("name").style.position = "fixed";
+    document.getElementById("name").style.color = "white";
 }
 
 function open26() {
