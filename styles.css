@@ -147,7 +147,7 @@ nav {
   right: 35%;
   text-align: center;
   margin: auto;
-  padding-top: 35px;
+  padding: 35px 0;
   font-family: itc-avant-garde-gothic-pro, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -264,10 +264,11 @@ nav ul ul {
   margin: 0px;
   position: absolute;
   top: 100%;
+  max-width: 325px;
 }
 
 a {
-  cursor: crosshair;
+  cursor: pointer;
 }
 
 /* GRID */
@@ -292,6 +293,7 @@ a {
   flex: calc(25% - 10px);
   max-width: calc(25% - 10px);
   padding: 0 5px;
+  cursor: pointer;
 }
 
 .column img {
