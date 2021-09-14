@@ -121,9 +121,6 @@ function open24() {
     document.getElementById("name").style.position = "fixed";
 }
 
-
-
-
 function closeModal() {
     document.getElementById("name").style.position = "absolute";
     document.getElementById("mo1").style.display = "none";
@@ -172,6 +169,7 @@ function closeModal() {
 
     for (i = 0; i < links.length; i++) {
         links[i].onclick = function () {
+            
 
             current = this.parentNode;
 
@@ -180,6 +178,8 @@ function closeModal() {
             curr_slide.classList.remove('active-slide');
 
             if (this.className == 'next') {
+
+                
 
                 if (curr_slide.nextElementSibling.classList.contains('mySlides')) {
                     curr_slide.nextElementSibling.classList.add('active-slide');
