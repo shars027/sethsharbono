@@ -349,6 +349,53 @@ a {
   border-radius: 5px;
 }
 
+#portrait {
+  position: fixed;
+  right: 20px;
+  top: 90px;
+  width: calc(55% - 30px);
+  height: calc(100% - 110px);
+}
+
+#centered {
+  width: 100%;
+  height: 100%;
+  background-image: url("projects/ss.jpg");
+  background-position: 62.5%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+#aboutme {
+  position: fixed;
+  display: table;
+  left: 20px;
+  top: 90px;
+  width: calc(45% - 70px);
+  height: calc(100% - 110px);
+  background-color: lavender;
+  padding: 20px;
+
+  letter-spacing: 0.1em;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+#aboutme div {
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#aboutme div b {
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 #mo19 div div img {
   max-height: 100%;
   max-width: 100%;
