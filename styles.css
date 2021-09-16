@@ -376,6 +376,7 @@ a {
   height: calc(100% - 110px);
   color: rgb(235, 72, 63);
   padding: 20px;
+  text-align: justify;
 
   letter-spacing: 0.1em;
   overflow: hidden;
