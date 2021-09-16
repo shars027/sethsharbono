@@ -353,7 +353,7 @@ a {
   position: fixed;
   right: 20px;
   top: 90px;
-  width: calc(55% - 30px);
+  width: calc(65% - 30px);
   height: calc(100% - 110px);
 }
 
@@ -372,9 +372,10 @@ a {
   display: table;
   left: 20px;
   top: 90px;
-  width: calc(45% - 70px);
+  width: calc(35% - 70px);
   height: calc(100% - 110px);
-  background-color: lavender;
+  background-color: rgb(235, 72, 63);
+  color: white;
   padding: 20px;
 
   letter-spacing: 0.1em;
