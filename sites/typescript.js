@@ -1,4 +1,22 @@
-function open1() {
+function onReady(callback) {
+    var intervalId = window.setInterval(function() {
+      if (document.getElementsByTagName('body')[0] !== undefined) {
+        window.clearInterval(intervalId);
+        callback.call(this);
+      }
+    }, 1000);
+  }
+  
+  function setVisible(selector, visible) {
+    document.querySelector(selector).style.display = visible ? 'block' : 'none';
+  }
+  
+  onReady(function() {
+    setVisible('#project_body', true);
+    setVisible('#loading', false);
+  });
+  
+  function open1() {
     document.getElementById("mo1").style.display = "block";
     document.getElementById("name").style.position = "fixed";
     document.getElementById("name").style.color = "white";
