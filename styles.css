@@ -374,8 +374,7 @@ a {
   top: 90px;
   width: calc(35% - 70px);
   height: calc(100% - 110px);
-  background-color: rgb(235, 72, 63);
-  color: white;
+  color: rgb(235, 72, 63);
   padding: 20px;
 
   letter-spacing: 0.1em;
