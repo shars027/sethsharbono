@@ -1,22 +1,4 @@
-function onReady(callback) {
-    var intervalId = window.setInterval(function() {
-      if (document.getElementsByTagName('body')[0] !== undefined) {
-        window.clearInterval(intervalId);
-        callback.call(this);
-      }
-    }, 1000);
-  }
-  
-  function setVisible(selector, visible) {
-    document.querySelector(selector).style.display = visible ? 'block' : 'none';
-  }
-  
-  onReady(function() {
-    setVisible('#project_body', true);
-    setVisible('#loading', false);
-  });
-  
-  function open1() {
+function open1() {
     document.getElementById("mo1").style.display = "block";
     document.getElementById("name").style.position = "fixed";
 }
@@ -51,11 +33,6 @@ function open15() {
     document.getElementById("name").style.position = "fixed";
 }
 
-
-
-
-
-
 function closeModal() {
     document.getElementById("name").style.position = "absolute";
     document.getElementById("mo1").style.display = "none";
@@ -70,7 +47,7 @@ function closeModal() {
 
 (function () {
 
-    init(); //on page load - show first slide, hidethe rest
+    init(); //on page load - show first slide, hide the rest
 
     function init() {
 
