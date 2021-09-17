@@ -392,11 +392,12 @@ a {
   flex-direction: row;
 
   align-items: center;
+  text-align: justify;
   justify-content: center;
   vertical-align: middle;
 
-  font-size: 0.95vmax;
-  line-height: 1.5vmax;
+  font-size: 0.75vmax;
+  line-height: 1.15vmax;
 
   font-family: itc-avant-garde-gothic-pro, sans-serif;
   font-weight: 300;
