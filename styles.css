@@ -369,26 +369,38 @@ a {
 
 #aboutme {
   position: fixed;
-  display: table;
   left: 20px;
   top: 90px;
-  width: calc(35% - 70px);
+
+  width: calc(35% - 30px);
   height: calc(100% - 110px);
-  color: rgb(235, 72, 63);
-  padding: 20px;
-  text-align: justify;
+
+  background-color: rgb(235, 72, 63);
+  color: white;
 
   letter-spacing: 0.1em;
-  overflow: hidden;
   border-radius: 5px;
 }
 
 #aboutme div {
+  padding: 20px;
+  overflow-y: scroll;
+  height: calc(100% - 40px);
+  width: calc(100% - 40px);
+
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+
+  font-size: 0.95vmax;
+  line-height: 1.5vmax;
+
   font-family: itc-avant-garde-gothic-pro, sans-serif;
   font-weight: 300;
   font-style: normal;
-  display: table-cell;
-  vertical-align: middle;
 }
 
 #aboutme div b {
