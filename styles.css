@@ -501,9 +501,23 @@ a {
 }
 
 @media screen and (max-width: 775px) {
+  body {
+    font-size: 12px;
+  }
+
+  nav ul li a {
+    text-align: center;
+    padding: 15px 5px 15px 5px;
+  }
+
+  .row {
+    padding: 0 5px;
+  }
+
   nav {
+    margin: 10px;
     position: relative;
-    top: 70px;
+    top: 60px;
     z-index: 1;
   }
 
@@ -518,17 +532,17 @@ a {
     right: 0;
     text-align: center;
     margin: auto;
-    padding-top: 35px;
+    padding: 25px 0px;
     z-index: 3;
   }
 
   #project_body {
-    padding-top: 55px;
+    padding-top: 45px;
   }
 
   nav ul li {
     float: left;
-    min-width: calc(75vw - 40px);
+    min-width: calc(75vw - 20px);
   }
 
   #bio {
