@@ -552,7 +552,7 @@ a {
 
   nav ul ul {
     top: 100%;
-    max-width: calc(75vw - 40px);
+    max-width: calc(75vw - 20px);
   }
 
   .next,
