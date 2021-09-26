@@ -1,0 +1,434 @@
+{
+	"portfolio": [{
+			"column": [{
+					"id": "roses",
+					"type": "image",
+					"ref": "type/1.jpg",
+					"background": "black",
+					"color": "white",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/roses/1.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/2.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "video",
+							"ref": "projects/roses/3.mp4",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/4.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/5.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/6.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/7.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/8.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/9.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						}
+					]
+				},
+				{
+					"id": "palmTree",
+					"type": "image",
+					"ref": "type/5.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/4.jpg",
+							"cap": "Logo Design Concept"
+						}
+					]
+				},
+				{
+					"id": "nuevoElemento",
+					"type": "image",
+					"ref": "type/9.jpg",
+					"background": "rgb(15, 15, 15)",
+					"color":"white",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/2.png",
+							"cap": "Artist Emblem Design"
+						}
+					]
+				},
+				{
+					"id": "livingGreen",
+					"type": "image",
+					"ref": "type/13.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/6.jpg",
+							"cap": "Logo Design Concept -- 'Reduce Your Carbon Footprint' Promotion"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "pollen",
+					"type": "image",
+					"ref": "type/2.jpg",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/pollen/1.mp4",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/2.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/3.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/4.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/5.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/6.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/7.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/8.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/9.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/10.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/11.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/12.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/13.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						},
+						{
+							"type": "image",
+							"ref": "projects/pollen/14.jpg",
+							"cap": "Logo Design + Brand Guidelines"
+						}
+						
+					]
+				},
+				{
+					"id": "coast",
+					"type": "image",
+					"ref": "type/6.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/coastal/1.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/coastal/2.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						}
+					]
+				},
+				{
+					"id": "vicks",
+					"type": "video",
+					"ref": "type/10.mp4",
+					"background": "#f4efe9",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/vicks/1.mp4",
+							"cap": "Vicks Rebrand"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/2.png",
+							"cap": "Current Branding"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/3.png",
+							"cap": "Rebrand Concept Moodboard"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/4.png",
+							"cap": "Logo Construction"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/5.png",
+							"cap": "Color Palette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/6.png",
+							"cap": "Brand Patterns"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/7.png",
+							"cap": "Iconography"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/8.jpg",
+							"cap": "Dayquil Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/9.jpg",
+							"cap": "Nyquil Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/10.jpg",
+							"cap": "Sinex Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/11.jpg",
+							"cap": "Vapor Rub Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/12.jpg",
+							"cap": "Zzzquil Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/13.jpg",
+							"cap": "NEW Allay Mockup"
+						}
+					]
+				},
+				{
+					"id": "musicProCon",
+					"type": "image",
+					"ref": "type/14.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/musicprocon/1.jpg",
+							"cap": "Brand Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/musicprocon/2.jpg",
+							"cap": "Brand Mockup Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/musicprocon/3.jpg",
+							"cap": "Brand Mockup Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/musicprocon/4.jpg",
+							"cap": "Brand Mockup Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/musicprocon/5.jpg",
+							"cap": "Brand Mockup Concept"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "neon",
+					"type": "image",
+					"ref": "type/3.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/6.jpg",
+							"cap": "Logo and Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/7.jpg",
+							"cap": "Moodboard"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/8.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/9.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/10.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/11.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/12.jpg",
+							"cap": "Alternate Moodboard"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/13.jpg",
+							"cap": "Alternate Logo and Tile Art Design"
+						}
+					]
+				},
+				{
+					"id": "systematicType",
+					"type": "videolink",
+					"ref": "type/7.mp4",
+					"link": "projects/systematictype/index.html"
+					
+				},
+				{
+					"id": "peteyMartin",
+					"type": "image",
+					"ref": "type/11.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/5.jpg",
+							"cap": "Artist Logo Design Concept"
+						}
+					]
+				},
+				{
+					"id": "bestNew",
+					"type": "video",
+					"ref": "type/15.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/bestnew/1.mp4",
+							"cap": "Spotify Playlist Cover Template Design"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "mc30",
+					"type": "image",
+					"ref": "type/4.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/1.jpg",
+							"cap": "30th Anniversary Logo"
+						}
+					]
+				},
+				{
+					"id": "pM",
+					"type": "image",
+					"ref": "type/8.jpg",
+					"background": "#39f1cd",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/1.jpg",
+							"cap": "Logo Design Concept"
+						}
+					]
+				},
+				{
+					"id": "compass",
+					"type": "image",
+					"ref": "type/12.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/3.jpg",
+							"cap": "Proprietary Software Logo Design"
+						}
+					]
+				},
+				{
+					"id": "triPlay",
+					"type": "image",
+					"ref": "type/16.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/triplay/1.jpg",
+							"cap": "Logo Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/triplay/2.jpg",
+							"cap": "Wordmark Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/triplay/3.jpg",
+							"cap": "Brand Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/triplay/4.jpg",
+							"cap": "Brand Mockup"
+						}
+					]
+				}
+			]
+		}
+	]
+}

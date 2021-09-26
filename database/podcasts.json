@@ -1,0 +1,420 @@
+{
+	"portfolio": [{
+			"column": [{
+					"id": "paranormalState",
+					"type": "image",
+					"ref": "podcasts/1.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/15.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/16.jpg",
+							"cap": "Tile Art Design"
+						}
+					]
+				},
+				{
+					"id": "rama",
+					"type": "video",
+					"ref": "podcasts/5.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/22.mp4",
+							"cap": "Podcast Teaser Animation",
+							"videocontrols": true
+						}
+					]
+				},
+				{
+					"id": "badBlood",
+					"type": "video",
+					"ref": "podcasts/9.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/30.mp4",
+							"cap": "Tile Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/31.mp4",
+							"cap": "Tile Art Animation #2"
+						}
+					]
+				},
+				{
+					"id": "twistedTech",
+					"type": "image",
+					"ref": "podcasts/13.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/35.jpg",
+							"cap": "Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/34.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "smokescreenFP",
+					"type": "video",
+					"ref": "podcasts/17.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/28.mp4",
+							"cap": "Tile Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/29.mp4",
+							"cap": "Tile Art Animation #2"
+						}
+					]
+				},
+				{
+					"id": "firebug",
+					"type": "image",
+					"ref": "podcasts/21.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/3.jpg",
+							"cap": "Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/4.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/5.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "doodler",
+					"type": "image",
+					"ref": "podcasts/2.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/17.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/18.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "borderlands",
+					"type": "image",
+					"ref": "podcasts/6.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/23.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/24.mp4",
+							"cap": "Tile Art Animation"
+						}
+					]
+				},
+				{
+					"id": "donKing",
+					"type": "image",
+					"ref": "podcasts/10.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/33.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "badBlood2",
+					"type": "image",
+					"ref": "podcasts/14.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/32.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/31.mp4",
+							"cap": "Tile Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/30.mp4",
+							"cap": "Tile Art Animation #2"
+						}
+					]
+				},
+				{
+					"id": "doTheWork",
+					"type": "image",
+					"ref": "podcasts/18.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/36.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "doodler2",
+					"type": "image",
+					"ref": "podcasts/22.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/18.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/17.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "broken",
+					"type": "video",
+					"ref": "podcasts/3.mp4",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/19.jpg",
+							"cap": "Tile Art Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/20.mp4",
+							"cap": "Tile Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/21.mp4",
+							"cap": "Tile Art Animation #2"
+						}
+					]
+				},
+				{
+					"id": "eclipsed",
+					"type": "image",
+					"ref": "podcasts/7.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/26.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/25.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "neon",
+					"type": "image",
+					"ref": "podcasts/11.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/12.jpg",
+							"cap": "Alternate Tile Art Moodboard"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/13.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "firebug2",
+					"type": "image",
+					"ref": "podcasts/15.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/5.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/3.jpg",
+							"cap": "Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/4.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "chameleon",
+					"type": "image",
+					"ref": "podcasts/19.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/14.jpg",
+							"cap": "Tile Art Design"
+						}
+					]
+				},
+				{
+					"id": "twistedTech",
+					"type": "image",
+					"ref": "podcasts/23.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/35.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/34.jpg",
+							"cap": "Tile Art Design"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "firebug3",
+					"type": "image",
+					"ref": "podcasts/4.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/4.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/3.jpg",
+							"cap": "Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/5.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "smokescreenGuru",
+					"type": "image",
+					"ref": "podcasts/8.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/27.jpg",
+							"cap": "Tile Art Concept Design (Left: Season 1 Design by Annie Stoll.<br>Right: Guru Silhouette Illustrated by Annie Stoll)"
+						}
+					]
+				},
+				{
+					"id": "paranormalState2",
+					"type": "image",
+					"ref": "podcasts/12.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/16.jpg",
+							"cap": "Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/15.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "passionEconomy2",
+					"type": "video",
+					"ref": "podcasts/16.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/1.mp4",
+							"cap": "Tile Art Animation #2"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/2.mp4",
+							"cap": "Tile Art Animation #1"
+						}
+					]
+				},
+				{
+					"id": "eclipsed",
+					"type": "image",
+					"ref": "podcasts/20.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/26.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/25.jpg",
+							"cap": "Tile Art Concept Design"
+						}
+					]
+				},
+				{
+					"id": "neon2",
+					"type": "image",
+					"ref": "podcasts/24.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/6.jpg",
+							"cap": "Logo and Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/7.jpg",
+							"cap": "Moodboard"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/8.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/9.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/10.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/11.jpg",
+							"cap": "Episodic Template Example"
+						}
+					]
+				}
+			]
+		}
+	]
+}

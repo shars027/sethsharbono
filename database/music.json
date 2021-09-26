@@ -1,0 +1,1157 @@
+{
+	"portfolio": [{
+			"column": [{
+					"id": "trailerTrash",
+					"type": "videolink",
+					"ref": "music/1.mp4",
+					"link": "https://www.youtube.com/watch?v=8yPmolBzEhQ"
+				},
+				{
+					"id": "adoreYou",
+					"type": "image",
+					"ref": "music/5.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/2.jpg",
+							"cap": "Harry Styles Single Cover Design Concept"
+						}
+					]
+				},
+				{
+					"id": "caroleKing",
+					"type": "image",
+					"ref": "music/9.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/1.jpg",
+							"cap": "Vinyl Package Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/2.jpg",
+							"cap": "Vinyl Package Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/3.jpg",
+							"cap": "Vinyl Package Art Direction + Design"
+						}
+					]
+				},
+				{
+					"id": "dempseyHope",
+					"type": "image",
+					"ref": "music/13.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/9.jpg",
+							"cap": "Album Cover Concept Design + Illustration"
+						}
+					]
+				},
+				{
+					"id": "xtinaXmas",
+					"type": "image",
+					"ref": "music/17.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/40.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/41.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/42.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "nuevoElemento",
+					"type": "image",
+					"ref": "music/21.jpg",
+					"background": "rgb(15, 15, 15)",
+					"color":"white",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/2.png",
+							"cap": "Artist Emblem Design"
+						}
+					]
+				},
+				{
+					"id": "backstreetBoys",
+					"type": "image",
+					"ref": "music/25.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/34.jpg",
+							"cap": "My First Sony Project -- Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/35.jpg",
+							"cap": "My First Sony Project -- Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/36.jpg",
+							"cap": "My First Sony Project -- Reconfiguring CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "julian",
+					"type": "image",
+					"ref": "music/29.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/12.jpg",
+							"cap": "Single Cover Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/11.jpg",
+							"cap": "Single Cover Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/13.jpg",
+							"cap": "Single Cover Design Concept"
+						}
+					]
+				},
+				{
+					"id": "mkLastTime",
+					"type": "video",
+					"ref": "music/33.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/4.jpg",
+							"cap": "EP Artwork Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/5.jpg",
+							"cap": "EP Artwork Design Concept"
+						}
+					]
+				},
+				{
+					"id": "britneyZoneCS",
+					"type": "image",
+					"ref": "music/37.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/7.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/8.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/4.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/5.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/6.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "britneyZoneLP",
+					"type": "image",
+					"ref": "music/41.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/4.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/5.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/6.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/7.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/8.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						}
+					]
+				},
+				{
+					"id": "mc30",
+					"type": "image",
+					"ref": "music/45.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/1.jpg",
+							"cap": "30th Anniversary Logo"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/2.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/3.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/4.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/5.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/6.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/7.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/8.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/9.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/10.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/11.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/12.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/13.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/14.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/15.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/16.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/17.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/18.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/19.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/20.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/21.jpg",
+							"cap": "Vinyl Package Recreation"
+						},{
+							"type": "image",
+							"ref": "projects/mc/22.jpg",
+							"cap": "Vinyl Package Recreation"
+						},{
+							"type": "image",
+							"ref": "projects/mc/23.jpg",
+							"cap": "Vinyl Package Recreation"
+						},{
+							"type": "image",
+							"ref": "projects/mc/24.jpg",
+							"cap": "Vinyl Package Recreation"
+						},{
+							"type": "image",
+							"ref": "projects/mc/25.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				},
+				{
+					"id": "mariahEmotions",
+					"type": "image",
+					"ref": "music/49.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/5.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/6.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/7.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				}
+			]
+		}, 
+		{
+			"column": [{
+					"id": "kennyLoggins",
+					"type": "image",
+					"ref": "music/2.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/7.jpg",
+							"cap": "Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/8.jpg",
+							"cap": "Sleeve + Label Design"
+						}
+					]
+				},
+				{
+					"id": "londonCalling",
+					"type": "image",
+					"ref": "music/6.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/1.jpg",
+							"cap": "London Calling Bus Wrap Design"
+						}
+					]
+				},
+				{
+					"id": "mishaal",
+					"type": "image",
+					"ref": "music/10.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/3.jpg",
+							"cap": "Single Cover Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/4.jpg",
+							"cap": "Single Cover Design + Illustration"
+						}
+					]
+				},
+				{
+					"id": "peteyMartin",
+					"type": "image",
+					"ref": "music/14.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/5.jpg",
+							"cap": "Artist Logo Design Concept"
+						}
+					]
+				},
+				{
+					"id": "julian2",
+					"type": "image",
+					"ref": "music/18.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/11.jpg",
+							"cap": "Single Cover Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/12.jpg",
+							"cap": "Single Cover Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/13.jpg",
+							"cap": "Single Cover Design Concept"
+						}
+					]
+				},
+				{
+					"id": "alanJackson",
+					"type": "image",
+					"ref": "music/22.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/aj1.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aj2.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aj3.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aj4.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aj5.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "mkMonsters",
+					"type": "video",
+					"ref": "music/26.mp4",
+					"slides": [
+						{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/4.jpg",
+							"cap": "EP Artwork Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/5.jpg",
+							"cap": "EP Artwork Design Concept"
+						}
+					]
+				},
+				{
+					"id": "broCode",
+					"type": "image",
+					"ref": "music/30.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/5.jpg",
+							"cap": "Single Cover Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/6.jpg",
+							"cap": "Single Cover Design Concept"
+						}
+					]
+				},
+				{
+					"id": "exhaleRemix",
+					"type": "image",
+					"ref": "music/34.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/8.jpg",
+							"cap": "Single Cover Design"
+						}
+					]
+				},
+				{
+					"id": "britneyOops",
+					"type": "image",
+					"ref": "music/38.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/1.jpg",
+							"cap": "Vinyl Package Art Direction + Design + Retouching"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/2.jpg",
+							"cap": "Vinyl Package Art Direction + Design + Retouching"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/3.jpg",
+							"cap": "Vinyl Package Art Direction + Design + Retouching"
+						}
+					]
+				},
+				{
+					"id": "britneyFemmeCS",
+					"type": "image",
+					"ref": "music/42.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/18.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/19.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						}
+					]
+				},
+				{
+					"id": "mariahRainbow",
+					"type": "image",
+					"ref": "music/46.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/20.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/21.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/22.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/23.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/24.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/25.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				},
+				{
+					"id": "mariahDaydream",
+					"type": "image",
+					"ref": "music/50.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/14.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/15.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/16.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "poloG",
+					"type": "image",
+					"ref": "music/3.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/pg1.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg2.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg3.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg4.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg5.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						}
+					]
+				},
+				{
+					"id": "mkRunIt",
+					"type": "video",
+					"ref": "music/7.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/4.jpg",
+							"cap": "EP Artwork Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/5.jpg",
+							"cap": "EP Artwork Design Concept"
+						}
+					]
+				},
+				{
+					"id": "mirandaLambert",
+					"type": "image",
+					"ref": "music/11.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/ml1.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/ml2.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/ml3.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/ml4.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/ml5.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "mkLostYouth",
+					"type": "image",
+					"ref": "music/15.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mk/4.jpg",
+							"cap": "EP Artwork Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/5.jpg",
+							"cap": "EP Artwork Design Concept"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+						}
+					]
+				},
+				{
+					"id": "facelift",
+					"type": "image",
+					"ref": "music/19.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/aic1.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aic2.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aic3.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aic4.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aic5.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "exhale",
+					"type": "image",
+					"ref": "music/23.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/7.jpg",
+							"cap": "Single Cover Design Concept"
+						}
+					]
+				},
+				{
+					"id": "spoiled",
+					"type": "videolink",
+					"ref": "music/27.mp4",
+					"link": "https://www.youtube.com/watch?v=VMqnoDRknJc"
+				},
+				{
+					"id": "armaanMalik",
+					"type": "image",
+					"ref": "music/31.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/1.jpg",
+							"cap": "Single Cover Design + Illustration"
+						}
+					]
+				},
+				{
+					"id": "mishaalFriends",
+					"type": "image",
+					"ref": "music/35.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/4.jpg",
+							"cap": "Single Cover Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/3.jpg",
+							"cap": "Single Cover Design"
+						}
+					]
+				},
+				{
+					"id": "britneyCircusCS",
+					"type": "image",
+					"ref": "music/39.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/20.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/21.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						}
+					]
+				},
+				{
+					"id": "britneyJeanCS",
+					"type": "image",
+					"ref": "music/43.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/16.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/17.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						}
+					]
+				},
+				{
+					"id": "mariahCarey",
+					"type": "image",
+					"ref": "music/47.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/2.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/3.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/4.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				},
+				{
+					"id": "mariahButterfly",
+					"type": "image",
+					"ref": "music/51.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/17.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/18.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/19.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "amtrac",
+					"type": "video",
+					"ref": "music/4.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/amtrac/1.mp4",
+							"cap": "Remix Artwork Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/amtrac/2.jpg",
+							"cap": "Remix Artwork Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/amtrac/3.mp4",
+							"cap": "Spotify Background Animations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/amtrac/4.jpg",
+							"cap": "Vinyl Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/amtrac/5.jpg",
+							"cap": "Vinyl Package Design"
+						}
+					]
+				},
+				{
+					"id": "kennyDolly",
+					"type": "image",
+					"ref": "music/8.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/28.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/29.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/30.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				},
+				{
+					"id": "bestNew",
+					"type": "video",
+					"ref": "music/12.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/bestnew/1.mp4",
+							"cap": "Spotify Playlist Cover Template Design"
+						}
+					]
+				},
+				{
+					"id": "xtinaLotus",
+					"type": "image",
+					"ref": "music/16.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/x1.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/x2.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/x3.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/x4.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/x5.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "broCode2",
+					"type": "image",
+					"ref": "music/20.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/6.jpg",
+							"cap": "Single Cover Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/5.jpg",
+							"cap": "Single Cover Design Concept"
+						}
+					]
+				},
+				{
+					"id": "train",
+					"type": "image",
+					"ref": "music/24.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/25.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/26.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/27.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "zodiac",
+					"type": "image",
+					"ref": "music/28.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/10.jpg",
+							"cap": "Single Cover Design"
+						}
+					]
+				},
+				{
+					"id": "julian3",
+					"type": "image",
+					"ref": "music/32.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/13.jpg",
+							"cap": "Single Cover Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/11.jpg",
+							"cap": "Single Cover Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/12.jpg",
+							"cap": "Single Cover Design Concept"
+						}
+					]
+				},
+				{
+					"id": "tomboy",
+					"type": "image",
+					"ref": "music/36.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/14.jpg",
+							"cap": "My First Single Cover -- Single Cover Design"
+						}
+					]
+				},
+				{
+					"id": "britneyMyPrerogative",
+					"type": "image",
+					"ref": "music/40.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/bs1.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/bs2.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/bs3.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/bs4.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/bs5.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "britneyCS",
+					"type": "image",
+					"ref": "music/44.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/22.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/23.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						}
+					]
+				},
+				{
+					"id": "mariahUnplugged",
+					"type": "image",
+					"ref": "music/48.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/8.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/9.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/10.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				},
+				{
+					"id": "mariahMusicBox",
+					"type": "image",
+					"ref": "music/52.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/11.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/12.jpg",
+							"cap": "Vinyl Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/13.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				}
+			]
+		}
+	]
+}

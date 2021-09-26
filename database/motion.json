@@ -1,0 +1,257 @@
+{
+	"portfolio": [{
+			"column": [{
+					"id": "mkMonsters",
+					"type": "video",
+					"ref": "motion/1.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						}
+					]
+				},
+				{
+					"id": "broken",
+					"type": "video",
+					"ref": "motion/5.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/20.mp4",
+							"cap": "Tile Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/21.mp4",
+							"cap": "Tile Art Animation #2"
+						}
+					]
+				},
+				{
+					"id": "spoiled",
+					"type": "videolink",
+					"ref": "motion/9.mp4",
+					"link": "https://www.youtube.com/watch?v=VMqnoDRknJc"
+				},
+				{
+					"id": "smokescreen",
+					"type": "video",
+					"ref": "motion/13.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/29.mp4",
+							"cap": "Tile Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/28.mp4",
+							"cap": "Tile Art Animation #2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "rama",
+					"type": "video",
+					"ref": "motion/2.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/22.mp4",
+							"cap": "Podcast Teaser Animation",
+							"videocontrols": true
+						}
+					]
+				},
+				{
+					"id": "borderlands",
+					"type": "video",
+					"ref": "motion/6.mp4",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/23.jpg",
+							"cap": "Tile Art Concept Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/24.mp4",
+							"cap": "Tile Art Animation"
+						}
+					]
+				},
+				{
+					"id": "mkRunIt",
+					"type": "video",
+					"ref": "motion/10.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+						}
+					]
+				},
+				{
+					"id": "passionEconomy2",
+					"type": "video",
+					"ref": "motion/14.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/1.mp4",
+							"cap": "Tile Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/2.mp4",
+							"cap": "Tile Art Animation #2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "badBlood",
+					"type": "video",
+					"ref": "motion/3.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/30.mp4",
+							"cap": "Tile Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/31.mp4",
+							"cap": "Tile Art Animation #2"
+						}
+					]
+				},
+				{
+					"id": "smokescreen2",
+					"type": "video",
+					"ref": "motion/7.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/28.mp4",
+							"cap": "Tile Art Animation #2"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/29.mp4",
+							"cap": "Tile Art Animation #1"
+						}
+					]
+				},
+				{
+					"id": "broken2",
+					"type": "video",
+					"ref": "motion/11.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/21.mp4",
+							"cap": "Tile Art Animation #2"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/20.mp4",
+							"cap": "Tile Art Animation #1"
+						}
+					]
+				},
+				{
+					"id": "amtrac",
+					"type": "video",
+					"ref": "motion/15.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/amtrac/3.mp4",
+							"cap": "Spotify Background Animations"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "passionEconomy",
+					"type": "video",
+					"ref": "motion/4.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/2.mp4",
+							"cap": "Tile Art Animation #2"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/1.mp4",
+							"cap": "Tile Art Animation #1"
+						}
+					]
+				},
+				{
+					"id": "trailerTrash",
+					"type": "videolink",
+					"ref": "motion/8.mp4",
+					"link": "https://www.youtube.com/watch?v=8yPmolBzEhQ"
+				},
+				{
+					"id": "badBlood2",
+					"type": "video",
+					"ref": "motion/12.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/31.mp4",
+							"cap": "Tile Art Animation #2"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/30.mp4",
+							"cap": "Tile Art Animation #1"
+						}
+					]
+				},
+				{
+					"id": "mkLastTime",
+					"type": "video",
+					"ref": "motion/16.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+						}
+					]
+				}
+			]
+		}
+	]
+}

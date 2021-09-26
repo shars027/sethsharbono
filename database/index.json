@@ -1,0 +1,722 @@
+{
+	"portfolio": [{
+			"column": [{
+					"id": "mc30",
+					"type": "image",
+					"ref": "highlights/1.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/mc/1.jpg",
+							"cap": "30th Anniversary Logo"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/2.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/3.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/4.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/5.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/6.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/7.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/8.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/9.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/10.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/11.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/12.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/13.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/14.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/15.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/16.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/17.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/18.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/19.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/20.jpg",
+							"cap": "Vinyl Package Recreation"
+						}, {
+							"type": "image",
+							"ref": "projects/mc/21.jpg",
+							"cap": "Vinyl Package Recreation"
+						},{
+							"type": "image",
+							"ref": "projects/mc/22.jpg",
+							"cap": "Vinyl Package Recreation"
+						},{
+							"type": "image",
+							"ref": "projects/mc/23.jpg",
+							"cap": "Vinyl Package Recreation"
+						},{
+							"type": "image",
+							"ref": "projects/mc/24.jpg",
+							"cap": "Vinyl Package Recreation"
+						},{
+							"type": "image",
+							"ref": "projects/mc/25.jpg",
+							"cap": "Vinyl Package Recreation"
+						}
+					]
+				},
+				{
+					"id": "poloG",
+					"type": "image",
+					"ref": "highlights/5.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/pg1.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg2.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg3.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg4.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg5.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						}
+					]
+				},
+				{
+					"id": "neon",
+					"type": "image",
+					"ref": "highlights/9.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/6.jpg",
+							"cap": "Logo and Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/7.jpg",
+							"cap": "Moodboard"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/8.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/9.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/10.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/11.jpg",
+							"cap": "Episodic Template Example"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/12.jpg",
+							"cap": "Alternate Moodboard"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/13.jpg",
+							"cap": "Alternate Logo and Tile Art Design"
+						}
+					]
+				},
+				{
+					"id": "passionEconomy",
+					"type": "video",
+					"ref": "highlights/4.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/podcasts/1.mp4",
+							"cap": "Podcast Art Animation #1"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/2.mp4",
+							"cap": "Podcast Art Animation #2"
+						}
+					]
+				},
+				{
+					"id": "wilay",
+					"type": "video",
+					"ref": "highlights/19.mp4",
+          			"background":"rgb(230, 230, 230)",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/wilay/1.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/2.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/3.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/4.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/5.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/6.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/7.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/8.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/9.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/10.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/11.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/12.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/13.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/14.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/15.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/16.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/17.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/18.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						},
+						{
+							"type": "image",
+							"ref": "projects/wilay/19.png",
+							"cap": "Lyric Storybook Design + Illustrations"
+						}
+					]
+				},
+				{
+					"id": "compass",
+					"type": "image",
+					"ref": "highlights/21.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/type/3.jpg",
+						"cap": "Proprietary Software Logo Design"
+					}]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "amtrac",
+					"type": "video",
+					"ref": "highlights/10.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/amtrac/1.mp4",
+							"cap": "Remix Artwork Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/amtrac/2.jpg",
+							"cap": "Remix Artwork Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/amtrac/3.mp4",
+							"cap": "Spotify Background Animations"
+						}
+					]
+				},
+				{
+					"id": "londonCalling",
+					"type": "image",
+					"ref": "highlights/14.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/1.jpg",
+						"cap": "London Calling Bus Wrap Design"
+					}]
+				},
+				{
+					"id": "adoreYou",
+					"type": "image",
+					"ref": "highlights/12.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/singles/2.jpg",
+						"cap": "Harry Styles Single Cover Concept"
+					}]
+				},
+				{
+					"id": "roses",
+					"type": "image",
+					"ref": "highlights/22.jpg",
+          			"background": "black",
+					"color": "white",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/roses/1.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/2.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "video",
+							"ref": "projects/roses/3.mp4",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/4.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/5.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/6.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/7.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/8.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						},
+						{
+							"type": "image",
+							"ref": "projects/roses/9.jpg",
+							"cap": "Custom Typeface -- Work In Progress"
+						}
+					]
+				},
+				{
+					"id": "chameleon",
+					"type": "image",
+					"ref": "highlights/18.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/podcasts/14.jpg",
+						"cap": "Tile Art Design"
+					}]
+				},
+				{
+					"id": "triPlay",
+					"type": "image",
+					"ref": "highlights/17.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/triplay/1.jpg",
+							"cap": "Logo Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/triplay/2.jpg",
+							"cap": "Wordmark Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/triplay/3.jpg",
+							"cap": "Brand Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/triplay/4.jpg",
+							"cap": "Brand Mockup"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "caroleKing",
+					"type": "image",
+					"ref": "highlights/3.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/1.jpg",
+							"cap": "Vinyl Package Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/2.jpg",
+							"cap": "Vinyl Package Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/3.jpg",
+							"cap": "Vinyl Package Art Direction + Design"
+						}
+					]
+				},
+				{
+					"id": "firebug",
+					"type": "image",
+					"ref": "highlights/7.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/podcasts/3.jpg",
+							"cap": "Tile Art Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/4.jpg",
+							"cap": "Tile Art Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/podcasts/5.jpg",
+							"cap": "Tile Art Concept"
+						}
+					]
+				},
+				{
+					"id": "kennyLoggins",
+					"type": "image",
+					"ref": "highlights/11.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/7.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/8.jpg",
+							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+						}
+					]
+				},
+				{
+					"id": "mishaal",
+					"type": "image",
+					"ref": "highlights/13.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/3.jpg",
+							"cap": "Single Artwork Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/4.jpg",
+							"cap": "Single Artwork Design + Illustration"
+						}
+					]
+				},
+				{
+					"id": "systematicType",
+					"type": "videolink",
+					"ref": "highlights/6.mp4",
+					"link": "projects/systematictype/index.html"
+				},
+				{
+					"id": "experiment",
+					"type": "image",
+					"ref": "highlights/23.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/misc/1.jpg",
+							"cap": "Computer Generated Experimental Artwork"
+						},
+						{
+							"type": "image",
+							"ref": "projects/misc/2.jpg",
+							"cap": "Computer Generated Experimental Artwork"
+						},
+						{
+							"type": "image",
+							"ref": "projects/misc/3.jpg",
+							"cap": "Computer Generated Experimental Artwork"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [{
+					"id": "pM",
+					"type": "image",
+					"ref": "highlights/2.jpg",
+					"background": "#39f1cd",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/type/1.jpg",
+						"cap": "Logo Design Concept"
+					}]
+				},
+				{
+					"id": "portraits",
+					"type": "video",
+					"ref": "highlights/16.mp4",
+          			"background": "rgb(179, 179, 179)",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/portraits/1.jpg",
+							"cap": "Design + Photography"
+						},
+						{
+							"type": "image",
+							"ref": "projects/portraits/2.jpg",
+							"cap": "Design + Photography"
+						},
+						{
+							"type": "image",
+							"ref": "projects/portraits/3.jpg",
+							"cap": "Design + Photography"
+						},
+						{
+							"type": "image",
+							"ref": "projects/portraits/4.jpg",
+							"cap": "Design + Photography"
+						}
+					]
+				},
+				{
+					"id": "mkLastTime",
+					"type": "video",
+					"ref": "highlights/15.mp4",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/4.jpg",
+							"cap": "EP Artwork Design Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/5.jpg",
+							"cap": "EP Artwork Design Concept"
+						}
+					]
+				},
+				{
+					"id": "armaanMalik",
+					"type": "image",
+					"ref": "highlights/8.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/singles/1.jpg",
+						"cap": "Single Cover + Illustration"
+					}]
+				},
+				{
+					"id": "nuevoElemento",
+					"type": "image",
+					"ref": "highlights/20.jpg",
+          			"background": "rgb(15, 15, 15)",
+					"color":"white",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/type/2.png",
+						"cap": "Artist Emblem Design"
+					}]
+				},
+				{
+					"id": "vicks",
+					"type": "video",
+					"ref": "highlights/24.mp4",
+          			"background": "#f4efe9",
+					"slides": [{
+							"type": "video",
+							"ref": "projects/vicks/1.mp4",
+							"cap": "Vicks Rebrand"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/2.png",
+							"cap": "Current Branding"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/3.png",
+							"cap": "Rebrand Concept Moodboard"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/4.png",
+							"cap": "Logo Construction"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/5.png",
+							"cap": "Color Palette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/6.png",
+							"cap": "Brand Patterns"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/7.png",
+							"cap": "Iconography"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/8.jpg",
+							"cap": "Dayquil Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/9.jpg",
+							"cap": "Nyquil Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/10.jpg",
+							"cap": "Sinex Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/11.jpg",
+							"cap": "Vapor Rub Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/12.jpg",
+							"cap": "Zzzquil Mockup"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vicks/13.jpg",
+							"cap": "NEW Allay Mockup"
+						}
+					]
+				}
+			]
+		}
+	]
+}

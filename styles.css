@@ -238,8 +238,8 @@ nav ul li a {
 .prev,
 .next {
   position: absolute;
-  padding: 15px 0px 15px 0px;
-  width: 95px;
+  padding: 15px 5px;
+  width: 65px;
   text-align: center;
   user-select: none;
   -moz-user-select: none;
@@ -248,13 +248,13 @@ nav ul li a {
   bottom: 20px;
 }
 .next {
-  left: 125px;
+  left: 105px;
 }
 
 .close {
   position: fixed;
   left: 20px;
-  padding: 15px 25px 15px 25px;
+  padding: 15px 25px;
 }
 
 /* drop down container */
@@ -299,6 +299,7 @@ a {
 .column img {
   margin-top: 10px;
   vertical-align: middle;
+  min-height: calc(0.5625 * (25vw - 10px));
   width: 100%;
   border-radius: 5px;
 }
@@ -395,8 +396,8 @@ a {
   justify-content: center;
   vertical-align: middle;
 
-  font-size: 0.75vmax;
-  line-height: 1.15vmax;
+  font-size: 12px;
+  line-height: 1.5;
 
   font-family: itc-avant-garde-gothic-pro, sans-serif;
   font-weight: 300;
@@ -442,11 +443,28 @@ a {
   vertical-align: middle;
   text-align: center;
   color: #1c1c1c;
-  font-size: 0.95vw;
-  line-height: 1.5vw;
+  font-size: 14px;
+  line-height: 1.5;
   letter-spacing: 0.05em;
   user-select: none;
   -moz-user-select: none;
+}
+
+.main-clicks .column:last-of-type {
+  margin-bottom: 10px;
+}
+
+.hide {
+  display: none;
+}
+
+@media only screen and (max-width: 1400px) {
+  #name {
+    width: calc(100% - 500px);
+    position: absolute;
+    left: initial;
+    right: 20px;
+  }
 }
 
 @media only screen and (max-width: 1000px) {
@@ -459,20 +477,152 @@ a {
   }
 
   #name {
+    width: initial;
     position: absolute;
     left: initial;
     right: 20px;
     text-align: right;
     margin: auto;
     padding-top: 35px;
-    font-family: itc-avant-garde-gothic-pro, sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    text-transform: uppercase;
-    letter-spacing: 0.25em;
     font-size: 20px;
-    z-index: 1;
     white-space: nowrap;
-    color: #1c1c1c;
+  }
+
+  #portrait {
+    width: 55% - 30px;
+  }
+  #aboutme {
+    width: 45% - 30px;
+  }
+  #aboutme div {
+    font-size: 12px;
+    line-height: 1.5;
+  }
+}
+
+@media screen and (max-width: 775px) {
+  nav {
+    position: relative;
+    top: 70px;
+    z-index: 1;
+  }
+
+  .modal {
+    z-index: 2;
+  }
+
+  #name {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: auto;
+    padding-top: 35px;
+    z-index: 3;
+  }
+
+  #project_body {
+    padding-top: 55px;
+  }
+
+  nav ul li {
+    float: left;
+    min-width: calc(75vw - 40px);
+  }
+
+  #bio {
+    min-width: calc(25vw - 10px);
+    margin-left: 10px;
+  }
+
+  nav ul ul {
+    top: 100%;
+    max-width: calc(75vw - 40px);
+  }
+
+  .next,
+  .prev,
+  .close {
+    width: calc(33% - 25px);
+    max-width: initial;
+    min-width: initial;
+    text-align: center;
+  }
+
+  .next {
+    float: right;
+    left: initial;
+    right: 20px;
+  }
+  .prev {
+    left: calc(33vw + 10px);
+  }
+  .close {
+    bottom: 20px;
+    padding: 15px 5px;
+  }
+
+  #bio {
+    width: calc(25vw - 40px);
+  }
+
+  #project_body.about {
+    padding-top: 65px;
+    width: 100%;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+  }
+
+  #portrait {
+    position: relative;
+    left: 20px;
+    top: 0;
+    width: calc(100% - 40px);
+    height: calc(50% - 110px);
+    align-items: flex-start;
+    display: block;
+  }
+
+  #aboutme {
+    position: relative;
+    left: 20px;
+    top: 0;
+    width: calc(100% - 40px);
+    height: calc(50% - 80px);
+    background-color: rgb(235, 72, 63);
+    color: white;
+    border-radius: 5px;
+    align-items: flex-start;
+    margin-top: 10px;
+  }
+
+  #aboutme div {
+    padding: 20px;
+    overflow-y: scroll;
+    height: calc(100% - 40px);
+    width: calc(100% - 40px);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    line-height: 1.5;
+  }
+
+  .caption-container {
+    position: fixed;
+    bottom: 90px;
+    height: initial;
+    right: 0;
+    left: 0;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.5;
   }
 }
