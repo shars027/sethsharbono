@@ -595,19 +595,19 @@ a {
 
   #portrait {
     position: relative;
-    left: 20px;
+    left: 10px;
     top: 0;
-    width: calc(100% - 40px);
-    height: calc(50% - 110px);
+    width: calc(100% - 20px);
+    height: calc(50% - 80px);
     align-items: flex-start;
     display: block;
   }
 
   #aboutme {
     position: relative;
-    left: 20px;
+    left: 10px;
     top: 0;
-    width: calc(100% - 40px);
+    width: calc(100% - 20px);
     height: calc(50% - 80px);
     background-color: rgb(235, 72, 63);
     color: white;
