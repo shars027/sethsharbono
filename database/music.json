@@ -1,6 +1,36 @@
 {
 	"portfolio": [{
 			"column": [{
+					"id": "milesDavis",
+					"type": "image",
+					"ref": "music/md1.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/vinyl/md1.jpg",
+						"cap": "Design"
+					},
+					{
+						"type": "image",
+						"ref": "projects/vinyl/md2.jpg",
+						"cap": "Design"
+					}]
+				},
+				{
+					"id": "frankSinatra",
+					"type": "image",
+					"ref": "music/fs1.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/vinyl/fs1.jpg",
+						"cap": "Art Direction + Package Design"
+					},
+					{
+						"type": "image",
+						"ref": "projects/vinyl/fs2.jpg",
+						"cap": "Art Direction + Package Design"
+					}]
+				},
+				{
 					"id": "trailerTrash",
 					"type": "videolink",
 					"ref": "music/1.mp4",
@@ -23,18 +53,45 @@
 					"ref": "music/9.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/vinyl/1.jpg",
+							"ref": "projects/vinyl/ck1.jpg",
 							"cap": "Vinyl Package Art Direction + Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/vinyl/2.jpg",
+							"ref": "projects/vinyl/ck2.jpg",
 							"cap": "Vinyl Package Art Direction + Design"
+						}
+					]
+				},
+				{
+					"id": "campLo",
+					"type": "image",
+					"ref": "music/cl1.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/21.jpg",
+							"cap": "Album Anniversary Cover Design"
+						}
+					]
+				},
+				{
+					"id": "zachHood",
+					"type": "image",
+					"ref": "music/zh1.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/7.jpg",
+							"cap": "Artist Logo Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/vinyl/3.jpg",
-							"cap": "Vinyl Package Art Direction + Design"
+							"ref": "projects/vinyl/41.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/42.jpg",
+							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
 						}
 					]
 				},
@@ -50,25 +107,79 @@
 					]
 				},
 				{
-					"id": "xtinaXmas",
+					"id": "mc30",
 					"type": "image",
-					"ref": "music/17.jpg",
+					"ref": "music/mc30.jpg",
 					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/40.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/41.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/42.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
-						}
-					]
+						"type": "image",
+						"ref": "projects/mc/1.jpg",
+						"cap": "30th Anniversary Logo"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mc/2.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/3.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/4.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/5.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/6.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/7.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/8.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/9.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/10.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/11.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/12.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/13.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/14.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/15.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/16.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/17.jpg",
+						"cap": "Vinyl Package Recreation"
+					}]
 				},
 				{
 					"id": "nuevoElemento",
@@ -80,29 +191,82 @@
 							"type": "image",
 							"ref": "projects/type/2.png",
 							"cap": "Artist Emblem Design"
-						}
-					]
+						}]
 				},
 				{
-					"id": "backstreetBoys",
+					"id": "mc30",
 					"type": "image",
-					"ref": "music/25.jpg",
+					"ref": "music/mc vinyls.jpg",
 					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/34.jpg",
-							"cap": "My First Sony Project -- Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/35.jpg",
-							"cap": "My First Sony Project -- Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/36.jpg",
-							"cap": "My First Sony Project -- Reconfiguring CD Package for Vinyl"
-						}
-					]
+						"type": "image",
+						"ref": "projects/mc/1.jpg",
+						"cap": "30th Anniversary Logo"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mc/2.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/3.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/4.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/5.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/6.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/7.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/8.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/9.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/10.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/11.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/12.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/13.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/14.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/15.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/16.jpg",
+						"cap": "Vinyl Package Recreation"
+					}, {
+						"type": "image",
+						"ref": "projects/mc/17.jpg",
+						"cap": "Vinyl Package Recreation"
+					}]
 				},
 				{
 					"id": "julian",
@@ -111,11 +275,6 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/12.jpg",
-							"cap": "Single Cover Design Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/11.jpg",
 							"cap": "Single Cover Design Concept"
 						},
 						{
@@ -157,193 +316,101 @@
 					]
 				},
 				{
-					"id": "britneyZoneCS",
+					"id": "future",
 					"type": "image",
-					"ref": "music/37.jpg",
+					"ref": "music/f1.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/singles/19.jpg",
+						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/singles/20.jpg",
+						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+					}
+					]
+				},
+				{
+					"id": "britneyMyPrerogative",
+					"type": "image",
+					"ref": "music/bs2.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/britney/7.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/8.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/4.jpg",
+							"ref": "projects/britney/bs1.jpg",
 							"cap": "Reconfiguring CD Package for Vinyl"
 						},
 						{
 							"type": "image",
-							"ref": "projects/britney/5.jpg",
+							"ref": "projects/britney/bs2.jpg",
 							"cap": "Reconfiguring CD Package for Vinyl"
 						},
 						{
 							"type": "image",
-							"ref": "projects/britney/6.jpg",
+							"ref": "projects/britney/bs3.jpg",
 							"cap": "Reconfiguring CD Package for Vinyl"
 						}
 					]
 				},
 				{
-					"id": "britneyZoneLP",
+					"id": "summer1",
 					"type": "image",
-					"ref": "music/41.jpg",
+					"ref": "music/summer1.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/britney/4.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/5.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/6.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/7.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/8.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"ref": "projects/playlists/1.jpg",
+							"cap": "Sony Playlist Cover Artwork"
 						}
 					]
 				},
 				{
-					"id": "mc30",
+					"id": "thriller40",
 					"type": "image",
-					"ref": "music/45.jpg",
+					"ref": "music/t40.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/mc/1.jpg",
-							"cap": "30th Anniversary Logo"
+							"ref": "projects/mj/1.jpg",
+							"cap": "Thriller 40th Anniversary CD Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/mc/2.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/3.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/4.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/5.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/6.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/7.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/8.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/9.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/10.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/11.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/12.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/13.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/14.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/15.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/16.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/17.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/18.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/19.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/20.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/21.jpg",
-							"cap": "Vinyl Package Recreation"
-						},{
-							"type": "image",
-							"ref": "projects/mc/22.jpg",
-							"cap": "Vinyl Package Recreation"
-						},{
-							"type": "image",
-							"ref": "projects/mc/23.jpg",
-							"cap": "Vinyl Package Recreation"
-						},{
-							"type": "image",
-							"ref": "projects/mc/24.jpg",
-							"cap": "Vinyl Package Recreation"
-						},{
-							"type": "image",
-							"ref": "projects/mc/25.jpg",
-							"cap": "Vinyl Package Recreation"
-						}
-					]
-				},
-				{
-					"id": "mariahEmotions",
-					"type": "image",
-					"ref": "music/49.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/mc/5.jpg",
-							"cap": "Vinyl Package Recreation"
+							"ref": "projects/mj/2.jpg",
+							"cap": "Thriller 40th Anniversary CD Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/mc/6.jpg",
-							"cap": "Vinyl Package Recreation"
+							"ref": "projects/mj/3.jpg",
+							"cap": "Extended Tracklist Reconstruction Using Original Handwriting"
 						},
 						{
 							"type": "image",
-							"ref": "projects/mc/7.jpg",
-							"cap": "Vinyl Package Recreation"
+							"ref": "projects/mj/4.jpg",
+							"cap": "Thriller 40th Anniversary Box Set Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/5.5.jpg",
+							"cap": "Thriller vs. Starlight (Demo) Lyric Comparison Totebag"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/5.jpg",
+							"cap": " Diamond Plaque Poster"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/6.jpg",
+							"cap": "Thriller 40 Anniversary Cover Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/7.jpg",
+							"cap": "Thriller 40 Anniversary Cover Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/8.jpg",
+							"cap": "Thriller 40 Anniversary Cover Concept"
 						}
 					]
 				}
@@ -351,17 +418,48 @@
 		}, 
 		{
 			"column": [{
+					"id": "dolly",
+					"type": "image",
+					"ref": "music/dp1.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/18.jpg",
+							"cap": "Vinyl Album Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/16.jpg",
+							"cap": "Vinyl Album Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/17.jpg",
+							"cap": "Vinyl Album Concept"
+						}
+					]
+				},{
+					"id": "bsOops",
+					"type": "image",
+					"ref": "music/bs1.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/vinyl/bs1.jpg",
+							"cap": "Art Direction + Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/bs2.jpg",
+							"cap": "Art Direction + Package Design"
+						}
+					]
+				},
+				{
 					"id": "kennyLoggins",
 					"type": "image",
 					"ref": "music/2.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/vinyl/7.jpg",
-							"cap": "Sleeve + Label Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/8.jpg",
+							"ref": "projects/vinyl/kl1.jpg",
 							"cap": "Sleeve + Label Design"
 						}
 					]
@@ -394,6 +492,30 @@
 					]
 				},
 				{
+					"id": "tiktok",
+					"type": "image",
+					"ref": "music/tt1.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/playlists/2.jpg",
+							"cap": "Sony Playlist Cover Artwork"
+						}
+					]
+				},
+				{
+					"id": "summer2",
+					"type": "image",
+					"ref": "music/summer2.jpg",
+					"background": "rgb(255, 235, 200)",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/playlists/3.jpg",
+							"cap": "Sony Playlist Cover Artwork"
+						}
+					]
+				},
+				
+				{
 					"id": "peteyMartin",
 					"type": "image",
 					"ref": "music/14.jpg",
@@ -405,28 +527,28 @@
 					]
 				},
 				{
-					"id": "julian2",
+					"id": "dolly2",
 					"type": "image",
-					"ref": "music/18.jpg",
+					"ref": "music/dp2.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/singles/11.jpg",
-							"cap": "Single Cover Design Concept"
+							"ref": "projects/singles/17.jpg",
+							"cap": "Vinyl Album Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/singles/12.jpg",
-							"cap": "Single Cover Design Concept"
+							"ref": "projects/singles/18.jpg",
+							"cap": "Vinyl Album Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/singles/13.jpg",
-							"cap": "Single Cover Design Concept"
+							"ref": "projects/singles/16.jpg",
+							"cap": "Vinyl Album Concept"
 						}
 					]
 				},
 				{
-					"id": "alanJackson",
+					"id": "",
 					"type": "image",
 					"ref": "music/22.jpg",
 					"slides": [{
@@ -442,16 +564,6 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/aj3.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aj4.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aj5.jpg",
 							"cap": "Reconfiguring CD Package for Vinyl"
 						}
 					]
@@ -505,107 +617,57 @@
 					]
 				},
 				{
-					"id": "exhaleRemix",
+					"id": "ryanHurd",
 					"type": "image",
 					"ref": "music/34.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/singles/8.jpg",
-							"cap": "Single Cover Design"
+							"ref": "projects/singles/22.jpg",
+							"cap": "Single Cover Concept"
 						}
 					]
 				},
 				{
-					"id": "britneyOops",
+					"id": "dolly3",
 					"type": "image",
-					"ref": "music/38.jpg",
+					"ref": "music/dp3.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/britney/1.jpg",
-							"cap": "Vinyl Package Art Direction + Design + Retouching"
+							"ref": "projects/singles/16.jpg",
+							"cap": "Vinyl Album Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/britney/2.jpg",
-							"cap": "Vinyl Package Art Direction + Design + Retouching"
+							"ref": "projects/singles/17.jpg",
+							"cap": "Vinyl Album Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/britney/3.jpg",
-							"cap": "Vinyl Package Art Direction + Design + Retouching"
+							"ref": "projects/singles/18.jpg",
+							"cap": "Vinyl Album Concept"
 						}
 					]
 				},
 				{
-					"id": "britneyFemmeCS",
+					"id": "summer3",
 					"type": "image",
-					"ref": "music/42.jpg",
+					"ref": "music/summer3.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/britney/18.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/19.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"ref": "projects/playlists/4.jpg",
+							"cap": "Sony Playlist Cover Artwork"
 						}
 					]
 				},
 				{
-					"id": "mariahRainbow",
+					"id": "thriller402",
 					"type": "image",
-					"ref": "music/46.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/mc/20.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
+					"ref": "music/t402.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/mc/21.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/22.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/23.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/24.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/25.jpg",
-							"cap": "Vinyl Package Recreation"
-						}
-					]
-				},
-				{
-					"id": "mariahDaydream",
-					"type": "image",
-					"ref": "music/50.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/mc/14.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/15.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/16.jpg",
-							"cap": "Vinyl Package Recreation"
+							"ref": "projects/mj/6.jpg",
+							"cap": "Thriller 40 Annivesary Cover Concept"
 						}
 					]
 				}
@@ -613,6 +675,32 @@
 		},
 		{
 			"column": [{
+				"id": "xtinaStripped",
+				"type": "image",
+				"ref": "music/xtina1.jpg",
+				"slides": [{
+						"type": "image",
+						"ref": "projects/singles/15.jpg",
+						"cap": "Anniversary Album Cover Artwork"
+					}
+				]
+			},
+			{
+				"id": "sashaSloan",
+				"type": "image",
+				"ref": "music/ss1.jpg",
+				"slides": [{
+					"type": "image",
+					"ref": "projects/singles/11.jpg",
+					"cap": "Single Cover Concept"
+				},
+				{
+					"type": "image",
+					"ref": "projects/singles/8.jpg",
+					"cap": "Final Single Cover Artwork"
+				}]
+			},
+			{
 					"id": "poloG",
 					"type": "image",
 					"ref": "music/3.jpg",
@@ -629,16 +717,6 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg3.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/pg4.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/pg5.jpg",
 							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
 						}
 					]
@@ -692,16 +770,98 @@
 							"type": "image",
 							"ref": "projects/vinyl/ml3.jpg",
 							"cap": "Reconfiguring CD Package for Vinyl"
+						}
+					]
+				},
+				{
+					"id": "britneyCS",
+					"type": "image",
+					"ref": "music/bs3.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/britney/cs.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
 						},
 						{
 							"type": "image",
-							"ref": "projects/vinyl/ml4.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"ref": "projects/britney/cs1.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
 						},
 						{
 							"type": "image",
-							"ref": "projects/vinyl/ml5.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"ref": "projects/britney/cs2.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs3.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs4.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs5.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs6.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs7.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs8.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs9.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs10.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs11.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs12.jpg",
+							"cap": "Reconfiguring CD Package for Cassette"
+						}
+					]
+				},
+				{
+					"id": "soulAsylumAlt",
+					"type": "image",
+					"ref": "music/sa2.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/sa2cover.jpg",
+							"cap": "Vinyl Album Concept"
+						},{
+							"type": "image",
+							"ref": "projects/vinyl/sa3.jpg",
+							"cap": "Vinyl Album Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/sa4.jpg",
+							"cap": "Vinyl Album Concept"
 						}
 					]
 				},
@@ -754,16 +914,6 @@
 							"type": "image",
 							"ref": "projects/vinyl/aic3.jpg",
 							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aic4.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aic5.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
 						}
 					]
 				},
@@ -812,77 +962,94 @@
 					]
 				},
 				{
-					"id": "britneyCircusCS",
+					"id": "carnalLove",
 					"type": "image",
-					"ref": "music/39.jpg",
+					"ref": "music/am1.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/britney/20.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"ref": "projects/singles/23.jpg",
+							"cap": "Final Album Cover Artwork"
 						},
 						{
 							"type": "image",
-							"ref": "projects/britney/21.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"ref": "projects/singles/24.jpg",
+							"cap": "Album Cover Concept"
 						}
 					]
 				},
 				{
-					"id": "britneyJeanCS",
+					"id": "alanJackson",
 					"type": "image",
-					"ref": "music/43.jpg",
+					"ref": "music/aj1.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/britney/16.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"ref": "projects/vinyl/aj1.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
 						},
 						{
 							"type": "image",
-							"ref": "projects/britney/17.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"ref": "projects/vinyl/aj2.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aj3.jpg",
+							"cap": "Reconfiguring CD Package for Vinyl"
 						}
 					]
 				},
 				{
-					"id": "mariahCarey",
+					"id": "summer4",
 					"type": "image",
-					"ref": "music/47.jpg",
+					"ref": "music/summer4.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/mc/2.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/3.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/4.jpg",
-							"cap": "Vinyl Package Recreation"
+							"ref": "projects/playlists/5.jpg",
+							"cap": "Sony Playlist Cover Artwork"
 						}
 					]
 				},
 				{
-					"id": "mariahButterfly",
+					"id": "thriller40Logos",
 					"type": "image",
-					"ref": "music/51.jpg",
+					"ref": "music/t40logos.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color": "white",
 					"slides": [{
-							"type": "image",
-							"ref": "projects/mc/17.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/18.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/19.jpg",
-							"cap": "Vinyl Package Recreation"
-						}
+						"type": "image",
+						"ref": "projects/mj/l1.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l2.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l3.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l4.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l5.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l6.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l7.jpg",
+						"cap": "Anniversary Logo Concept"
+					}
 					]
 				}
 			]
@@ -906,37 +1073,49 @@
 							"type": "video",
 							"ref": "projects/amtrac/3.mp4",
 							"cap": "Spotify Background Animations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/amtrac/4.jpg",
-							"cap": "Vinyl Package Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/amtrac/5.jpg",
-							"cap": "Vinyl Package Design"
 						}
 					]
 				},
 				{
-					"id": "kennyDolly",
+					"id": "future2",
 					"type": "image",
-					"ref": "music/8.jpg",
+					"ref": "music/f2.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/singles/20.jpg",
+						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/singles/19.jpg",
+						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+					}
+					]
+				},
+				{
+					"id": "summer5",
+					"type": "image",
+					"ref": "music/summer5.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/vinyl/28.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
+							"ref": "projects/playlists/6.jpg",
+							"cap": "Sony Playlist Cover Artwork"
+						}
+					]
+				},
+				{
+					"id": "soulAsylum",
+					"type": "image",
+					"ref": "music/sa1.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/vinyl/29.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
+							"ref": "projects/vinyl/sa1.jpg",
+							"cap": "Vinyl Album Concept"
+						},{
 							"type": "image",
-							"ref": "projects/vinyl/30.jpg",
-							"cap": "Vinyl Package Recreation"
+							"ref": "projects/vinyl/sa2.jpg",
+							"cap": "Vinyl Album Concept"
 						}
 					]
 				},
@@ -948,6 +1127,33 @@
 							"type": "video",
 							"ref": "projects/bestnew/1.mp4",
 							"cap": "Spotify Playlist Cover Template Design"
+						}
+					]
+				},
+				{
+					"id": "carnalLove2",
+					"type": "image",
+					"ref": "music/am2.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/24.jpg",
+							"cap": "Final Single Cover Artwork"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/23.jpg",
+							"cap": "Single Cover Concept"
+						}
+					]
+				},
+				{
+					"id": "summer6",
+					"type": "image",
+					"ref": "music/summer6.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/playlists/7.jpg",
+							"cap": "Sony Playlist Cover Artwork"
 						}
 					]
 				},
@@ -968,16 +1174,6 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/x3.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/x4.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/x5.jpg",
 							"cap": "Reconfiguring CD Package for Vinyl"
 						}
 					]
@@ -1004,17 +1200,12 @@
 					"ref": "music/24.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/vinyl/25.jpg",
+							"ref": "projects/vinyl/t1.jpg",
 							"cap": "Reconfiguring CD Package for Vinyl"
 						},
 						{
 							"type": "image",
-							"ref": "projects/vinyl/26.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/27.jpg",
+							"ref": "projects/vinyl/t2.jpg",
 							"cap": "Reconfiguring CD Package for Vinyl"
 						}
 					]
@@ -1026,7 +1217,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/10.jpg",
-							"cap": "Single Cover Design"
+							"cap": "Single Cover Design – Previous Single on Left"
 						}
 					]
 				},
@@ -1037,11 +1228,6 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/13.jpg",
-							"cap": "Single Cover Design Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/11.jpg",
 							"cap": "Single Cover Design Concept"
 						},
 						{
@@ -1063,91 +1249,40 @@
 					]
 				},
 				{
-					"id": "britneyMyPrerogative",
+					"id": "sashaSloan2",
 					"type": "image",
-					"ref": "music/40.jpg",
+					"ref": "music/ss2.jpg",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/singles/8.jpg",
+						"cap": "Single Cover Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/singles/11.jpg",
+						"cap": "Final Single Cover Artwork"
+					}]
+				},
+				{
+					"id": "summer7",
+					"type": "image",
+					"ref": "music/summer7.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/britney/bs1.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/bs2.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/bs3.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/bs4.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/bs5.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"ref": "projects/playlists/8.jpg",
+							"cap": "Sony Playlist Cover Artwork"
 						}
 					]
 				},
 				{
-					"id": "britneyCS",
+					"id": "thriller403",
 					"type": "image",
-					"ref": "music/44.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/britney/22.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
-						},
+					"ref": "music/t403.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/britney/23.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
-						}
-					]
-				},
-				{
-					"id": "mariahUnplugged",
-					"type": "image",
-					"ref": "music/48.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/mc/8.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/9.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/10.jpg",
-							"cap": "Vinyl Package Recreation"
-						}
-					]
-				},
-				{
-					"id": "mariahMusicBox",
-					"type": "image",
-					"ref": "music/52.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/mc/11.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/12.jpg",
-							"cap": "Vinyl Package Recreation"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/13.jpg",
-							"cap": "Vinyl Package Recreation"
+							"ref": "projects/mj/7.jpg",
+							"cap": "Thriller 40 Annivesary Cover Concept"
 						}
 					]
 				}

@@ -73,38 +73,6 @@
 							"type": "image",
 							"ref": "projects/mc/17.jpg",
 							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/18.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/19.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/20.jpg",
-							"cap": "Vinyl Package Recreation"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/21.jpg",
-							"cap": "Vinyl Package Recreation"
-						},{
-							"type": "image",
-							"ref": "projects/mc/22.jpg",
-							"cap": "Vinyl Package Recreation"
-						},{
-							"type": "image",
-							"ref": "projects/mc/23.jpg",
-							"cap": "Vinyl Package Recreation"
-						},{
-							"type": "image",
-							"ref": "projects/mc/24.jpg",
-							"cap": "Vinyl Package Recreation"
-						},{
-							"type": "image",
-							"ref": "projects/mc/25.jpg",
-							"cap": "Vinyl Package Recreation"
 						}
 					]
 				},
@@ -125,16 +93,6 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg3.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/pg4.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/pg5.jpg",
 							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
 						}
 					]
@@ -304,14 +262,20 @@
 					]
 				},
 				{
-					"id": "compass",
+					"id": "milesDavis",
 					"type": "image",
 					"ref": "highlights/21.jpg",
 					"slides": [{
 						"type": "image",
-						"ref": "projects/type/3.jpg",
-						"cap": "Proprietary Software Logo Design"
-					}]
+						"ref": "projects/vinyl/md1.jpg",
+						"cap": "Design"
+					},
+					{
+						"type": "image",
+						"ref": "projects/vinyl/md2.jpg",
+						"cap": "Design"
+					}
+				]
 				}
 			]
 		},
@@ -348,13 +312,18 @@
 					}]
 				},
 				{
-					"id": "adoreYou",
+					"id": "sashaSloan",
 					"type": "image",
 					"ref": "highlights/12.jpg",
 					"slides": [{
 						"type": "image",
-						"ref": "projects/singles/2.jpg",
-						"cap": "Harry Styles Single Cover Concept"
+						"ref": "projects/singles/8.jpg",
+						"cap": "Single Cover Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/singles/11.jpg",
+						"cap": "Final Single Cover Artwork"
 					}]
 				},
 				{
@@ -411,38 +380,33 @@
 					]
 				},
 				{
-					"id": "chameleon",
+					"id": "firebug",
 					"type": "image",
 					"ref": "highlights/18.jpg",
 					"slides": [{
 						"type": "image",
-						"ref": "projects/podcasts/14.jpg",
+						"ref": "projects/podcasts/3.jpg",
 						"cap": "Tile Art Design"
+					},
+					{
+						"type": "image",
+						"ref": "projects/podcasts/4.jpg",
+						"cap": "Tile Art Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/podcasts/5.jpg",
+						"cap": "Tile Art Concept"
 					}]
 				},
 				{
-					"id": "triPlay",
+					"id": "armaanMalik",
 					"type": "image",
 					"ref": "highlights/17.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/triplay/1.jpg",
-							"cap": "Logo Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/triplay/2.jpg",
-							"cap": "Wordmark Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/triplay/3.jpg",
-							"cap": "Brand Mockup"
-						},
-						{
-							"type": "image",
-							"ref": "projects/triplay/4.jpg",
-							"cap": "Brand Mockup"
+							"ref": "projects/singles/1.jpg",
+							"cap": "Single Cover + Illustration"
 						}
 					]
 				}
@@ -455,39 +419,24 @@
 					"ref": "highlights/3.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/vinyl/1.jpg",
-							"cap": "Vinyl Package Art Direction + Design"
+							"ref": "projects/vinyl/ck1.jpg",
+							"cap": "Vinyl Package Art Direction + Package Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/vinyl/2.jpg",
-							"cap": "Vinyl Package Art Direction + Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/3.jpg",
-							"cap": "Vinyl Package Art Direction + Design"
+							"ref": "projects/vinyl/ck2.jpg",
+							"cap": "Vinyl Package Art Direction + Package Design"
 						}
 					]
 				},
 				{
-					"id": "firebug",
+					"id": "xtinaStripped",
 					"type": "image",
 					"ref": "highlights/7.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/podcasts/3.jpg",
-							"cap": "Tile Art Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/4.jpg",
-							"cap": "Tile Art Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/5.jpg",
-							"cap": "Tile Art Concept"
+							"ref": "projects/singles/15.jpg",
+							"cap": "Anniversary Album Cover Artwork"
 						}
 					]
 				},
@@ -497,12 +446,7 @@
 					"ref": "highlights/11.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/vinyl/7.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/8.jpg",
+							"ref": "projects/vinyl/kl1.jpg",
 							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
 						}
 					]
@@ -514,12 +458,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/3.jpg",
-							"cap": "Single Artwork Design"
+							"cap": "Single Artwork"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/4.jpg",
-							"cap": "Single Artwork Design + Illustration"
+							"cap": "Single Artwork + Illustration"
 						}
 					]
 				},
@@ -530,23 +474,23 @@
 					"link": "projects/systematictype/index.html"
 				},
 				{
-					"id": "experiment",
+					"id": "dollyParton",
 					"type": "image",
 					"ref": "highlights/23.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/misc/1.jpg",
-							"cap": "Computer Generated Experimental Artwork"
+							"ref": "projects/singles/16.jpg",
+							"cap": "Vinyl Album Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/misc/2.jpg",
-							"cap": "Computer Generated Experimental Artwork"
+							"ref": "projects/singles/17.jpg",
+							"cap": "Vinyl Album Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/misc/3.jpg",
-							"cap": "Computer Generated Experimental Artwork"
+							"ref": "projects/singles/18.jpg",
+							"cap": "Vinyl Album Concept"
 						}
 					]
 				}
@@ -554,14 +498,18 @@
 		},
 		{
 			"column": [{
-					"id": "pM",
+					"id": "frankSinatra",
 					"type": "image",
 					"ref": "highlights/2.jpg",
-					"background": "#39f1cd",
 					"slides": [{
 						"type": "image",
-						"ref": "projects/type/1.jpg",
-						"cap": "Logo Design Concept"
+						"ref": "projects/vinyl/fs1.jpg",
+						"cap": "Art Direction + Package Design"
+					},
+					{
+						"type": "image",
+						"ref": "projects/vinyl/fs2.jpg",
+						"cap": "Art Direction + Package Design"
 					}]
 				},
 				{
@@ -623,14 +571,20 @@
 					]
 				},
 				{
-					"id": "armaanMalik",
+					"id": "future",
 					"type": "image",
 					"ref": "highlights/8.jpg",
 					"slides": [{
 						"type": "image",
-						"ref": "projects/singles/1.jpg",
-						"cap": "Single Cover + Illustration"
-					}]
+						"ref": "projects/singles/19.jpg",
+						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/singles/20.jpg",
+						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+					}
+				]
 				},
 				{
 					"id": "nuevoElemento",

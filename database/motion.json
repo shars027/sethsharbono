@@ -63,17 +63,16 @@
 		},
 		{
 			"column": [{
-					"id": "rama",
-					"type": "video",
-					"ref": "motion/2.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/podcasts/22.mp4",
-							"cap": "Podcast Teaser Animation",
-							"videocontrols": true
-						}
-					]
-				},
+				"id": "amtrac",
+				"type": "video",
+				"ref": "motion/15.mp4",
+				"slides": [{
+						"type": "video",
+						"ref": "projects/amtrac/3.mp4",
+						"cap": "Spotify Background Animations"
+					}
+				]
+			},
 				{
 					"id": "borderlands",
 					"type": "video",
@@ -179,13 +178,14 @@
 					]
 				},
 				{
-					"id": "amtrac",
+					"id": "rama",
 					"type": "video",
-					"ref": "motion/15.mp4",
+					"ref": "motion/2.mp4",
 					"slides": [{
 							"type": "video",
-							"ref": "projects/amtrac/3.mp4",
-							"cap": "Spotify Background Animations"
+							"ref": "projects/podcasts/22.mp4",
+							"cap": "Podcast Teaser Animation",
+							"videocontrols": true
 						}
 					]
 				}

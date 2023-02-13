@@ -54,14 +54,46 @@
 					]
 				},
 				{
-					"id": "palmTree",
+					"id": "thriller40",
 					"type": "image",
-					"ref": "type/5.jpg",
+					"ref": "type/b5.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color":"white",
 					"slides": [{
-							"type": "image",
-							"ref": "projects/type/4.jpg",
-							"cap": "Logo Design Concept"
-						}
+						"type": "image",
+						"ref": "projects/mj/l1.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l2.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l3.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l4.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l5.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l6.jpg",
+						"cap": "Anniversary Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/l7.jpg",
+						"cap": "Anniversary Logo Concept"
+					}
 					]
 				},
 				{
@@ -78,13 +110,48 @@
 					]
 				},
 				{
-					"id": "livingGreen",
+					"id": "palmTree",
 					"type": "image",
-					"ref": "type/13.jpg",
+					"ref": "type/5.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/type/6.jpg",
-							"cap": "Logo Design Concept -- 'Reduce Your Carbon Footprint' Promotion"
+							"ref": "projects/type/4.jpg",
+							"cap": "Logo Design Concept"
+						}
+					]
+				},
+				{
+					"id": "gdb1",
+					"type": "image",
+					"ref": "type/16.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color":"white",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/8.jpg",
+							"cap": "Business Unit Logo Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/type/9.jpg",
+							"cap": "Business Unit Logo Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/type/10.jpg",
+							"cap": "Business Unit Logo Concept"
+						}
+					]
+				},
+				{
+					"id": "pM",
+					"type": "image",
+					"ref": "type/21.jpg",
+					"background": "#39f1cd",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/1.jpg",
+							"cap": "Artist Logo Design Concept"
 						}
 					]
 				}
@@ -92,82 +159,16 @@
 		},
 		{
 			"column": [{
-					"id": "pollen",
-					"type": "image",
-					"ref": "type/2.jpg",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/pollen/1.mp4",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/2.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/3.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/4.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/5.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/6.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/7.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/8.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/9.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/10.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/11.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/12.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/13.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						},
-						{
-							"type": "image",
-							"ref": "projects/pollen/14.jpg",
-							"cap": "Logo Design + Brand Guidelines"
-						}
-						
-					]
-				},
+				"id": "zachHood",
+				"type": "image",
+				"ref": "type/b2.jpg",
+				"slides": [{
+						"type": "image",
+						"ref": "projects/type/7.jpg",
+						"cap": "Artist Logo Design"
+					}
+				]
+			},
 				{
 					"id": "coast",
 					"type": "image",
@@ -286,7 +287,31 @@
 							"cap": "Brand Mockup Concept"
 						}
 					]
-				}
+				},
+				{
+					"id": "s",
+					"type": "image",
+					"ref": "type/18.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color":"white",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/11.jpg",
+							"cap": "Artist Logo Design Concept"
+						}
+					]
+				},
+				{
+                    "id": "livingGreen",
+                    "type": "image",
+                    "ref": "type/13.jpg",
+                    "slides": [{
+                            "type": "image",
+                            "ref": "projects/type/6.jpg",
+                            "cap": "Logo Design Concept -- 'Reduce Your Carbon Footprint' Promotion"
+                        }
+                    ]
+                }
 			]
 		},
 		{
@@ -364,7 +389,95 @@
 							"cap": "Spotify Playlist Cover Template Design"
 						}
 					]
-				}
+				},
+				{
+					"id": "compass",
+					"type": "image",
+					"ref": "type/19.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/3.jpg",
+							"cap": "Proprietary Software Logo Design"
+						}
+					]
+				},
+				{
+                    "id": "pollen",
+                    "type": "image",
+                    "ref": "type/2.jpg",
+                    "slides": [{
+                            "type": "video",
+                            "ref": "projects/pollen/1.mp4",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/2.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/3.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/4.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/5.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/6.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/7.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/8.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/9.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/10.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/11.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/12.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/13.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/14.jpg",
+                            "cap": "Logo Design + Brand Guidelines"
+                        }
+                        
+                    ]
+                }
 			]
 		},
 		{
@@ -380,52 +493,89 @@
 					]
 				},
 				{
-					"id": "pM",
+					"id": "summer",
 					"type": "image",
-					"ref": "type/8.jpg",
-					"background": "#39f1cd",
+					"ref": "type/b8.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/type/1.jpg",
-							"cap": "Logo Design Concept"
+							"ref": "projects/playlists/6.jpg",
+							"cap": "Sony Playlist Cover Artwork – Custom Type"
 						}
 					]
 				},
 				{
-					"id": "compass",
+					"id": "pM2",
 					"type": "image",
-					"ref": "type/12.jpg",
+					"ref": "type/b12.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color":"white",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/type/3.jpg",
-							"cap": "Proprietary Software Logo Design"
+							"ref": "projects/type/12.jpg",
+							"cap": "'PM' Logo Design Concept"
 						}
 					]
 				},
 				{
-					"id": "triPlay",
+					"id": "gdb3",
 					"type": "image",
-					"ref": "type/16.jpg",
+					"ref": "type/22.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color":"white",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/triplay/1.jpg",
+							"ref": "projects/type/13.jpg",
+							"cap": "Business Unit Logo Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/type/14.jpg",
+							"cap": "Business Unit Logo Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/type/15.jpg",
+							"cap": "Business Unit Logo Concept"
+						}
+					]
+				},
+				{
+					"id": "jg",
+					"type": "image",
+					"ref": "type/20.jpg",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/type/jg.jpg",
 							"cap": "Logo Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/triplay/2.jpg",
-							"cap": "Wordmark Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/triplay/3.jpg",
-							"cap": "Brand Mockup"
-						},
-						{
-							"type": "image",
-							"ref": "projects/triplay/4.jpg",
-							"cap": "Brand Mockup"
+							"ref": "projects/type/jg2.jpg",
+							"cap": "Logo Design"
 						}
+					]
+				},
+				{
+					"id": "gdb2",
+					"type": "image",
+					"ref": "type/24.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color":"white",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/type/16.jpg",
+						"cap": "Business Unit Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/type/17.jpg",
+						"cap": "Business Unit Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/type/18.jpg",
+						"cap": "Business Unit Logo Concept"
+					}
 					]
 				}
 			]
