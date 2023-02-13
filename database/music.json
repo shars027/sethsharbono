@@ -1126,12 +1126,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/24.jpg",
-							"cap": "Final Single Cover Artwork"
+							"cap": "Single Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/23.jpg",
-							"cap": "Single Cover Concept"
+							"cap": "Final Single Cover Artwork"
 						}
 					]
 				},
