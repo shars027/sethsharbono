@@ -44,8 +44,7 @@
 							"type": "image",
 							"ref": "projects/singles/2.jpg",
 							"cap": "Harry Styles Single Cover Design Concept"
-						}
-					]
+						}]
 				},
 				{
 					"id": "caroleKing",
@@ -82,16 +81,6 @@
 							"type": "image",
 							"ref": "projects/type/7.jpg",
 							"cap": "Artist Logo Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/41.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/42.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
 						}
 					]
 				},

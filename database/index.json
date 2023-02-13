@@ -7,7 +7,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mc/1.jpg",
-							"cap": "30th Anniversary Logo"
+							"cap": "Mariah Carey's Debut Album<br>30th Anniversary Campaign Logo"
 						},
 						{
 							"type": "image",
@@ -83,17 +83,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/pg1.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+							"cap": "Vinyl Sleeve + Label Artwork"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg2.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+							"cap": "Vinyl Sleeve + Label Artwork"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg3.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+							"cap": "Vinyl Sleeve + Label Artwork"
 						}
 					]
 				},
@@ -104,7 +104,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/6.jpg",
-							"cap": "Logo and Tile Art Design"
+							"cap": "Podcast Cover Art"
 						},
 						{
 							"type": "image",
@@ -114,32 +114,22 @@
 						{
 							"type": "image",
 							"ref": "projects/podcasts/8.jpg",
-							"cap": "Episodic Template Example"
+							"cap": "Episodic Cover Example"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/9.jpg",
-							"cap": "Episodic Template Example"
+							"cap": "Episodic Cover Example"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/10.jpg",
-							"cap": "Episodic Template Example"
+							"cap": "Episodic Cover Example"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/11.jpg",
-							"cap": "Episodic Template Example"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/12.jpg",
-							"cap": "Alternate Moodboard"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/13.jpg",
-							"cap": "Alternate Logo and Tile Art Design"
+							"cap": "Episodic Cover Example"
 						}
 					]
 				},
@@ -258,8 +248,7 @@
 							"type": "image",
 							"ref": "projects/wilay/19.png",
 							"cap": "Lyric Storybook Design + Illustrations"
-						}
-					]
+						}]
 				},
 				{
 					"id": "milesDavis",
@@ -268,14 +257,13 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/vinyl/md1.jpg",
-						"cap": "Design"
+						"cap": "Art Direction + Package Design"
 					},
 					{
 						"type": "image",
 						"ref": "projects/vinyl/md2.jpg",
-						"cap": "Design"
-					}
-				]
+						"cap": "Art Direction + Package Design"
+					}]
 				}
 			]
 		},
@@ -287,12 +275,12 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/amtrac/1.mp4",
-							"cap": "Remix Artwork Design"
+							"cap": "Remix Covers"
 						},
 						{
 							"type": "image",
 							"ref": "projects/amtrac/2.jpg",
-							"cap": "Remix Artwork Design"
+							"cap": "Remix Covers"
 						},
 						{
 							"type": "video",
@@ -308,7 +296,7 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/1.jpg",
-						"cap": "London Calling Bus Wrap Design"
+						"cap": "The Clash – Bus Wrap Design"
 					}]
 				},
 				{
@@ -323,7 +311,7 @@
 					{
 						"type": "image",
 						"ref": "projects/singles/11.jpg",
-						"cap": "Final Single Cover Artwork"
+						"cap": "Final Single Cover Art"
 					}]
 				},
 				{
@@ -335,49 +323,48 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/roses/1.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface - Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/2.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface - Work In Progress"
 						},
 						{
 							"type": "video",
 							"ref": "projects/roses/3.mp4",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface - Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/4.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface - Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/5.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface - Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/6.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface - Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/7.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface - Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/8.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface - Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/9.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
-						}
-					]
+							"cap": "Custom Typeface - Work In Progress"
+						}]
 				},
 				{
 					"id": "firebug",
@@ -386,17 +373,17 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/podcasts/3.jpg",
-						"cap": "Tile Art Design"
+						"cap": "Podcast Cover Art"
 					},
 					{
 						"type": "image",
 						"ref": "projects/podcasts/4.jpg",
-						"cap": "Tile Art Concept"
+						"cap": "Podcast Art Concept"
 					},
 					{
 						"type": "image",
 						"ref": "projects/podcasts/5.jpg",
-						"cap": "Tile Art Concept"
+						"cap": "Podcast Art Concept"
 					}]
 				},
 				{
