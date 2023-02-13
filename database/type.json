@@ -61,6 +61,16 @@
 					"color":"white",
 					"slides": [{
 						"type": "image",
+						"ref": "projects/mj/1.jpg",
+						"cap": "Anniversary Logo and Package"
+					},
+					{
+						"type": "image",
+						"ref": "projects/mj/2.jpg",
+						"cap": "Anniversary Logo and Package"
+					},
+					{
+						"type": "image",
 						"ref": "projects/mj/l1.jpg",
 						"cap": "Anniversary Logo Concept"
 					},
