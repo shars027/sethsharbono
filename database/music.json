@@ -103,8 +103,7 @@
 						"type": "image",
 						"ref": "projects/mc/1.jpg",
 						"cap": "30th Anniversary Logo"
-					},
-					{
+					}, {
 						"type": "image",
 						"ref": "projects/mc/2.jpg",
 						"cap": "Vinyl Package Recreation"
@@ -185,7 +184,7 @@
 				{
 					"id": "mc30",
 					"type": "image",
-					"ref": "music/mc vinyls.jpg",
+					"ref": "music/mcvinyls.jpg",
 					"slides": [{
 						"type": "image",
 						"ref": "projects/mc/1.jpg",
