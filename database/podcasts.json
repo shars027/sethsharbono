@@ -7,12 +7,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/15.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/16.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Art"
 						}
 					]
 				},
@@ -35,12 +35,12 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/podcasts/30.mp4",
-							"cap": "Tile Art Animation #1"
+							"cap": "Podcast Art Animation #1"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/31.mp4",
-							"cap": "Tile Art Animation #2"
+							"cap": "Podcast Art Animation #2"
 						}
 					]
 				},
@@ -51,12 +51,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/35.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Art"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/34.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -67,12 +67,12 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/podcasts/28.mp4",
-							"cap": "Tile Art Animation #1"
+							"cap": "Podcast Art Animation #1"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/29.mp4",
-							"cap": "Tile Art Animation #2"
+							"cap": "Podcast Art Animation #2"
 						}
 					]
 				},
@@ -83,17 +83,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/3.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Art"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/4.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/5.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				}
@@ -107,12 +107,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/17.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/18.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -123,12 +123,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/23.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/24.mp4",
-							"cap": "Tile Art Animation"
+							"cap": "Podcast Art Animation"
 						}
 					]
 				},
@@ -139,7 +139,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/33.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -150,17 +150,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/32.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/31.mp4",
-							"cap": "Tile Art Animation #1"
+							"cap": "Podcast Art Animation #1"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/30.mp4",
-							"cap": "Tile Art Animation #2"
+							"cap": "Podcast Art Animation #2"
 						}
 					]
 				},
@@ -171,7 +171,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/36.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -182,12 +182,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/18.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/17.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				}
@@ -201,17 +201,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/19.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Art"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/20.mp4",
-							"cap": "Tile Art Animation #1"
+							"cap": "Podcast Art Animation #1"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/21.mp4",
-							"cap": "Tile Art Animation #2"
+							"cap": "Podcast Art Animation #2"
 						}
 					]
 				},
@@ -222,12 +222,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/26.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/25.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -238,12 +238,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/12.jpg",
-							"cap": "Alternate Tile Art Moodboard"
+							"cap": "Alternate Podcast Art Moodboard"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/13.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -254,17 +254,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/5.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/3.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Cover Art"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/4.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -275,7 +275,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/14.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Art"
 						}
 					]
 				},
@@ -286,12 +286,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/35.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/34.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Art"
 						}
 					]
 				}
@@ -305,17 +305,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/4.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/3.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Art"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/5.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -326,7 +326,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/27.jpg",
-							"cap": "Tile Art Concept Design (Left: Season 1 Design by Annie Stoll.<br>Right: Guru Silhouette Illustrated by Annie Stoll)"
+							"cap": "Podcast Art Concept (Left: Season 1 Design by Annie Stoll.<br>Right: Guru Silhouette Illustrated by Annie Stoll)"
 						}
 					]
 				},
@@ -337,12 +337,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/16.jpg",
-							"cap": "Tile Art Design"
+							"cap": "Podcast Art"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/15.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -353,12 +353,12 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/podcasts/1.mp4",
-							"cap": "Tile Art Animation #2"
+							"cap": "Podcast Art Animation #2"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/2.mp4",
-							"cap": "Tile Art Animation #1"
+							"cap": "Podcast Art Animation #1"
 						}
 					]
 				},
@@ -369,12 +369,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/26.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/25.jpg",
-							"cap": "Tile Art Concept Design"
+							"cap": "Podcast Art Concept"
 						}
 					]
 				},
@@ -385,7 +385,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/6.jpg",
-							"cap": "Logo and Tile Art Design"
+							"cap": "Podcast Art"
 						},
 						{
 							"type": "image",

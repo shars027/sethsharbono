@@ -7,72 +7,72 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mc/1.jpg",
-							"cap": "Mariah Carey's Debut Album<br>30th Anniversary Campaign Logo"
+							"cap": "Mariah Carey's Career Anniversary – Campaign Logo"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mc/2.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/3.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/4.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/5.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/6.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/7.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/8.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/9.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/10.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/11.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/12.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/13.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/14.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/15.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/16.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}, {
 							"type": "image",
 							"ref": "projects/mc/17.jpg",
-							"cap": "Vinyl Package Recreation"
+							"cap": "Vinyl Package Reconstruction"
 						}
 					]
 				},
@@ -83,17 +83,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/pg1.jpg",
-							"cap": "Vinyl Sleeve + Label Artwork"
+							"cap": "Vinyl Sleeve + Label Design"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg2.jpg",
-							"cap": "Vinyl Sleeve + Label Artwork"
+							"cap": "Vinyl Sleeve + Label Design"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg3.jpg",
-							"cap": "Vinyl Sleeve + Label Artwork"
+							"cap": "Vinyl Sleeve + Label Design"
 						}
 					]
 				},
@@ -104,7 +104,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/6.jpg",
-							"cap": "Podcast Cover Art"
+							"cap": "Podcast Art"
 						},
 						{
 							"type": "image",
@@ -140,12 +140,12 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/podcasts/1.mp4",
-							"cap": "Podcast Art Animation #1"
+							"cap": "Podcast Cover Animation #1"
 						},
 						{
 							"type": "video",
 							"ref": "projects/podcasts/2.mp4",
-							"cap": "Podcast Art Animation #2"
+							"cap": "Podcast Cover Animation #2"
 						}
 					]
 				},
@@ -257,12 +257,12 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/vinyl/md1.jpg",
-						"cap": "Art Direction + Package Design"
+						"cap": "Art Direction + Design. Based on the artwork from the 'On the Corner' album"
 					},
 					{
 						"type": "image",
 						"ref": "projects/vinyl/md2.jpg",
-						"cap": "Art Direction + Package Design"
+						"cap": "Art Direction + Design. Based on the artwork from the 'On the Corner' album"
 					}]
 				}
 			]
@@ -311,7 +311,7 @@
 					{
 						"type": "image",
 						"ref": "projects/singles/11.jpg",
-						"cap": "Final Single Cover Art"
+						"cap": "Single Cover Art"
 					}]
 				},
 				{
@@ -373,7 +373,7 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/podcasts/3.jpg",
-						"cap": "Podcast Cover Art"
+						"cap": "Podcast Art"
 					},
 					{
 						"type": "image",
@@ -407,12 +407,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/ck1.jpg",
-							"cap": "Vinyl Package Art Direction + Package Design"
+							"cap": "Art Direction + Design"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/ck2.jpg",
-							"cap": "Vinyl Package Art Direction + Package Design"
+							"cap": "Art Direction + Design"
 						}
 					]
 				},
@@ -423,7 +423,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/15.jpg",
-							"cap": "Anniversary Album Cover Artwork"
+							"cap": "Anniversary Album Cover"
 						}
 					]
 				},
@@ -434,7 +434,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/kl1.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+							"cap": "Vinyl Sleeve + Label Design"
 						}
 					]
 				},
@@ -445,12 +445,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/3.jpg",
-							"cap": "Single Artwork"
+							"cap": "Single Cover"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/4.jpg",
-							"cap": "Single Artwork + Illustration"
+							"cap": "Single Cover + Illustration"
 						}
 					]
 				},
@@ -467,17 +467,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/16.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/17.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/18.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						}
 					]
 				}
@@ -491,12 +491,12 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/vinyl/fs1.jpg",
-						"cap": "Art Direction + Package Design"
+						"cap": "Art Direction + Design"
 					},
 					{
 						"type": "image",
 						"ref": "projects/vinyl/fs2.jpg",
-						"cap": "Art Direction + Package Design"
+						"cap": "Art Direction + Design"
 					}]
 				},
 				{
@@ -533,27 +533,27 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/mk/1.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/2.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/3.mp4",
-							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Cover + Animation (Left: Original Single cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/4.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/5.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						}
 					]
 				},
@@ -564,12 +564,12 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/singles/19.jpg",
-						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
 					},
 					{
 						"type": "image",
 						"ref": "projects/singles/20.jpg",
-						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
 					}
 				]
 				},
@@ -582,7 +582,7 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/type/2.png",
-						"cap": "Artist Emblem Design"
+						"cap": "Artist Emblem"
 					}]
 				},
 				{

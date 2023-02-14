@@ -9,47 +9,47 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/roses/1.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/2.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "video",
 							"ref": "projects/roses/3.mp4",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/4.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/5.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/6.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/7.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/8.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/roses/9.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						}
 					]
 				},
@@ -62,12 +62,12 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/mj/1.jpg",
-						"cap": "Anniversary Logo and Package"
+						"cap": "Anniversary Package Art Direction"
 					},
 					{
 						"type": "image",
 						"ref": "projects/mj/2.jpg",
-						"cap": "Anniversary Logo and Package"
+						"cap": "Anniversary Package Art Direction"
 					},
 					{
 						"type": "image",
@@ -115,7 +115,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/2.png",
-							"cap": "Artist Emblem Design"
+							"cap": "Artist Emblem"
 						}
 					]
 				},
@@ -126,7 +126,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/4.jpg",
-							"cap": "Logo Design Concept"
+							"cap": "Logo Concept"
 						}
 					]
 				},
@@ -161,7 +161,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/1.jpg",
-							"cap": "Artist Logo Design Concept"
+							"cap": "Artist Logo Concept"
 						}
 					]
 				}
@@ -175,7 +175,7 @@
 				"slides": [{
 						"type": "image",
 						"ref": "projects/type/7.jpg",
-						"cap": "Artist Logo Design"
+						"cap": "Artist Logo"
 					}
 				]
 			},
@@ -186,12 +186,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/coastal/1.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						},
 						{
 							"type": "image",
 							"ref": "projects/coastal/2.jpg",
-							"cap": "Custom Typeface -- Work In Progress"
+							"cap": "Custom Typeface – Work In Progress"
 						}
 					]
 				},
@@ -203,7 +203,7 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/vicks/1.mp4",
-							"cap": "Vicks Rebrand"
+							"cap": "Branding Excersize - Concept"
 						},
 						{
 							"type": "image",
@@ -274,27 +274,27 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/musicprocon/1.jpg",
-							"cap": "Brand Design Concept"
+							"cap": "Branding Excersize - Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/musicprocon/2.jpg",
-							"cap": "Brand Mockup Concept"
+							"cap": "Branding Excersize - Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/musicprocon/3.jpg",
-							"cap": "Brand Mockup Concept"
+							"cap": "Branding Excersize - Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/musicprocon/4.jpg",
-							"cap": "Brand Mockup Concept"
+							"cap": "Branding Excersize - Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/musicprocon/5.jpg",
-							"cap": "Brand Mockup Concept"
+							"cap": "Branding Excersize - Concept"
 						}
 					]
 				},
@@ -307,7 +307,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/11.jpg",
-							"cap": "Artist Logo Design Concept"
+							"cap": "Artist Logo Concept"
 						}
 					]
 				},
@@ -318,7 +318,7 @@
                     "slides": [{
                             "type": "image",
                             "ref": "projects/type/6.jpg",
-                            "cap": "Logo Design Concept -- 'Reduce Your Carbon Footprint' Promotion"
+                            "cap": "Internal Corporate Initiative Logo – Encouraging teams to 'reduce' their carbon footprint"
                         }
                     ]
                 }
@@ -332,7 +332,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/6.jpg",
-							"cap": "Logo and Tile Art Design"
+							"cap": "Podcast Cover Art"
 						},
 						{
 							"type": "image",
@@ -367,7 +367,7 @@
 						{
 							"type": "image",
 							"ref": "projects/podcasts/13.jpg",
-							"cap": "Alternate Logo and Tile Art Design"
+							"cap": "Alternate Podcast Art + Logo Concept"
 						}
 					]
 				},
@@ -385,7 +385,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/5.jpg",
-							"cap": "Artist Logo Design Concept"
+							"cap": "Artist Logo Concept"
 						}
 					]
 				},
@@ -396,7 +396,7 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/bestnew/1.mp4",
-							"cap": "Spotify Playlist Cover Template Design"
+							"cap": "Sony Playlist Cover – Editable Template"
 						}
 					]
 				},
@@ -407,7 +407,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/3.jpg",
-							"cap": "Proprietary Software Logo Design"
+							"cap": "Software Logo Concept"
 						}
 					]
 				},
@@ -418,72 +418,72 @@
                     "slides": [{
                             "type": "video",
                             "ref": "projects/pollen/1.mp4",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/2.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/3.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/4.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/5.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/6.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/7.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/8.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/9.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/10.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/11.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/12.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/13.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         },
                         {
                             "type": "image",
                             "ref": "projects/pollen/14.jpg",
-                            "cap": "Logo Design + Brand Guidelines"
+                            "cap": "Logo + Brand Guidelines"
                         }
                         
                     ]
@@ -498,7 +498,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mc/1.jpg",
-							"cap": "30th Anniversary Logo"
+							"cap": "Mariah Carey's Career Anniversary – Campaign Logo"
 						}
 					]
 				},
@@ -509,7 +509,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/6.jpg",
-							"cap": "Sony Playlist Cover Artwork – Custom Type"
+							"cap": "Sony Playlist Cover with Custom Typeography"
 						}
 					]
 				},
@@ -522,7 +522,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/12.jpg",
-							"cap": "'PM' Logo Design Concept"
+							"cap": "'PM' Logo Concept"
 						}
 					]
 				},
@@ -556,12 +556,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/jg.jpg",
-							"cap": "Logo Design"
+							"cap": "Logo"
 						},
 						{
 							"type": "image",
 							"ref": "projects/type/jg2.jpg",
-							"cap": "Logo Design"
+							"cap": "Logo"
 						}
 					]
 				},

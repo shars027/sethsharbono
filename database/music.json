@@ -7,12 +7,12 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/vinyl/md1.jpg",
-						"cap": "Design"
+						"cap": "Art Direction + Design. Based on the Cover from the 'On the Corner' album"
 					},
 					{
 						"type": "image",
 						"ref": "projects/vinyl/md2.jpg",
-						"cap": "Design"
+						"cap": "Art Direction + Design. Based on the Cover from the 'On the Corner' album"
 					}]
 				},
 				{
@@ -22,12 +22,12 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/vinyl/fs1.jpg",
-						"cap": "Art Direction + Package Design"
+						"cap": "Art Direction + Design"
 					},
 					{
 						"type": "image",
 						"ref": "projects/vinyl/fs2.jpg",
-						"cap": "Art Direction + Package Design"
+						"cap": "Art Direction + Design"
 					}]
 				},
 				{
@@ -43,7 +43,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/2.jpg",
-							"cap": "Harry Styles Single Cover Design Concept"
+							"cap": "Harry Styles Single Cover Concept"
 						}]
 				},
 				{
@@ -53,12 +53,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/ck1.jpg",
-							"cap": "Vinyl Package Art Direction + Design"
+							"cap": "Art Direction + Design"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/ck2.jpg",
-							"cap": "Vinyl Package Art Direction + Design"
+							"cap": "Art Direction + Design"
 						}
 					]
 				},
@@ -69,7 +69,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/21.jpg",
-							"cap": "Album Anniversary Cover Design"
+							"cap": "Anniversary Album Cover"
 						}
 					]
 				},
@@ -80,7 +80,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/7.jpg",
-							"cap": "Artist Logo Design"
+							"cap": "Artist Logo"
 						}
 					]
 				},
@@ -91,7 +91,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/9.jpg",
-							"cap": "Album Cover Concept Design + Illustration"
+							"cap": "Album Cover Concept"
 						}
 					]
 				},
@@ -102,7 +102,7 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/mc/1.jpg",
-						"cap": "30th Anniversary Logo"
+						"cap": "Mariah Carey's Career Anniversary – Campaign Logo"
 					}]
 				},
 				{
@@ -114,7 +114,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/2.png",
-							"cap": "Artist Emblem Design"
+							"cap": "Artist Emblem"
 						}]
 				},
 				{
@@ -125,67 +125,67 @@
 					{
 						"type": "image",
 						"ref": "projects/mc/2.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/3.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/4.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/5.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/6.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/7.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/8.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/9.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/10.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/11.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/12.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/13.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/14.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/15.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/16.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}, {
 						"type": "image",
 						"ref": "projects/mc/17.jpg",
-						"cap": "Vinyl Package Recreation"
+						"cap": "Vinyl Package Reconstruction"
 					}]
 				},
 				{
@@ -195,12 +195,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/12.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/13.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						}
 					]
 				},
@@ -211,27 +211,27 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/mk/1.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/2.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/3.mp4",
-							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Cover + Animation (Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/4.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/5.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						}
 					]
 				},
@@ -242,12 +242,12 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/singles/19.jpg",
-						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
 					},
 					{
 						"type": "image",
 						"ref": "projects/singles/20.jpg",
-						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
 					}
 					]
 				},
@@ -258,17 +258,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/britney/bs1.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/bs2.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/bs3.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						}
 					]
 				},
@@ -279,7 +279,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/1.jpg",
-							"cap": "Sony Playlist Cover Artwork"
+							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -290,12 +290,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mj/1.jpg",
-							"cap": "Thriller 40th Anniversary CD Design"
+							"cap": "Anniversary Package Art Direction"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mj/2.jpg",
-							"cap": "Thriller 40th Anniversary CD Design"
+							"cap": "Anniversary Package Art Direction"
 						},
 						{
 							"type": "image",
@@ -305,32 +305,32 @@
 						{
 							"type": "image",
 							"ref": "projects/mj/4.jpg",
-							"cap": "Thriller 40th Anniversary Box Set Concept"
+							"cap": "Anniversary Box Set Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mj/5.5.jpg",
-							"cap": "Thriller vs. Starlight (Demo) Lyric Comparison Totebag"
+							"cap": "Thriller vs. Starlight (Demo) - Lyric Comparison Tote Design "
 						},
 						{
 							"type": "image",
 							"ref": "projects/mj/5.jpg",
-							"cap": " Diamond Plaque Poster"
+							"cap": "Diamond Plaque Poster"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mj/6.jpg",
-							"cap": "Thriller 40 Anniversary Cover Concept"
+							"cap": "Anniversary Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mj/7.jpg",
-							"cap": "Thriller 40 Anniversary Cover Concept"
+							"cap": "Anniversary Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mj/8.jpg",
-							"cap": "Thriller 40 Anniversary Cover Concept"
+							"cap": "Anniversary Cover Concept"
 						}
 					]
 				}
@@ -344,17 +344,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/18.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/16.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/17.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						}
 					]
 				},{
@@ -364,12 +364,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/bs1.jpg",
-							"cap": "Art Direction + Package Design"
+							"cap": "Art Direction + Design"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/bs2.jpg",
-							"cap": "Art Direction + Package Design"
+							"cap": "Art Direction + Design"
 						}
 					]
 				},
@@ -380,7 +380,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/kl1.jpg",
-							"cap": "Sleeve + Label Design"
+							"cap": "Vinyl Sleeve + Label Design"
 						}
 					]
 				},
@@ -391,7 +391,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/1.jpg",
-							"cap": "London Calling Bus Wrap Design"
+							"cap": "The Clash – Bus Wrap Design"
 						}
 					]
 				},
@@ -402,12 +402,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/3.jpg",
-							"cap": "Single Cover Design"
+							"cap": "Single Cover"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/4.jpg",
-							"cap": "Single Cover Design + Illustration"
+							"cap": "Single Cover + Illustration"
 						}
 					]
 				},
@@ -418,7 +418,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/2.jpg",
-							"cap": "Sony Playlist Cover Artwork"
+							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -430,7 +430,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/3.jpg",
-							"cap": "Sony Playlist Cover Artwork"
+							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -442,7 +442,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/5.jpg",
-							"cap": "Artist Logo Design Concept"
+							"cap": "Artist Logo Concept"
 						}
 					]
 				},
@@ -453,17 +453,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/17.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/18.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/16.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						}
 					]
 				},
@@ -474,17 +474,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/aj1.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/aj2.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/aj3.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						}
 					]
 				},
@@ -496,27 +496,27 @@
 						{
 							"type": "video",
 							"ref": "projects/mk/3.mp4",
-							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Cover + Animation (Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/1.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/2.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/4.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/5.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						}
 					]
 				},
@@ -527,12 +527,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/5.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/6.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						}
 					]
 				},
@@ -554,17 +554,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/16.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/17.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/18.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Cover Concept"
 						}
 					]
 				},
@@ -575,7 +575,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/4.jpg",
-							"cap": "Sony Playlist Cover Artwork"
+							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -587,7 +587,7 @@
 						{
 							"type": "image",
 							"ref": "projects/mj/6.jpg",
-							"cap": "Thriller 40 Annivesary Cover Concept"
+							"cap": "Annivesary Cover Concept"
 						}
 					]
 				}
@@ -601,7 +601,7 @@
 				"slides": [{
 						"type": "image",
 						"ref": "projects/singles/15.jpg",
-						"cap": "Anniversary Album Cover Artwork"
+						"cap": "Anniversary Album Cover"
 					}
 				]
 			},
@@ -612,12 +612,12 @@
 				"slides": [{
 					"type": "image",
 					"ref": "projects/singles/11.jpg",
-					"cap": "Single Cover Concept"
+					"cap": "Single Cover"
 				},
 				{
 					"type": "image",
 					"ref": "projects/singles/8.jpg",
-					"cap": "Final Single Cover Artwork"
+					"cap": "Single Cover Concept"
 				}]
 			},
 			{
@@ -627,17 +627,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/pg1.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+							"cap": "Vinyl Sleeve + Label Design"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg2.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+							"cap": "Vinyl Sleeve + Label Design"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg3.jpg",
-							"cap": "Vinyl Package Layout -- Sleeve + Label Design"
+							"cap": "Vinyl Sleeve + Label Design"
 						}
 					]
 				},
@@ -648,27 +648,27 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/mk/2.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/1.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/3.mp4",
-							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Cover + Animation (Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/4.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/5.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						}
 					]
 				},
@@ -679,17 +679,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/ml1.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/ml2.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/ml3.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						}
 					]
 				},
@@ -700,67 +700,67 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/britney/cs.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": " "
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs1.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs2.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs3.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs4.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs5.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs6.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs7.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs8.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs9.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs10.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs11.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/britney/cs12.jpg",
-							"cap": "Reconfiguring CD Package for Cassette"
+							"cap": "Cassette Package Adapted from CD files"
 						}
 					]
 				},
@@ -772,16 +772,16 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/sa2cover.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Concept"
 						},{
 							"type": "image",
 							"ref": "projects/vinyl/sa3.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/sa4.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Album Concept"
 						}
 					]
 				},
@@ -792,27 +792,27 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mk/4.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/mk/5.jpg",
-							"cap": "EP Artwork Design Concept"
+							"cap": "EP Concept"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/1.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/2.mp4",
-							"cap": "Remix Artwork + Animation (Top Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
 						},
 						{
 							"type": "video",
 							"ref": "projects/mk/3.mp4",
-							"cap": "Artwork + Animation (Left: Original Single Artwork Designed by Annie Stoll)"
+							"cap": "Cover + Animation (Left: Original Single Cover Designed by Annie Stoll)"
 						}
 					]
 				},
@@ -823,17 +823,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/aic1.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/aic2.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/aic3.jpg",
-							"cap": "Reconfiguring/Recreating CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						}
 					]
 				},
@@ -844,7 +844,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/7.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						}
 					]
 				},
@@ -861,7 +861,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/1.jpg",
-							"cap": "Single Cover Design + Illustration"
+							"cap": "Single Cover + Illustration"
 						}
 					]
 				},
@@ -872,12 +872,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/4.jpg",
-							"cap": "Single Cover Design"
+							"cap": "Single Cover"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/3.jpg",
-							"cap": "Single Cover Design"
+							"cap": "Single Cover"
 						}
 					]
 				},
@@ -888,7 +888,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/23.jpg",
-							"cap": "Final Album Cover Artwork"
+							"cap": "Album Cover"
 						},
 						{
 							"type": "image",
@@ -904,17 +904,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/aj1.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/aj2.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/aj3.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						}
 					]
 				},
@@ -925,7 +925,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/5.jpg",
-							"cap": "Sony Playlist Cover Artwork"
+							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -982,12 +982,12 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/amtrac/1.mp4",
-							"cap": "Remix Artwork Design"
+							"cap": "Remix Cover Design"
 						},
 						{
 							"type": "image",
 							"ref": "projects/amtrac/2.jpg",
-							"cap": "Remix Artwork Design"
+							"cap": "Remix Cover Design"
 						},
 						{
 							"type": "video",
@@ -1003,12 +1003,12 @@
 					"slides": [{
 						"type": "image",
 						"ref": "projects/singles/20.jpg",
-						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
 					},
 					{
 						"type": "image",
 						"ref": "projects/singles/19.jpg",
-						"cap": "'Reign of Future' 5-Album Compilation Box Set – Cover Concept"
+						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
 					}
 					]
 				},
@@ -1019,7 +1019,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/6.jpg",
-							"cap": "Sony Playlist Cover Artwork"
+							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -1031,11 +1031,11 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/sa1.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Art Direction + Design"
 						},{
 							"type": "image",
 							"ref": "projects/vinyl/sa2.jpg",
-							"cap": "Vinyl Album Concept"
+							"cap": "Art Direction + Design"
 						}
 					]
 				},
@@ -1046,7 +1046,7 @@
 					"slides": [{
 							"type": "video",
 							"ref": "projects/bestnew/1.mp4",
-							"cap": "Spotify Playlist Cover Template Design"
+							"cap": "Sony Playlist Cover – Editable Template"
 						}
 					]
 				},
@@ -1062,7 +1062,7 @@
 						{
 							"type": "image",
 							"ref": "projects/singles/23.jpg",
-							"cap": "Final Single Cover Artwork"
+							"cap": "Single Cover"
 						}
 					]
 				},
@@ -1073,7 +1073,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/7.jpg",
-							"cap": "Sony Playlist Cover Artwork"
+							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -1084,17 +1084,17 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/x1.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/x2.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/x3.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						}
 					]
 				},
@@ -1105,12 +1105,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/6.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/5.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						}
 					]
 				},
@@ -1121,12 +1121,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/vinyl/t1.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						},
 						{
 							"type": "image",
 							"ref": "projects/vinyl/t2.jpg",
-							"cap": "Reconfiguring CD Package for Vinyl"
+							"cap": "Vinyl Package Adapted from CD files"
 						}
 					]
 				},
@@ -1137,7 +1137,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/10.jpg",
-							"cap": "Single Cover Design – Previous Single on Left"
+							"cap": "Single Cover – Previous Single on Left"
 						}
 					]
 				},
@@ -1148,12 +1148,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/13.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/singles/12.jpg",
-							"cap": "Single Cover Design Concept"
+							"cap": "Single Cover Concept"
 						}
 					]
 				},
@@ -1164,7 +1164,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/14.jpg",
-							"cap": "My First Single Cover -- Single Cover Design"
+							"cap": "My First Single Cover!"
 						}
 					]
 				},
@@ -1180,7 +1180,7 @@
 					{
 						"type": "image",
 						"ref": "projects/singles/11.jpg",
-						"cap": "Final Single Cover Artwork"
+						"cap": "Single Cover"
 					}]
 				},
 				{
@@ -1190,7 +1190,7 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/8.jpg",
-							"cap": "Sony Playlist Cover Artwork"
+							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -1202,7 +1202,7 @@
 						{
 							"type": "image",
 							"ref": "projects/mj/7.jpg",
-							"cap": "Thriller 40 Annivesary Cover Concept"
+							"cap": "Annivesary Cover Concept"
 						}
 					]
 				}
