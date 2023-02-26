@@ -118,77 +118,6 @@
 						}]
 				},
 				{
-					"id": "mc30",
-					"type": "image",
-					"ref": "music/mcvinyls.jpg",
-					"slides": [
-					{
-						"type": "image",
-						"ref": "projects/mc/2.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/3.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/4.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/5.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/6.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/7.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/8.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/9.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/10.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/11.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/12.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/13.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/14.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/15.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/16.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}, {
-						"type": "image",
-						"ref": "projects/mc/17.jpg",
-						"cap": "Vinyl Package Reconstruction"
-					}]
-				},
-				{
 					"id": "julian",
 					"type": "image",
 					"ref": "music/29.jpg",
@@ -517,22 +446,6 @@
 							"type": "image",
 							"ref": "projects/mk/5.jpg",
 							"cap": "EP Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "broCode",
-					"type": "image",
-					"ref": "music/30.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/5.jpg",
-							"cap": "Single Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/6.jpg",
-							"cap": "Single Cover Concept"
 						}
 					]
 				},
@@ -898,27 +811,6 @@
 					]
 				},
 				{
-					"id": "alanJackson",
-					"type": "image",
-					"ref": "music/aj1.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/aj1.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aj2.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aj3.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						}
-					]
-				},
-				{
 					"id": "summer4",
 					"type": "image",
 					"ref": "music/summer4.jpg",
@@ -1036,17 +928,6 @@
 							"type": "image",
 							"ref": "projects/vinyl/sa2.jpg",
 							"cap": "Art Direction + Design"
-						}
-					]
-				},
-				{
-					"id": "bestNew",
-					"type": "video",
-					"ref": "music/12.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/bestnew/1.mp4",
-							"cap": "Sony Playlist Cover – Editable Template"
 						}
 					]
 				},
