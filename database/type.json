@@ -442,19 +442,6 @@
 					]
 				},
 				{
-					"id": "pM2",
-					"type": "image",
-					"ref": "type/b12.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color":"white",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/12.jpg",
-							"cap": "'PM' Logo Concept"
-						}
-					]
-				},
-				{
 					"id": "gdb3",
 					"type": "image",
 					"ref": "type/22.jpg",
