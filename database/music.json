@@ -202,20 +202,11 @@
 					]
 				},
 				{
-					"id": "summer1",
-					"type": "image",
-					"ref": "music/summer1.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/playlists/1.jpg",
-							"cap": "Sony Playlist Cover"
-						}
-					]
-				},
-				{
 					"id": "thriller40",
 					"type": "image",
 					"ref": "music/t40.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color": "white",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mj/1.jpg",
@@ -255,11 +246,6 @@
 							"type": "image",
 							"ref": "projects/mj/7.jpg",
 							"cap": "Anniversary Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mj/8.jpg",
-							"cap": "Anniversary Cover Concept"
 						}
 					]
 				}
@@ -278,11 +264,6 @@
 						{
 							"type": "image",
 							"ref": "projects/singles/16.jpg",
-							"cap": "Album Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/17.jpg",
 							"cap": "Album Cover Concept"
 						}
 					]
@@ -376,27 +357,6 @@
 					]
 				},
 				{
-					"id": "dolly2",
-					"type": "image",
-					"ref": "music/dp2.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/17.jpg",
-							"cap": "Album Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/18.jpg",
-							"cap": "Album Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/16.jpg",
-							"cap": "Album Cover Concept"
-						}
-					]
-				},
-				{
 					"id": "",
 					"type": "image",
 					"ref": "music/22.jpg",
@@ -471,11 +431,6 @@
 						},
 						{
 							"type": "image",
-							"ref": "projects/singles/17.jpg",
-							"cap": "Album Cover Concept"
-						},
-						{
-							"type": "image",
 							"ref": "projects/singles/18.jpg",
 							"cap": "Album Cover Concept"
 						}
@@ -509,8 +464,8 @@
 		{
 			"column": [{
 				"id": "xtinaStripped",
-				"type": "image",
-				"ref": "music/xtina1.jpg",
+				"type": "video",
+				"ref": "music/xtina1.mp4",
 				"slides": [{
 						"type": "image",
 						"ref": "projects/singles/15.jpg",
@@ -747,17 +702,6 @@
 							"type": "image",
 							"ref": "projects/vinyl/aic3.jpg",
 							"cap": "Vinyl Package Adapted from CD files"
-						}
-					]
-				},
-				{
-					"id": "exhale",
-					"type": "image",
-					"ref": "music/23.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/7.jpg",
-							"cap": "Single Cover Concept"
 						}
 					]
 				},
@@ -1072,18 +1016,6 @@
 							"type": "image",
 							"ref": "projects/playlists/8.jpg",
 							"cap": "Sony Playlist Cover"
-						}
-					]
-				},
-				{
-					"id": "thriller403",
-					"type": "image",
-					"ref": "music/t403.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/mj/7.jpg",
-							"cap": "Annivesary Cover Concept"
 						}
 					]
 				}

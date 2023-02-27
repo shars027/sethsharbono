@@ -154,11 +154,7 @@
 					"id": "eclipsed",
 					"type": "image",
 					"ref": "podcasts/7.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/26.jpg",
-							"cap": "Podcast Art Concept"
-						},
+					"slides": [
 						{
 							"type": "image",
 							"ref": "projects/podcasts/25.jpg",
@@ -172,12 +168,12 @@
 					"ref": "podcasts/11.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/podcasts/12.jpg",
+							"ref": "projects/podcasts/13.jpg",
 							"cap": "Alternate Podcast Art Moodboard"
 						},
 						{
 							"type": "image",
-							"ref": "projects/podcasts/13.jpg",
+							"ref": "projects/podcasts/12.jpg",
 							"cap": "Podcast Art Concept"
 						}
 					]
