@@ -120,17 +120,6 @@
 					]
 				},
 				{
-					"id": "palmTree",
-					"type": "image",
-					"ref": "type/5.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/4.jpg",
-							"cap": "Logo Concept"
-						}
-					]
-				},
-				{
 					"id": "gdb1",
 					"type": "image",
 					"ref": "type/16.jpg",
