@@ -284,17 +284,6 @@
 					]
 				},
 				{
-					"id": "kennyLoggins",
-					"type": "image",
-					"ref": "music/2.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/kl1.jpg",
-							"cap": "Vinyl Sleeve + Label Design"
-						}
-					]
-				},
-				{
 					"id": "londonCalling",
 					"type": "image",
 					"ref": "music/6.jpg",

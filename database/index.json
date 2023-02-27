@@ -428,17 +428,6 @@
 					]
 				},
 				{
-					"id": "kennyLoggins",
-					"type": "image",
-					"ref": "highlights/11.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/kl1.jpg",
-							"cap": "Vinyl Sleeve + Label Design"
-						}
-					]
-				},
-				{
 					"id": "mishaal",
 					"type": "image",
 					"ref": "highlights/13.jpg",
@@ -584,78 +573,6 @@
 						"ref": "projects/type/2.png",
 						"cap": "Artist Emblem"
 					}]
-				},
-				{
-					"id": "vicks",
-					"type": "video",
-					"ref": "highlights/24.mp4",
-          			"background": "#f4efe9",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/vicks/1.mp4",
-							"cap": "Vicks Rebrand"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/2.png",
-							"cap": "Current Branding"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/3.png",
-							"cap": "Rebrand Concept Moodboard"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/4.png",
-							"cap": "Logo Construction"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/5.png",
-							"cap": "Color Palette"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/6.png",
-							"cap": "Brand Patterns"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/7.png",
-							"cap": "Iconography"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/8.jpg",
-							"cap": "Dayquil Mockup"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/9.jpg",
-							"cap": "Nyquil Mockup"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/10.jpg",
-							"cap": "Sinex Mockup"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/11.jpg",
-							"cap": "Vapor Rub Mockup"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/12.jpg",
-							"cap": "Zzzquil Mockup"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vicks/13.jpg",
-							"cap": "NEW Allay Mockup"
-						}
-					]
 				}
 			]
 		}

@@ -129,22 +129,7 @@
 			]
 		},
 		{
-			"column": [{
-					"id": "badBlood",
-					"type": "video",
-					"ref": "motion/3.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/podcasts/30.mp4",
-							"cap": "Podcast Art Animation #1"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/31.mp4",
-							"cap": "Podcast Art Animation #2"
-						}
-					]
-				},
+			"column": [
 				{
 					"id": "smokescreen2",
 					"type": "video",
@@ -176,18 +161,6 @@
 							"cap": "Podcast Art Animation #1"
 						}
 					]
-				},
-				{
-					"id": "rama",
-					"type": "video",
-					"ref": "motion/2.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/podcasts/22.mp4",
-							"cap": "Podcast Teaser Animation",
-							"videocontrols": true
-						}
-					]
 				}
 			]
 		},
@@ -213,22 +186,6 @@
 					"type": "videolink",
 					"ref": "motion/8.mp4",
 					"link": "https://www.youtube.com/watch?v=8yPmolBzEhQ"
-				},
-				{
-					"id": "badBlood2",
-					"type": "video",
-					"ref": "motion/12.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/podcasts/31.mp4",
-							"cap": "Podcast Art Animation #2"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/30.mp4",
-							"cap": "Podcast Art Animation #1"
-						}
-					]
 				},
 				{
 					"id": "mkLastTime",
