@@ -28,7 +28,13 @@
 						"type": "image",
 						"ref": "projects/vinyl/fs2.jpg",
 						"cap": "Art Direction + Design"
-					}]
+					},
+					{
+						"type": "image",
+						"ref": "projects/vinyl/fs3.jpg",
+						"cap": "Art Direction + Design"
+					}
+				]
 				},
 				{
 					"id": "trailerTrash",
@@ -58,6 +64,11 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/ck2.jpg",
+							"cap": "Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/ck3.jpg",
 							"cap": "Art Direction + Design"
 						}
 					]
@@ -97,8 +108,8 @@
 				},
 				{
 					"id": "mc30Logo",
-					"type": "image",
-					"ref": "music/mc30.jpg",
+					"type": "video",
+					"ref": "music/mc30.mp4",
 					"slides": [{
 						"type": "image",
 						"ref": "projects/mc/1.jpg",
@@ -481,11 +492,7 @@
 					"id": "poloG",
 					"type": "image",
 					"ref": "music/3.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/pg1.jpg",
-							"cap": "Vinyl Sleeve + Label Design"
-						},
+					"slides": [
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg2.jpg",
@@ -494,6 +501,11 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg3.jpg",
+							"cap": "Vinyl Sleeve + Label Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/vinyl/pg4.mp4",
 							"cap": "Vinyl Sleeve + Label Design"
 						}
 					]

@@ -2,8 +2,8 @@
 	"portfolio": [{
 			"column": [{
 					"id": "mc30",
-					"type": "image",
-					"ref": "highlights/1.jpg",
+					"type": "video",
+					"ref": "highlights/mc30.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mc/1.jpg",
@@ -80,11 +80,7 @@
 					"id": "poloG",
 					"type": "image",
 					"ref": "highlights/5.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/pg1.jpg",
-							"cap": "Vinyl Sleeve + Label Design"
-						},
+					"slides": [
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg2.jpg",
@@ -93,6 +89,11 @@
 						{
 							"type": "image",
 							"ref": "projects/vinyl/pg3.jpg",
+							"cap": "Vinyl Sleeve + Label Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/vinyl/pg4.mp4",
 							"cap": "Vinyl Sleeve + Label Design"
 						}
 					]
@@ -130,22 +131,6 @@
 							"type": "image",
 							"ref": "projects/podcasts/11.jpg",
 							"cap": "Episodic Cover Example"
-						}
-					]
-				},
-				{
-					"id": "passionEconomy",
-					"type": "video",
-					"ref": "highlights/4.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/podcasts/1.mp4",
-							"cap": "Podcast Cover Animation #1"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/2.mp4",
-							"cap": "Podcast Cover Animation #2"
 						}
 					]
 				},
@@ -385,17 +370,6 @@
 						"ref": "projects/podcasts/5.jpg",
 						"cap": "Podcast Art Concept"
 					}]
-				},
-				{
-					"id": "armaanMalik",
-					"type": "image",
-					"ref": "highlights/17.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/1.jpg",
-							"cap": "Single Cover + Illustration"
-						}
-					]
 				}
 			]
 		},
@@ -413,17 +387,11 @@
 							"type": "image",
 							"ref": "projects/vinyl/ck2.jpg",
 							"cap": "Art Direction + Design"
-						}
-					]
-				},
-				{
-					"id": "xtinaStripped",
-					"type": "image",
-					"ref": "highlights/7.jpg",
-					"slides": [{
+						},
+						{
 							"type": "image",
-							"ref": "projects/singles/15.jpg",
-							"cap": "Anniversary Album Cover"
+							"ref": "projects/vinyl/ck3.jpg",
+							"cap": "Art Direction + Design"
 						}
 					]
 				},
@@ -440,6 +408,17 @@
 							"type": "image",
 							"ref": "projects/singles/4.jpg",
 							"cap": "Single Cover + Illustration"
+						}
+					]
+				},
+				{
+					"id": "xtinaStripped",
+					"type": "video",
+					"ref": "highlights/xtina1.mp4",
+					"slides": [{
+							"type": "image",
+							"ref": "projects/singles/15.jpg",
+							"cap": "Anniversary Album Cover"
 						}
 					]
 				},
@@ -486,32 +465,22 @@
 						"type": "image",
 						"ref": "projects/vinyl/fs2.jpg",
 						"cap": "Art Direction + Design"
-					}]
+					},
+					{
+						"type": "image",
+						"ref": "projects/vinyl/fs3.jpg",
+						"cap": "Art Direction + Design"
+					}
+				]
 				},
 				{
-					"id": "portraits",
-					"type": "video",
-					"ref": "highlights/16.mp4",
-          			"background": "rgb(179, 179, 179)",
+					"id": "armaanMalik",
+					"type": "image",
+					"ref": "highlights/17.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/portraits/1.jpg",
-							"cap": "Design + Photography"
-						},
-						{
-							"type": "image",
-							"ref": "projects/portraits/2.jpg",
-							"cap": "Design + Photography"
-						},
-						{
-							"type": "image",
-							"ref": "projects/portraits/3.jpg",
-							"cap": "Design + Photography"
-						},
-						{
-							"type": "image",
-							"ref": "projects/portraits/4.jpg",
-							"cap": "Design + Photography"
+							"ref": "projects/singles/1.jpg",
+							"cap": "Single Cover + Illustration"
 						}
 					]
 				},

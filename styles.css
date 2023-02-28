@@ -354,7 +354,7 @@ a {
   position: fixed;
   right: 20px;
   top: 90px;
-  width: calc(65% - 30px);
+  width: calc(60% - 30px);
   height: calc(100% - 110px);
 }
 
@@ -364,7 +364,7 @@ a {
   background-image: url("projects/ss.jpg");
   background-position: 62.5%;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   border-radius: 5px;
 }
 
@@ -373,14 +373,14 @@ a {
   left: 20px;
   top: 90px;
 
-  width: calc(35% - 30px);
+  width: calc(40% - 30px);
   height: calc(100% - 110px);
 
   background-color: rgb(235, 72, 63);
   color: white;
 
   letter-spacing: 0.1em;
-  border-radius: 5px;
+  border-radius: 25px;
 }
 
 #aboutme div {
@@ -611,7 +611,6 @@ a {
     height: calc(50% - 80px);
     background-color: rgb(235, 72, 63);
     color: white;
-    border-radius: 5px;
     align-items: flex-start;
     margin-top: 10px;
   }
