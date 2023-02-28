@@ -439,11 +439,6 @@
 						},
 						{
 							"type": "image",
-							"ref": "projects/singles/17.jpg",
-							"cap": "Album Cover Concept"
-						},
-						{
-							"type": "image",
 							"ref": "projects/singles/18.jpg",
 							"cap": "Album Cover Concept"
 						}
