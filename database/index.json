@@ -3,7 +3,7 @@
 			"column": [{
 					"id": "mc30",
 					"type": "video",
-					"ref": "highlights/mc30.mp4",
+					"ref": "highlights/mc.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mc/1.jpg",

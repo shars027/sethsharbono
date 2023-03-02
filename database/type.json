@@ -410,8 +410,8 @@
 		{
 			"column": [{
 					"id": "mc30",
-					"type": "image",
-					"ref": "type/4.jpg",
+					"type": "video",
+					"ref": "music/mc.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/mc/1.jpg",

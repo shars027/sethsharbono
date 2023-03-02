@@ -109,7 +109,7 @@
 				{
 					"id": "mc30Logo",
 					"type": "video",
-					"ref": "music/mc30.mp4",
+					"ref": "music/mc.mp4",
 					"slides": [{
 						"type": "image",
 						"ref": "projects/mc/1.jpg",
