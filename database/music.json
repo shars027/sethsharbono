@@ -1,40 +1,45 @@
 {
-	"portfolio": [{
-			"column": [{
+	"portfolio": [
+		{
+			"column": [
+				{
 					"id": "milesDavis",
 					"type": "image",
-					"ref": "music/md1.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/vinyl/md1.jpg",
-						"cap": "Art Direction + Design. Based on the Cover from the 'On the Corner' album"
-					},
-					{
-						"type": "image",
-						"ref": "projects/vinyl/md2.jpg",
-						"cap": "Art Direction + Design. Based on the Cover from the 'On the Corner' album"
-					}]
+					"ref": "music/miles.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/md1.jpg",
+							"cap": "Art Direction + Design. Based on the Cover from the 'On the Corner' album"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/md2.jpg",
+							"cap": "Art Direction + Design. Based on the Cover from the 'On the Corner' album"
+						}
+					]
 				},
 				{
 					"id": "frankSinatra",
 					"type": "image",
-					"ref": "music/fs1.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/vinyl/fs1.jpg",
-						"cap": "Art Direction + Design"
-					},
-					{
-						"type": "image",
-						"ref": "projects/vinyl/fs2.jpg",
-						"cap": "Art Direction + Design"
-					},
-					{
-						"type": "image",
-						"ref": "projects/vinyl/fs3.jpg",
-						"cap": "Art Direction + Design"
-					}
-				]
+					"ref": "music/sinatra.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/fs1.jpg",
+							"cap": "Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/fs2.jpg",
+							"cap": "Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/fs3.jpg",
+							"cap": "Art Direction + Design"
+						}
+					]
 				},
 				{
 					"id": "trailerTrash",
@@ -43,20 +48,482 @@
 					"link": "https://www.youtube.com/watch?v=8yPmolBzEhQ"
 				},
 				{
+					"id": "soulAsylum",
+					"type": "image",
+					"ref": "music/saunplugged.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/sa1.jpg",
+							"cap": "Art Direction + Design"
+						}
+					]
+				},
+				{
+					"id": "britneyMyPrerogative",
+					"type": "image",
+					"ref": "music/bs2.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/bsmp1.jpg",
+							"cap": "Vinyl Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/bsmp2.jpg",
+							"cap": "Vinyl Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/bsmp3.jpg",
+							"cap": "Vinyl Package Design"
+						}
+					]
+				},
+				{
+					"id": "britneyCS",
+					"type": "image",
+					"ref": "music/bs3.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/britney/cs.jpg",
+							"cap": " "
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs1.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs2.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs3.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs4.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs5.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs6.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs7.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs8.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs9.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs10.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs11.jpg",
+							"cap": "Cassette Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/britney/cs12.jpg",
+							"cap": "Cassette Package Design"
+						}
+					]
+				},
+				{
+					"id": "hope",
+					"type": "image",
+					"ref": "music/13.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/9.jpg",
+							"cap": "Album Cover Art Direction + Design"
+						}
+					]
+				},
+				{
+					"id": "nuevoElemento",
+					"type": "video",
+					"ref": "music/21.mp4",
+					"background": "rgb(15, 15, 15)",
+					"color": "white",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/type/2.png",
+							"cap": "Artist Emblem Design"
+						}
+					]
+				},
+				{
+					"id": "mishaal",
+					"type": "video",
+					"ref": "music/10.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/3.jpg",
+							"cap": "Single Cover Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/4.jpg",
+							"cap": "Single Cover Art Direction + Illustration"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/25.jpg",
+							"cap": "EP Cover Design"
+						}
+					]
+				},
+				{
+					"id": "15mins",
+					"type": "image",
+					"ref": "music/29.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/12.jpg",
+							"cap": "Single Cover Design"
+						}
+					]
+				},
+				{
+					"id": "future2",
+					"type": "image",
+					"ref": "music/f2.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/20.jpg",
+							"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/19.jpg",
+							"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
+						}
+					]
+				},
+				{
 					"id": "adoreYou",
 					"type": "image",
 					"ref": "music/5.jpg",
-					"slides": [{
+					"slides": [
+						{
 							"type": "image",
 							"ref": "projects/singles/2.jpg",
 							"cap": "Harry Styles Single Cover Concept"
-						}]
+						}
+					]
 				},
+				{
+					"id": "summer3",
+					"type": "image",
+					"ref": "music/summer3.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/playlists/4.jpg",
+							"cap": "Playlist Cover Design"
+						}
+					]
+				},
+				{
+					"id": "summer2",
+					"type": "video",
+					"ref": "music/summer2.mp4",
+					"background": "rgb(255, 235, 200)",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/playlists/3.jpg",
+							"cap": "Playlist Cover Design"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [
+				{
+					"id": "bsOops",
+					"type": "image",
+					"ref": "music/bs1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/bs1.jpg",
+							"cap": "Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/bs2.jpg",
+							"cap": "Art Direction + Design"
+						}
+					]
+				},
+				{
+					"id": "poloG",
+					"type": "video",
+					"ref": "music/3.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg2.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/pg3.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/vinyl/pg4.mp4",
+							"cap": "Sleeve Image: Photoshop Process Animation"
+						},
+						{
+							"type": "video",
+							"ref": "projects/vinyl/pg5.mp4",
+							"cap": "Sleeve Image: Photoshop Process Animation"
+						}
+					]
+				},
+				{
+					"id": "londonCalling",
+					"type": "image",
+					"ref": "music/6.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/1.jpg",
+							"cap": "The Clash – New York Bus Wrap Design"
+						}
+					]
+				},
+				{
+					"id": "alan",
+					"type": "image",
+					"ref": "music/22.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aj1.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aj2.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aj3.jpg",
+							"cap": "LP Package Design"
+						}
+					]
+				},
+				{
+					"id": "xtinaLotus",
+					"type": "image",
+					"ref": "music/16.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/x1.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/x2.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/x3.jpg",
+							"cap": "LP Package Design"
+						}
+					]
+				},
+				{
+					"id": "mkRunIt",
+					"type": "video",
+					"ref": "music/7.mp4",
+					"slides": [
+						{
+							"type": "video",
+							"ref": "projects/mk/2.mp4",
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/1.mp4",
+							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
+						},
+						{
+							"type": "video",
+							"ref": "projects/mk/3.mp4",
+							"cap": "Cover + Animation (Left: Original Single Cover Designed by Annie Stoll)"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/4.jpg",
+							"cap": "EP Cover Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mk/5.jpg",
+							"cap": "EP Back Cover Concept"
+						}
+					]
+				},
+				{
+					"id": "ryanHurd",
+					"type": "image",
+					"ref": "music/34.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/22.jpg",
+							"cap": "Single Cover Concept"
+						}
+					]
+				},
+				{
+					"id": "campLo",
+					"type": "image",
+					"ref": "music/cl1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/21.jpg",
+							"cap": "Anniversary Album Cover"
+						}
+					]
+				},
+				{
+					"id": "mishaalFriends",
+					"type": "video",
+					"ref": "music/35.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/4.jpg",
+							"cap": "Single Cover Art Direction + Illustration"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/3.jpg",
+							"cap": "Single Cover Art Direction + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/25.jpg",
+							"cap": "EP Cover Design"
+						}
+					]
+				},
+				{
+					"id": "zachHood",
+					"type": "image",
+					"ref": "music/zh1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/type/7.jpg",
+							"cap": "Artist Logo"
+						}
+					]
+				},
+				{
+					"id": "future",
+					"type": "image",
+					"ref": "music/f1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/19.jpg",
+							"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/20.jpg",
+							"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
+						}
+					]
+				},
+				{
+					"id": "peteyMartin",
+					"type": "video",
+					"ref": "music/14.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/type/5.jpg",
+							"cap": "Artist Logo Concept"
+						}
+					]
+				},
+				{
+					"id": "summerSpirals",
+					"type": "video",
+					"ref": "music/summer7.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/playlists/8.jpg",
+							"cap": "Playlist Cover Design"
+						}
+					]
+				},
+				{
+					"id": "tiktok",
+					"type": "image",
+					"ref": "music/tt1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/playlists/2.jpg",
+							"cap": "Playlist Cover Design"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [
 				{
 					"id": "caroleKing",
 					"type": "image",
 					"ref": "music/9.jpg",
-					"slides": [{
+					"slides": [
+						{
 							"type": "image",
 							"ref": "projects/vinyl/ck1.jpg",
 							"cap": "Art Direction + Design"
@@ -74,35 +541,14 @@
 					]
 				},
 				{
-					"id": "campLo",
-					"type": "image",
-					"ref": "music/cl1.jpg",
-					"slides": [{
+					"id": "xtinaStripped",
+					"type": "video",
+					"ref": "music/xtina1.mp4",
+					"slides": [
+						{
 							"type": "image",
-							"ref": "projects/singles/21.jpg",
+							"ref": "projects/singles/15.jpg",
 							"cap": "Anniversary Album Cover"
-						}
-					]
-				},
-				{
-					"id": "zachHood",
-					"type": "image",
-					"ref": "music/zh1.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/7.jpg",
-							"cap": "Artist Logo"
-						}
-					]
-				},
-				{
-					"id": "dempseyHope",
-					"type": "image",
-					"ref": "music/13.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/9.jpg",
-							"cap": "Album Cover Concept"
 						}
 					]
 				},
@@ -110,37 +556,50 @@
 					"id": "mc30Logo",
 					"type": "video",
 					"ref": "music/mc.mp4",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/mc/1.jpg",
-						"cap": "Mariah Carey's Career Anniversary – Campaign Logo"
-					}]
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/mc/1.jpg",
+							"cap": "Mariah Carey's Career Anniversary – Campaign Logo"
+						}
+					]
 				},
 				{
-					"id": "nuevoElemento",
+					"id": "mirandaLambert",
 					"type": "image",
-					"ref": "music/21.jpg",
-					"background": "rgb(15, 15, 15)",
-					"color":"white",
-					"slides": [{
+					"ref": "music/11.jpg",
+					"slides": [
+						{
 							"type": "image",
-							"ref": "projects/type/2.png",
-							"cap": "Artist Emblem"
-						}]
-				},
-				{
-					"id": "julian",
-					"type": "image",
-					"ref": "music/29.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/12.jpg",
-							"cap": "Single Cover Concept"
+							"ref": "projects/vinyl/ml1.jpg",
+							"cap": "LP Package Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/singles/13.jpg",
-							"cap": "Single Cover Concept"
+							"ref": "projects/vinyl/ml2.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/ml3.jpg",
+							"cap": "LP Package Design"
+						}
+					]
+				},
+				{
+					"id": "train",
+					"type": "image",
+					"ref": "music/24.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/t1.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/t2.jpg",
+							"cap": "LP Package Design"
 						}
 					]
 				},
@@ -148,7 +607,8 @@
 					"id": "mkLastTime",
 					"type": "video",
 					"ref": "music/33.mp4",
-					"slides": [{
+					"slides": [
+						{
 							"type": "video",
 							"ref": "projects/mk/1.mp4",
 							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
@@ -176,39 +636,270 @@
 					]
 				},
 				{
-					"id": "future",
+					"id": "broCode2",
 					"type": "image",
-					"ref": "music/f1.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/singles/19.jpg",
-						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/singles/20.jpg",
-						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
-					}
+					"ref": "music/20.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/6.jpg",
+							"cap": "Single Cover Design"
+						}
 					]
 				},
 				{
-					"id": "britneyMyPrerogative",
+					"id": "zodiac",
 					"type": "image",
-					"ref": "music/bs2.jpg",
-					"slides": [{
+					"ref": "music/28.jpg",
+					"slides": [
+						{
 							"type": "image",
-							"ref": "projects/britney/bs1.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
+							"ref": "projects/singles/10.jpg",
+							"cap": "Single Cover – Previous Single Cover on Left"
+						}
+					]
+				},
+				{
+					"id": "armaanMalik",
+					"type": "image",
+					"ref": "music/31.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/1.jpg",
+							"cap": "Single Cover + Illustration"
+						}
+					]
+				},
+				{
+					"id": "soulAsylumAlt",
+					"type": "image",
+					"ref": "music/sa2.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/sa2cover.jpg",
+							"cap": "Alternate Package Art Direction + Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/britney/bs2.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
+							"ref": "projects/vinyl/sa3.jpg",
+							"cap": "Alternate Package Art Direction + Design"
 						},
 						{
 							"type": "image",
-							"ref": "projects/britney/bs3.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
+							"ref": "projects/vinyl/sa4.jpg",
+							"cap": "Alternate Package Art Direction + Design"
+						}
+					]
+				},
+				{
+					"id": "dolly1",
+					"type": "image",
+					"ref": "music/dp3.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/16.jpg",
+							"cap": "Album Cover Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/18.jpg",
+							"cap": "Album Cover Concept"
+						}
+					]
+				},
+				{
+					"id": "dolly2",
+					"type": "image",
+					"ref": "music/dp1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/18.jpg",
+							"cap": "Album Cover Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/16.jpg",
+							"cap": "Album Cover Concept"
+						}
+					]
+				},
+				{
+					"id": "pinkViral",
+					"type": "image",
+					"ref": "music/summer6.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/playlists/7.jpg",
+							"cap": "Playlist Cover Design"
+						}
+					]
+				},
+				{
+					"id": "bestNew",
+					"type": "video",
+					"ref": "music/12.mp4",
+					"slides": [
+						{
+							"type": "video",
+							"ref": "projects/bestnew/1.mp4",
+							"cap": "Playlist Cover Template Design"
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [
+				{
+					"id": "amtrac",
+					"type": "video",
+					"ref": "music/4.mp4",
+					"slides": [
+						{
+							"type": "video",
+							"ref": "projects/amtrac/1.mp4",
+							"cap": "Remix Cover Treatment + Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/amtrac/2.jpg",
+							"cap": "Remix Cover Treatment + Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/amtrac/3.mp4",
+							"cap": "Spotify Animated Artwork Canvases"
+						}
+					]
+				},
+				{
+					"id": "carnalLove",
+					"type": "image",
+					"ref": "music/am1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/23.jpg",
+							"cap": "Album Cover. Based on the film poster for 'Carnal Knowledge'"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/24.jpg",
+							"cap": "Album Cover Concept"
+						}
+					]
+				},
+				{
+					"id": "mcVinyls",
+					"type": "image",
+					"ref": "music/mcvinyls.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/mc/2.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/3.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/4.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/5.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/6.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/7.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/8.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/9.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/10.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/11.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/12.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/13.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/14.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/15.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/16.jpg",
+							"cap": "Package Recreation"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mc/17.jpg",
+							"cap": "Package Recreation"
+						}
+					]
+				},
+				{
+					"id": "facelift",
+					"type": "image",
+					"ref": "music/19.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aic1.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aic2.jpg",
+							"cap": "LP Package Design"
+						},
+						{
+							"type": "image",
+							"ref": "projects/vinyl/aic3.jpg",
+							"cap": "LP Package Design"
 						}
 					]
 				},
@@ -216,9 +907,8 @@
 					"id": "thriller40",
 					"type": "image",
 					"ref": "music/t40.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color": "white",
-					"slides": [{
+					"slides": [
+						{
 							"type": "image",
 							"ref": "projects/mj/1.jpg",
 							"cap": "Anniversary Package Art Direction"
@@ -259,128 +949,6 @@
 							"cap": "Anniversary Cover Concept"
 						}
 					]
-				}
-			]
-		}, 
-		{
-			"column": [{
-					"id": "dolly",
-					"type": "image",
-					"ref": "music/dp1.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/18.jpg",
-							"cap": "Album Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/16.jpg",
-							"cap": "Album Cover Concept"
-						}
-					]
-				},{
-					"id": "bsOops",
-					"type": "image",
-					"ref": "music/bs1.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/bs1.jpg",
-							"cap": "Art Direction + Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/bs2.jpg",
-							"cap": "Art Direction + Design"
-						}
-					]
-				},
-				{
-					"id": "londonCalling",
-					"type": "image",
-					"ref": "music/6.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/1.jpg",
-							"cap": "The Clash – Bus Wrap Design"
-						}
-					]
-				},
-				{
-					"id": "mishaal",
-					"type": "video",
-					"ref": "music/10.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/3.jpg",
-							"cap": "Single Cover"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/4.jpg",
-							"cap": "Single Cover + Illustration"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/25.jpg",
-							"cap": "Single Cover"
-						}
-					]
-				},
-				{
-					"id": "tiktok",
-					"type": "image",
-					"ref": "music/tt1.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/playlists/2.jpg",
-							"cap": "Sony Playlist Cover"
-						}
-					]
-				},
-				{
-					"id": "summer2",
-					"type": "image",
-					"ref": "music/summer2.jpg",
-					"background": "rgb(255, 235, 200)",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/playlists/3.jpg",
-							"cap": "Sony Playlist Cover"
-						}
-					]
-				},
-				
-				{
-					"id": "peteyMartin",
-					"type": "image",
-					"ref": "music/14.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/5.jpg",
-							"cap": "Artist Logo Concept"
-						}
-					]
-				},
-				{
-					"id": "",
-					"type": "image",
-					"ref": "music/22.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/aj1.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aj2.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aj3.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						}
-					]
 				},
 				{
 					"id": "mkMonsters",
@@ -415,369 +983,77 @@
 					]
 				},
 				{
-					"id": "ryanHurd",
+					"id": "sashaSloan",
 					"type": "image",
-					"ref": "music/34.jpg",
-					"slides": [{
+					"ref": "music/ss1.jpg",
+					"slides": [
+						{
 							"type": "image",
-							"ref": "projects/singles/22.jpg",
+							"ref": "projects/singles/11.jpg",
+							"cap": "Single Cover"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/8.jpg",
 							"cap": "Single Cover Concept"
 						}
 					]
 				},
 				{
-					"id": "dolly3",
+					"id": "sashaSloan2",
 					"type": "image",
-					"ref": "music/dp3.jpg",
-					"slides": [{
+					"ref": "music/ss2.jpg",
+					"slides": [
+						{
 							"type": "image",
-							"ref": "projects/singles/16.jpg",
-							"cap": "Album Cover Concept"
+							"ref": "projects/singles/8.jpg",
+							"cap": "Single Cover Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/singles/18.jpg",
-							"cap": "Album Cover Concept"
+							"ref": "projects/singles/11.jpg",
+							"cap": "Single Cover"
 						}
 					]
 				},
 				{
-					"id": "summer3",
+					"id": "tomboy",
 					"type": "image",
-					"ref": "music/summer3.jpg",
-					"slides": [{
+					"ref": "music/36.jpg",
+					"slides": [
+						{
 							"type": "image",
-							"ref": "projects/playlists/4.jpg",
-							"cap": "Sony Playlist Cover"
+							"ref": "projects/singles/14.jpg",
+							"cap": "My First Single Cover!"
+						}
+					]
+				},
+				{
+					"id": "carnalLove2",
+					"type": "image",
+					"ref": "music/am2.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/singles/24.jpg",
+							"cap": "Album Cover Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/23.jpg",
+							"cap": "Album Cover. Based on the film poster for 'Carnal Knowledge'"
 						}
 					]
 				},
 				{
 					"id": "thriller402",
 					"type": "image",
-					"ref": "music/t402.jpg",
+					"ref": "music/t40alt.jpg",
 					"slides": [
 						{
 							"type": "image",
 							"ref": "projects/mj/6.jpg",
 							"cap": "Annivesary Cover Concept"
-						}
-					]
-				}
-			]
-		},
-		{
-			"column": [{
-				"id": "xtinaStripped",
-				"type": "video",
-				"ref": "music/xtina1.mp4",
-				"slides": [{
-						"type": "image",
-						"ref": "projects/singles/15.jpg",
-						"cap": "Anniversary Album Cover"
-					}
-				]
-			},
-			{
-				"id": "sashaSloan",
-				"type": "image",
-				"ref": "music/ss1.jpg",
-				"slides": [{
-					"type": "image",
-					"ref": "projects/singles/11.jpg",
-					"cap": "Single Cover"
-				},
-				{
-					"type": "image",
-					"ref": "projects/singles/8.jpg",
-					"cap": "Single Cover Concept"
-				}]
-			},
-			{
-					"id": "poloG",
-					"type": "video",
-					"ref": "music/3.mp4",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/vinyl/pg2.jpg",
-							"cap": "Vinyl Sleeve + Label Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/pg3.jpg",
-							"cap": "Vinyl Sleeve + Label Design"
-						},
-						{
-							"type": "video",
-							"ref": "projects/vinyl/pg4.mp4",
-							"cap": "Vinyl Sleeve + Label Design"
-						},
-						{
-							"type": "video",
-							"ref": "projects/vinyl/pg5.mp4",
-							"cap": "Vinyl Sleeve + Label Design"
-						}
-					]
-				},
-				{
-					"id": "mkRunIt",
-					"type": "video",
-					"ref": "music/7.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/mk/2.mp4",
-							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
-						},
-						{
-							"type": "video",
-							"ref": "projects/mk/1.mp4",
-							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
-						},
-						{
-							"type": "video",
-							"ref": "projects/mk/3.mp4",
-							"cap": "Cover + Animation (Left: Original Single Cover Designed by Annie Stoll)"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mk/4.jpg",
-							"cap": "EP Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mk/5.jpg",
-							"cap": "EP Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "mirandaLambert",
-					"type": "image",
-					"ref": "music/11.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/ml1.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/ml2.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/ml3.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						}
-					]
-				},
-				{
-					"id": "britneyCS",
-					"type": "image",
-					"ref": "music/bs3.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/britney/cs.jpg",
-							"cap": " "
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs1.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs2.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs3.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs4.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs5.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs6.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs7.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs8.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs9.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs10.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs11.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/britney/cs12.jpg",
-							"cap": "Cassette Package Adapted from CD files"
-						}
-					]
-				},
-				{
-					"id": "soulAsylumAlt",
-					"type": "image",
-					"ref": "music/sa2.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/vinyl/sa2cover.jpg",
-							"cap": "Album Concept"
-						},{
-							"type": "image",
-							"ref": "projects/vinyl/sa3.jpg",
-							"cap": "Album Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/sa4.jpg",
-							"cap": "Album Concept"
-						}
-					]
-				},
-				{
-					"id": "mkLostYouth",
-					"type": "image",
-					"ref": "music/15.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/mk/4.jpg",
-							"cap": "EP Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mk/5.jpg",
-							"cap": "EP Concept"
-						},
-						{
-							"type": "video",
-							"ref": "projects/mk/1.mp4",
-							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
-						},
-						{
-							"type": "video",
-							"ref": "projects/mk/2.mp4",
-							"cap": "Remix Cover + Animation (Top Left: Original Single Cover Designed by Annie Stoll)"
-						},
-						{
-							"type": "video",
-							"ref": "projects/mk/3.mp4",
-							"cap": "Cover + Animation (Left: Original Single Cover Designed by Annie Stoll)"
-						}
-					]
-				},
-				{
-					"id": "facelift",
-					"type": "image",
-					"ref": "music/19.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/aic1.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aic2.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/aic3.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						}
-					]
-				},
-				{
-					"id": "spoiled",
-					"type": "videolink",
-					"ref": "music/27.mp4",
-					"link": "https://www.youtube.com/watch?v=VMqnoDRknJc"
-				},
-				{
-					"id": "armaanMalik",
-					"type": "image",
-					"ref": "music/31.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/1.jpg",
-							"cap": "Single Cover + Illustration"
-						}
-					]
-				},
-				{
-					"id": "mishaalFriends",
-					"type": "video",
-					"ref": "music/35.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/4.jpg",
-							"cap": "Single Cover"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/3.jpg",
-							"cap": "Single Cover"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/25.jpg",
-							"cap": "Single Cover"
-						}
-					]
-				},
-				{
-					"id": "carnalLove",
-					"type": "image",
-					"ref": "music/am1.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/23.jpg",
-							"cap": "Album Cover"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/24.jpg",
-							"cap": "Album Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "summer4",
-					"type": "image",
-					"ref": "music/summer4.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/playlists/5.jpg",
-							"cap": "Sony Playlist Cover"
 						}
 					]
 				},
@@ -787,251 +1063,65 @@
 					"ref": "music/t40logos.jpg",
 					"background": "rgb(0, 0, 0)",
 					"color": "white",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/mj/l1.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l2.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l3.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l4.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l5.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l6.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l7.jpg",
-						"cap": "Anniversary Logo Concept"
-					}
-					]
-				}
-			]
-		},
-		{
-			"column": [{
-					"id": "amtrac",
-					"type": "video",
-					"ref": "music/4.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/amtrac/1.mp4",
-							"cap": "Remix Cover Design"
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/mj/l1.jpg",
+							"cap": "Anniversary Logo Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/amtrac/2.jpg",
-							"cap": "Remix Cover Design"
+							"ref": "projects/mj/l2.jpg",
+							"cap": "Anniversary Logo Concept"
 						},
 						{
-							"type": "video",
-							"ref": "projects/amtrac/3.mp4",
-							"cap": "Spotify Background Animations"
+							"type": "image",
+							"ref": "projects/mj/l3.jpg",
+							"cap": "Anniversary Logo Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/l4.jpg",
+							"cap": "Anniversary Logo Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/l5.jpg",
+							"cap": "Anniversary Logo Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/l6.jpg",
+							"cap": "Anniversary Logo Concept"
+						},
+						{
+							"type": "image",
+							"ref": "projects/mj/l7.jpg",
+							"cap": "Anniversary Logo Concept"
 						}
-					]
-				},
-				{
-					"id": "future2",
-					"type": "image",
-					"ref": "music/f2.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/singles/20.jpg",
-						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/singles/19.jpg",
-						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
-					}
 					]
 				},
 				{
 					"id": "summer5",
-					"type": "image",
-					"ref": "music/summer5.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/playlists/6.jpg",
-							"cap": "Sony Playlist Cover"
-						}
-					]
-				},
-				{
-					"id": "soulAsylum",
-					"type": "image",
-					"ref": "music/sa1.jpg",
+					"type": "video",
+					"ref": "music/summer5.mp4",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/vinyl/sa1.jpg",
-							"cap": "Art Direction + Design"
-						},{
-							"type": "image",
-							"ref": "projects/vinyl/sa2.jpg",
-							"cap": "Art Direction + Design"
+							"ref": "projects/playlists/6.jpg",
+							"cap": "Playlist Cover Design"
 						}
 					]
 				},
 				{
-					"id": "carnalLove2",
+					"id": "summer4",
 					"type": "image",
-					"ref": "music/am2.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/24.jpg",
-							"cap": "Single Cover Concept"
-						},
+					"ref": "music/summer4.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/singles/23.jpg",
-							"cap": "Single Cover"
-						}
-					]
-				},
-				{
-					"id": "summer6",
-					"type": "image",
-					"ref": "music/summer6.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/playlists/7.jpg",
-							"cap": "Sony Playlist Cover"
-						}
-					]
-				},
-				{
-					"id": "xtinaLotus",
-					"type": "image",
-					"ref": "music/16.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/x1.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/x2.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/x3.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						}
-					]
-				},
-				{
-					"id": "broCode2",
-					"type": "image",
-					"ref": "music/20.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/6.jpg",
-							"cap": "Single Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/5.jpg",
-							"cap": "Single Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "train",
-					"type": "image",
-					"ref": "music/24.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/t1.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/t2.jpg",
-							"cap": "Vinyl Package Adapted from CD files"
-						}
-					]
-				},
-				{
-					"id": "zodiac",
-					"type": "image",
-					"ref": "music/28.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/10.jpg",
-							"cap": "Single Cover – Previous Single on Left"
-						}
-					]
-				},
-				{
-					"id": "julian3",
-					"type": "image",
-					"ref": "music/32.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/13.jpg",
-							"cap": "Single Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/12.jpg",
-							"cap": "Single Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "tomboy",
-					"type": "image",
-					"ref": "music/36.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/14.jpg",
-							"cap": "My First Single Cover!"
-						}
-					]
-				},
-				{
-					"id": "sashaSloan2",
-					"type": "image",
-					"ref": "music/ss2.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/singles/8.jpg",
-						"cap": "Single Cover Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/singles/11.jpg",
-						"cap": "Single Cover"
-					}]
-				},
-				{
-					"id": "summer7",
-					"type": "video",
-					"ref": "music/summer7.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/playlists/8.jpg",
-							"cap": "Sony Playlist Cover"
+							"ref": "projects/playlists/5.jpg",
+							"cap": "Playlist Cover Design"
 						}
 					]
 				}

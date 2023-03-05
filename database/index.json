@@ -544,8 +544,8 @@
 				},
 				{
 					"id": "nuevoElemento",
-					"type": "image",
-					"ref": "highlights/20.jpg",
+					"type": "video",
+					"ref": "highlights/20.mp4",
           			"background": "rgb(15, 15, 15)",
 					"color":"white",
 					"slides": [{

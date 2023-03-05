@@ -35,7 +35,8 @@ displayFunctions.image = (url, id, classes, data) => {
   if(typeof data === 'object'){
     datas = ` data-${data.type}="${data.value}"`;
   }
-  return `<img src="${LOADER}" class="loader" /><img src="${url}" ${fullid}${fullclass}${datas} loading="lazy" />`;
+  // return `<img src="${LOADER}" class="loader" /><img src="${url}" ${fullid}${fullclass}${datas} loading="lazy" />`;
+  return `<img src="${LOADER}" class="loader" /><img src="${url}" ${fullid}${fullclass}${datas} loading="" />`;
 }
 
 displayFunctions.video = (src, id, classes, data, ctrls = false) => {

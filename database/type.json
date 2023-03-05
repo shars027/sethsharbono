@@ -108,8 +108,8 @@
 				},
 				{
 					"id": "nuevoElemento",
-					"type": "image",
-					"ref": "type/9.jpg",
+					"type": "video",
+					"ref": "type/9.mp4",
 					"background": "rgb(15, 15, 15)",
 					"color":"white",
 					"slides": [{
@@ -331,8 +331,8 @@
 				},
 				{
 					"id": "peteyMartin",
-					"type": "image",
-					"ref": "type/11.jpg",
+					"type": "video",
+					"ref": "type/11.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/type/5.jpg",
@@ -378,8 +378,8 @@
 				},
 				{
 					"id": "summer",
-					"type": "image",
-					"ref": "type/b8.jpg",
+					"type": "video",
+					"ref": "type/b8.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/6.jpg",
