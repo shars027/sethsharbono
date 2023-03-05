@@ -143,17 +143,82 @@
 					]
 				},
 				{
-					"id": "pM",
-					"type": "image",
-					"ref": "type/21.jpg",
-					"background": "#39f1cd",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/1.jpg",
-							"cap": "Artist Logo Concept"
-						}
-					]
-				}
+                    "id": "pollen",
+                    "type": "image",
+                    "ref": "type/2.jpg",
+                    "slides": [{
+                            "type": "video",
+                            "ref": "projects/pollen/1.mp4",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/2.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/3.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/4.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/5.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/6.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/7.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/8.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/9.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/10.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/11.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/12.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/13.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        },
+                        {
+                            "type": "image",
+                            "ref": "projects/pollen/14.jpg",
+                            "cap": "Logo + Brand Guidelines"
+                        }
+                        
+                    ]
+                }
 			]
 		},
 		{
@@ -181,37 +246,6 @@
 							"type": "image",
 							"ref": "projects/coastal/2.jpg",
 							"cap": "Custom Typeface – Work In Progress"
-						}
-					]
-				},
-				{
-					"id": "musicProCon",
-					"type": "image",
-					"ref": "type/14.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/musicprocon/1.jpg",
-							"cap": "Branding Excersize - Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/musicprocon/2.jpg",
-							"cap": "Branding Excersize - Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/musicprocon/3.jpg",
-							"cap": "Branding Excersize - Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/musicprocon/4.jpg",
-							"cap": "Branding Excersize - Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/musicprocon/5.jpg",
-							"cap": "Branding Excersize - Concept"
 						}
 					]
 				},
@@ -244,8 +278,8 @@
 		{
 			"column": [{
 					"id": "neon",
-					"type": "image",
-					"ref": "type/3.jpg",
+					"type": "video",
+					"ref": "type/3.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/6.jpg",
@@ -327,84 +361,7 @@
 							"cap": "Software Logo Concept"
 						}
 					]
-				},
-				{
-                    "id": "pollen",
-                    "type": "image",
-                    "ref": "type/2.jpg",
-                    "slides": [{
-                            "type": "video",
-                            "ref": "projects/pollen/1.mp4",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/2.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/3.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/4.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/5.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/6.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/7.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/8.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/9.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/10.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/11.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/12.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/13.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/14.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        }
-                        
-                    ]
-                }
+				}
 			]
 		},
 		{

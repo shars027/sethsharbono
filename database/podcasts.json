@@ -17,12 +17,12 @@
 					"ref": "podcasts/13.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/podcasts/35.jpg",
+							"ref": "projects/podcasts/34.jpg",
 							"cap": "Podcast Art"
 						},
 						{
 							"type": "image",
-							"ref": "projects/podcasts/34.jpg",
+							"ref": "projects/podcasts/35.jpg",
 							"cap": "Podcast Art Concept"
 						}
 					]
@@ -45,8 +45,8 @@
 				},
 				{
 					"id": "firebug",
-					"type": "image",
-					"ref": "podcasts/21.jpg",
+					"type": "video",
+					"ref": "podcasts/21.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/3.jpg",
@@ -60,6 +60,11 @@
 						{
 							"type": "image",
 							"ref": "projects/podcasts/5.jpg",
+							"cap": "Podcast Art Concept"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/6.mp4",
 							"cap": "Podcast Art Concept"
 						}
 					]
@@ -164,8 +169,8 @@
 				},
 				{
 					"id": "neon",
-					"type": "image",
-					"ref": "podcasts/11.jpg",
+					"type": "video",
+					"ref": "podcasts/11.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/13.jpg",
@@ -204,8 +209,8 @@
 		{
 			"column": [{
 				"id": "neon2",
-				"type": "image",
-				"ref": "podcasts/24.jpg",
+				"type": "video",
+				"ref": "podcasts/24.mp4",
 				"slides": [{
 						"type": "image",
 						"ref": "projects/podcasts/6.jpg",
@@ -276,12 +281,12 @@
 					"ref": "podcasts/23.jpg",
 					"slides": [{
 							"type": "image",
-							"ref": "projects/podcasts/35.jpg",
+							"ref": "projects/podcasts/34.jpg",
 							"cap": "Podcast Art Concept"
 						},
 						{
 							"type": "image",
-							"ref": "projects/podcasts/34.jpg",
+							"ref": "projects/podcasts/35.jpg",
 							"cap": "Podcast Art"
 						}
 					]

@@ -78,8 +78,8 @@
 				},
 				{
 					"id": "poloG",
-					"type": "image",
-					"ref": "highlights/5.jpg",
+					"type": "video",
+					"ref": "highlights/5.mp4",
 					"slides": [
 						{
 							"type": "image",
@@ -95,13 +95,18 @@
 							"type": "video",
 							"ref": "projects/vinyl/pg4.mp4",
 							"cap": "Vinyl Sleeve + Label Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/vinyl/pg5.mp4",
+							"cap": "Vinyl Sleeve + Label Design"
 						}
 					]
 				},
 				{
 					"id": "neon",
-					"type": "image",
-					"ref": "highlights/9.jpg",
+					"type": "video",
+					"ref": "highlights/9.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/6.jpg",
@@ -353,8 +358,8 @@
 				},
 				{
 					"id": "firebug",
-					"type": "image",
-					"ref": "highlights/18.jpg",
+					"type": "video",
+					"ref": "highlights/18.mp4",
 					"slides": [{
 						"type": "image",
 						"ref": "projects/podcasts/3.jpg",
@@ -369,7 +374,13 @@
 						"type": "image",
 						"ref": "projects/podcasts/5.jpg",
 						"cap": "Podcast Art Concept"
-					}]
+					},
+					{
+						"type": "video",
+						"ref": "projects/podcasts/6.mp4",
+						"cap": "Podcast Art Concept"
+					}
+				]
 				}
 			]
 		},
@@ -397,8 +408,8 @@
 				},
 				{
 					"id": "mishaal",
-					"type": "image",
-					"ref": "highlights/13.jpg",
+					"type": "video",
+					"ref": "highlights/13.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/3.jpg",
@@ -408,6 +419,11 @@
 							"type": "image",
 							"ref": "projects/singles/4.jpg",
 							"cap": "Single Cover + Illustration"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/25.jpg",
+							"cap": "EP Cover"
 						}
 					]
 				},

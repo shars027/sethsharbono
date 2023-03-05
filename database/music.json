@@ -307,8 +307,8 @@
 				},
 				{
 					"id": "mishaal",
-					"type": "image",
-					"ref": "music/10.jpg",
+					"type": "video",
+					"ref": "music/10.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/3.jpg",
@@ -318,6 +318,11 @@
 							"type": "image",
 							"ref": "projects/singles/4.jpg",
 							"cap": "Single Cover + Illustration"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/25.jpg",
+							"cap": "Single Cover"
 						}
 					]
 				},
@@ -490,8 +495,8 @@
 			},
 			{
 					"id": "poloG",
-					"type": "image",
-					"ref": "music/3.jpg",
+					"type": "video",
+					"ref": "music/3.mp4",
 					"slides": [
 						{
 							"type": "image",
@@ -506,6 +511,11 @@
 						{
 							"type": "video",
 							"ref": "projects/vinyl/pg4.mp4",
+							"cap": "Vinyl Sleeve + Label Design"
+						},
+						{
+							"type": "video",
+							"ref": "projects/vinyl/pg5.mp4",
 							"cap": "Vinyl Sleeve + Label Design"
 						}
 					]
@@ -725,8 +735,8 @@
 				},
 				{
 					"id": "mishaalFriends",
-					"type": "image",
-					"ref": "music/35.jpg",
+					"type": "video",
+					"ref": "music/35.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/singles/4.jpg",
@@ -735,6 +745,11 @@
 						{
 							"type": "image",
 							"ref": "projects/singles/3.jpg",
+							"cap": "Single Cover"
+						},
+						{
+							"type": "image",
+							"ref": "projects/singles/25.jpg",
 							"cap": "Single Cover"
 						}
 					]
@@ -1011,8 +1026,8 @@
 				},
 				{
 					"id": "summer7",
-					"type": "image",
-					"ref": "music/summer7.jpg",
+					"type": "video",
+					"ref": "music/summer7.mp4",
 					"slides": [{
 							"type": "image",
 							"ref": "projects/playlists/8.jpg",
