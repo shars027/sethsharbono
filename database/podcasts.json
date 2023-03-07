@@ -8,6 +8,11 @@
 							"type": "image",
 							"ref": "projects/podcasts/14.jpg",
 							"cap": "Podcast Art"
+						},
+						{
+							"type": "video",
+							"ref": "projects/podcasts/37.mp4",
+							"cap": "Photoshop Process Animation"
 						}
 					]
 				},
@@ -65,7 +70,7 @@
 						{
 							"type": "video",
 							"ref": "projects/podcasts/6.mp4",
-							"cap": "Podcast Art Concept"
+							"cap": "Photoshop Process Animation"
 						}
 					]
 				}
@@ -174,12 +179,12 @@
 					"slides": [{
 							"type": "image",
 							"ref": "projects/podcasts/13.jpg",
-							"cap": "Alternate Podcast Art Moodboard"
+							"cap": "Alternate Podcast Art Concept"
 						},
 						{
 							"type": "image",
 							"ref": "projects/podcasts/12.jpg",
-							"cap": "Podcast Art Concept"
+							"cap": "Alternate Podcast Moodboard"
 						}
 					]
 				},
