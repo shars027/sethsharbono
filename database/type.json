@@ -54,59 +54,6 @@
 					]
 				},
 				{
-					"id": "thriller40",
-					"type": "image",
-					"ref": "type/b5.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color":"white",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/mj/1.jpg",
-						"cap": "Anniversary Package Art Direction"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/2.jpg",
-						"cap": "Anniversary Package Art Direction"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l1.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l2.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l3.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l4.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l5.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l6.jpg",
-						"cap": "Anniversary Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/mj/l7.jpg",
-						"cap": "Anniversary Logo Concept"
-					}
-					]
-				},
-				{
 					"id": "nuevoElemento",
 					"type": "video",
 					"ref": "type/9.mp4",
@@ -116,29 +63,6 @@
 							"type": "image",
 							"ref": "projects/type/2.png",
 							"cap": "Artist Emblem"
-						}
-					]
-				},
-				{
-					"id": "gdb1",
-					"type": "image",
-					"ref": "type/16.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color":"white",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/8.jpg",
-							"cap": "Business Unit Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/type/9.jpg",
-							"cap": "Business Unit Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/type/10.jpg",
-							"cap": "Business Unit Logo Concept"
 						}
 					]
 				},
@@ -218,7 +142,30 @@
                         }
                         
                     ]
-                }
+                },
+				{
+					"id": "gdb2",
+					"type": "image",
+					"ref": "type/24.jpg",
+					"background": "rgb(0, 0, 0)",
+					"color":"white",
+					"slides": [{
+						"type": "image",
+						"ref": "projects/type/16.jpg",
+						"cap": "Business Unit Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/type/17.jpg",
+						"cap": "Business Unit Logo Concept"
+					},
+					{
+						"type": "image",
+						"ref": "projects/type/18.jpg",
+						"cap": "Business Unit Logo Concept"
+					}
+					]
+				}
 			]
 		},
 		{
@@ -329,28 +276,7 @@
 					"link": "projects/systematictype/index.html"
 					
 				},
-				{
-					"id": "peteyMartin",
-					"type": "video",
-					"ref": "type/11.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/5.jpg",
-							"cap": "Artist Logo Concept"
-						}
-					]
-				},
-				{
-					"id": "bestNew",
-					"type": "video",
-					"ref": "type/15.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/bestnew/1.mp4",
-							"cap": "Sony Playlist Cover – Editable Template"
-						}
-					]
-				},
+				
 				{
 					"id": "compass",
 					"type": "image",
@@ -424,29 +350,6 @@
 							"ref": "projects/type/jg2.jpg",
 							"cap": "Logo"
 						}
-					]
-				},
-				{
-					"id": "gdb2",
-					"type": "image",
-					"ref": "type/24.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color":"white",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/type/16.jpg",
-						"cap": "Business Unit Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/type/17.jpg",
-						"cap": "Business Unit Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/type/18.jpg",
-						"cap": "Business Unit Logo Concept"
-					}
 					]
 				}
 			]

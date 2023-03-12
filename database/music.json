@@ -229,43 +229,6 @@
 							"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
 						}
 					]
-				},
-				{
-					"id": "adoreYou",
-					"type": "image",
-					"ref": "music/5.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/singles/2.jpg",
-							"cap": "Harry Styles Single Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "summer3",
-					"type": "image",
-					"ref": "music/summer3.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/playlists/4.jpg",
-							"cap": "Playlist Cover Design"
-						}
-					]
-				},
-				{
-					"id": "summer2",
-					"type": "video",
-					"ref": "music/summer2.mp4",
-					"background": "rgb(255, 235, 200)",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/playlists/3.jpg",
-							"cap": "Playlist Cover Design"
-						}
-					]
 				}
 			]
 		},
@@ -477,42 +440,6 @@
 							"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
 						}
 					]
-				},
-				{
-					"id": "peteyMartin",
-					"type": "video",
-					"ref": "music/14.mp4",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/type/5.jpg",
-							"cap": "Artist Logo Concept"
-						}
-					]
-				},
-				{
-					"id": "summerSpirals",
-					"type": "video",
-					"ref": "music/summer7.mp4",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/playlists/8.jpg",
-							"cap": "Playlist Cover Design"
-						}
-					]
-				},
-				{
-					"id": "tiktok",
-					"type": "image",
-					"ref": "music/tt1.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/playlists/2.jpg",
-							"cap": "Playlist Cover Design"
-						}
-					]
 				}
 			]
 		},
@@ -707,47 +634,6 @@
 							"type": "image",
 							"ref": "projects/singles/18.jpg",
 							"cap": "Album Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "dolly2",
-					"type": "image",
-					"ref": "music/dp1.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/singles/18.jpg",
-							"cap": "Album Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/16.jpg",
-							"cap": "Album Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "pinkViral",
-					"type": "image",
-					"ref": "music/summer6.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/playlists/7.jpg",
-							"cap": "Playlist Cover Design"
-						}
-					]
-				},
-				{
-					"id": "bestNew",
-					"type": "video",
-					"ref": "music/12.mp4",
-					"slides": [
-						{
-							"type": "video",
-							"ref": "projects/bestnew/1.mp4",
-							"cap": "Playlist Cover Template Design"
 						}
 					]
 				}
@@ -1046,82 +932,14 @@
 					]
 				},
 				{
-					"id": "thriller402",
+					"id": "adoreYou",
 					"type": "image",
-					"ref": "music/t40alt.jpg",
+					"ref": "music/5.jpg",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/mj/6.jpg",
-							"cap": "Annivesary Cover Concept"
-						}
-					]
-				},
-				{
-					"id": "thriller40Logos",
-					"type": "image",
-					"ref": "music/t40logos.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color": "white",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/mj/l1.jpg",
-							"cap": "Anniversary Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mj/l2.jpg",
-							"cap": "Anniversary Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mj/l3.jpg",
-							"cap": "Anniversary Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mj/l4.jpg",
-							"cap": "Anniversary Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mj/l5.jpg",
-							"cap": "Anniversary Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mj/l6.jpg",
-							"cap": "Anniversary Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mj/l7.jpg",
-							"cap": "Anniversary Logo Concept"
-						}
-					]
-				},
-				{
-					"id": "summer5",
-					"type": "video",
-					"ref": "music/summer5.mp4",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/playlists/6.jpg",
-							"cap": "Playlist Cover Design"
-						}
-					]
-				},
-				{
-					"id": "summer4",
-					"type": "image",
-					"ref": "music/summer4.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/playlists/5.jpg",
-							"cap": "Playlist Cover Design"
+							"ref": "projects/singles/2.jpg",
+							"cap": "Harry Styles Single Cover Concept"
 						}
 					]
 				}
