@@ -1,558 +1,698 @@
 {
-	"portfolio": [{
-			"column": [{
-					"id": "mc30",
-					"type": "video",
-					"ref": "highlights/mc.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/mc/1.jpg",
-							"cap": "Mariah Carey's Career Anniversary – Campaign Logo"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mc/2.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/3.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/4.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/5.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/6.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/7.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/8.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/9.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/10.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/11.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/12.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/13.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/14.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/15.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/16.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}, {
-							"type": "image",
-							"ref": "projects/mc/17.jpg",
-							"cap": "Vinyl Package Reconstruction"
-						}
-					]
-				},
+	"portfolio": [
+		{
+			"column": [
 				{
-					"id": "poloG",
-					"type": "video",
-					"ref": "highlights/5.mp4",
+					"id": "Row_01_03",
+					"type": "image",
+					"ref": "music/Row_01_01.jpg",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/vinyl/pg2.jpg",
-							"cap": "Vinyl Sleeve + Label Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/pg3.jpg",
-							"cap": "Vinyl Sleeve + Label Design"
-						},
-						{
-							"type": "video",
-							"ref": "projects/vinyl/pg4.mp4",
-							"cap": "Sleeve Image: Photoshop Process Animation"
-						},
-						{
-							"type": "video",
-							"ref": "projects/vinyl/pg5.mp4",
-							"cap": "Sleeve Image: Photoshop Process Animation"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "neon",
-					"type": "video",
-					"ref": "highlights/9.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/6.jpg",
-							"cap": "Podcast Art"
-						},
+					"id": "Row_02_01",
+					"type": "image",
+					"ref": "music/Row_02_01.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/podcasts/7.jpg",
-							"cap": "Moodboard"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/8.jpg",
-							"cap": "Episodic Cover Example"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/9.jpg",
-							"cap": "Episodic Cover Example"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/10.jpg",
-							"cap": "Episodic Cover Example"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/11.jpg",
-							"cap": "Episodic Cover Example"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "wilay",
-					"type": "video",
-					"ref": "highlights/19.mp4",
-          			"background":"rgb(230, 230, 230)",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/wilay/1.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/2.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/3.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/4.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/5.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/6.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/7.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/8.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/9.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/10.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/11.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/12.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/13.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/14.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/15.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/16.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/17.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/18.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						},
-						{
-							"type": "image",
-							"ref": "projects/wilay/19.png",
-							"cap": "Lyric Storybook Design + Illustrations"
-						}]
-				},
-				{
-					"id": "milesDavis",
+					"id": "Row_03_01",
 					"type": "image",
-					"ref": "highlights/21.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/vinyl/md1.jpg",
-						"cap": "Art Direction + Design. Based on the artwork from the 'On the Corner' album"
-					},
-					{
-						"type": "image",
-						"ref": "projects/vinyl/md2.jpg",
-						"cap": "Art Direction + Design. Based on the artwork from the 'On the Corner' album"
-					}]
-				}
-			]
-		},
-		{
-			"column": [{
-					"id": "amtrac",
-					"type": "video",
-					"ref": "highlights/10.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/amtrac/1.mp4",
-							"cap": "Remix Covers"
-						},
+					"ref": "music/Row_03_01.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/amtrac/2.jpg",
-							"cap": "Remix Covers"
-						},
-						{
-							"type": "video",
-							"ref": "projects/amtrac/3.mp4",
-							"cap": "Spotify Background Animations"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "londonCalling",
-					"type": "image",
-					"ref": "highlights/14.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/1.jpg",
-						"cap": "The Clash – Bus Wrap Design"
-					}]
-				},
-				{
-					"id": "sashaSloan",
-					"type": "image",
-					"ref": "highlights/12.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/singles/8.jpg",
-						"cap": "Single Cover Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/singles/11.jpg",
-						"cap": "Single Cover Art"
-					}]
-				},
-				{
-					"id": "roses",
-					"type": "image",
-					"ref": "highlights/22.jpg",
-          			"background": "black",
-					"color": "white",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/roses/1.jpg",
-							"cap": "Custom Typeface - Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/2.jpg",
-							"cap": "Custom Typeface - Work In Progress"
-						},
-						{
-							"type": "video",
-							"ref": "projects/roses/3.mp4",
-							"cap": "Custom Typeface - Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/4.jpg",
-							"cap": "Custom Typeface - Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/5.jpg",
-							"cap": "Custom Typeface - Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/6.jpg",
-							"cap": "Custom Typeface - Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/7.jpg",
-							"cap": "Custom Typeface - Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/8.jpg",
-							"cap": "Custom Typeface - Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/9.jpg",
-							"cap": "Custom Typeface - Work In Progress"
-						}]
-				},
-				{
-					"id": "firebug",
+					"id": "Row_04_01",
 					"type": "video",
-					"ref": "highlights/18.mp4",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/podcasts/3.jpg",
-						"cap": "Podcast Art"
-					},
-					{
-						"type": "image",
-						"ref": "projects/podcasts/4.jpg",
-						"cap": "Podcast Art Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/podcasts/5.jpg",
-						"cap": "Podcast Art Concept"
-					},
-					{
-						"type": "video",
-						"ref": "projects/podcasts/6.mp4",
-						"cap": "Podcast Art Concept"
-					}
-				]
-				}
-			]
-		},
-		{
-			"column": [{
-					"id": "caroleKing",
-					"type": "image",
-					"ref": "highlights/3.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/vinyl/ck1.jpg",
-							"cap": "Art Direction + Design"
-						},
+					"ref": "music/Row_04_01.mp4",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/vinyl/ck2.jpg",
-							"cap": "Art Direction + Design"
-						},
-						{
-							"type": "image",
-							"ref": "projects/vinyl/ck3.jpg",
-							"cap": "Art Direction + Design"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "mishaal",
-					"type": "video",
-					"ref": "highlights/13.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/3.jpg",
-							"cap": "Single Cover"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/4.jpg",
-							"cap": "Single Cover + Illustration"
-						},
-						{
-							"type": "image",
-							"ref": "projects/singles/25.jpg",
-							"cap": "EP Cover"
-						}
-					]
-				},
-				{
-					"id": "xtinaStripped",
-					"type": "video",
-					"ref": "highlights/xtina1.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/15.jpg",
-							"cap": "Anniversary Album Cover"
-						}
-					]
-				},
-				{
-					"id": "systematicType",
-					"type": "videolink",
-					"ref": "highlights/6.mp4",
-					"link": "projects/systematictype/index.html"
-				},
-				{
-					"id": "dollyParton",
+					"id": "Row_05_01",
 					"type": "image",
-					"ref": "highlights/23.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/singles/16.jpg",
-							"cap": "Album Cover Concept"
-						},
+					"ref": "music/Row_05_01.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/singles/18.jpg",
-							"cap": "Album Cover Concept"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_01",
+					"type": "image",
+					"ref": "music/Row_06_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_01",
+					"type": "image",
+					"ref": "music/Row_07_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_08_01",
+					"type": "video",
+					"ref": "music/Row_08_01.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_09_01",
+					"type": "image",
+					"ref": "music/Row_09_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_10_01",
+					"type": "video",
+					"ref": "music/Row_10_01.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_11_01",
+					"type": "image",
+					"ref": "music/Row_11_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_12_01",
+					"type": "image",
+					"ref": "music/Row_12_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_13_01",
+					"type": "image",
+					"ref": "music/Row_13_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_14_01",
+					"type": "image",
+					"ref": "music/Row_14_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_15_01",
+					"type": "image",
+					"ref": "music/Row_15_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_16_01",
+					"type": "image",
+					"ref": "music/Row_16_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_17_01",
+					"type": "image",
+					"ref": "music/Row_17_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_18_01",
+					"type": "image",
+					"ref": "music/Row_18_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_19_01",
+					"type": "image",
+					"ref": "music/Row_19_01.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				}
 			]
 		},
 		{
-			"column": [{
-					"id": "frankSinatra",
-					"type": "image",
-					"ref": "highlights/2.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/vinyl/fs1.jpg",
-						"cap": "Art Direction + Design"
-					},
-					{
-						"type": "image",
-						"ref": "projects/vinyl/fs2.jpg",
-						"cap": "Art Direction + Design"
-					},
-					{
-						"type": "image",
-						"ref": "projects/vinyl/fs3.jpg",
-						"cap": "Art Direction + Design"
-					}
-				]
-				},
+			"column": [
 				{
-					"id": "armaanMalik",
+					"id": "Row_01_02",
 					"type": "image",
-					"ref": "highlights/17.jpg",
-					"slides": [{
+					"ref": "music/Row_01_02.jpg",
+					"slides": [
+						{
 							"type": "image",
-							"ref": "projects/singles/1.jpg",
-							"cap": "Single Cover + Illustration"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "mkLastTime",
-					"type": "video",
-					"ref": "highlights/15.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/mk/1.mp4",
-							"cap": "Remix Cover + Animation (Top Left: Original Single cover Designed by Annie Stoll)"
-						},
-						{
-							"type": "video",
-							"ref": "projects/mk/2.mp4",
-							"cap": "Remix Cover + Animation (Top Left: Original Single cover Designed by Annie Stoll)"
-						},
-						{
-							"type": "video",
-							"ref": "projects/mk/3.mp4",
-							"cap": "Cover + Animation (Left: Original Single cover Designed by Annie Stoll)"
-						},
+					"id": "Row_02_02",
+					"type": "image",
+					"ref": "music/Row_02_02.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/mk/4.jpg",
-							"cap": "EP Cover Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/mk/5.jpg",
-							"cap": "EP Cover Concept"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "future",
+					"id": "Row_03_02",
 					"type": "image",
-					"ref": "highlights/8.jpg",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/singles/19.jpg",
-						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/singles/20.jpg",
-						"cap": "*Scrapped Project* 'Reign of Future' 5-Album Compilation – Cover Concept"
-					}
-				]
+					"ref": "music/Row_03_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
 				},
 				{
-					"id": "nuevoElemento",
+					"id": "Row_04_02",
 					"type": "video",
-					"ref": "highlights/20.mp4",
-          			"background": "rgb(15, 15, 15)",
-					"color":"white",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/type/2.png",
-						"cap": "Artist Emblem"
-					}]
+					"ref": "music/Row_04_02.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_05_02",
+					"type": "image",
+					"ref": "music/Row_05_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_02",
+					"type": "image",
+					"ref": "music/Row_06_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_02",
+					"type": "image",
+					"ref": "music/Row_07_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_08_02",
+					"type": "image",
+					"ref": "music/Row_08_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_09_02",
+					"type": "image",
+					"ref": "music/Row_09_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_10_02",
+					"type": "image",
+					"ref": "music/Row_10_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_11_02",
+					"type": "image",
+					"ref": "music/Row_11_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_12_02",
+					"type": "image",
+					"ref": "music/Row_12_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_13_02",
+					"type": "image",
+					"ref": "music/Row_13_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_14_02",
+					"type": "image",
+					"ref": "music/Row_14_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_15_02",
+					"type": "image",
+					"ref": "music/Row_15_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_16_02",
+					"type": "video",
+					"ref": "music/Row_16_02.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_17_02",
+					"type": "image",
+					"ref": "music/Row_17_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_18_02",
+					"type": "image",
+					"ref": "music/Row_18_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_19_02",
+					"type": "image",
+					"ref": "music/Row_19_02.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [
+				{
+					"id": "Row_01_03",
+					"type": "image",
+					"ref": "music/Row_01_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_02_03",
+					"type": "image",
+					"ref": "music/Row_02_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_03_03",
+					"type": "image",
+					"ref": "music/Row_03_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_04_03",
+					"type": "video",
+					"ref": "music/Row_04_03.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_05_03",
+					"type": "image",
+					"ref": "music/Row_05_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_03",
+					"type": "image",
+					"ref": "music/Row_06_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_03",
+					"type": "image",
+					"ref": "music/Row_07_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_08_03",
+					"type": "video",
+					"ref": "music/Row_08_03.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_09_03",
+					"type": "image",
+					"ref": "music/Row_09_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_10_03",
+					"type": "image",
+					"ref": "music/Row_10_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_11_03",
+					"type": "image",
+					"ref": "music/Row_11_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_12_03",
+					"type": "image",
+					"ref": "music/Row_12_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_13_03",
+					"type": "image",
+					"ref": "music/Row_13_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_14_03",
+					"type": "video",
+					"ref": "music/Row_14_03.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_15_03",
+					"type": "image",
+					"ref": "music/Row_15_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_16_03",
+					"type": "image",
+					"ref": "music/Row_16_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_17_03",
+					"type": "image",
+					"ref": "music/Row_17_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_18_03",
+					"type": "image",
+					"ref": "music/Row_18_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_19_03",
+					"type": "image",
+					"ref": "music/Row_19_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
 				}
 			]
 		}

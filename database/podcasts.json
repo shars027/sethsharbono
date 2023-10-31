@@ -1,302 +1,124 @@
 {
-	"portfolio": [{
-			"column": [{
-					"id": "chameleon",
-					"type": "image",
-					"ref": "podcasts/19.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/14.jpg",
-							"cap": "Podcast Art"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/37.mp4",
-							"cap": "Photoshop Process Animation"
-						}
-					]
-				},
-				{
-					"id": "twistedTech",
-					"type": "image",
-					"ref": "podcasts/13.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/34.jpg",
-							"cap": "Podcast Art"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/35.jpg",
-							"cap": "Podcast Art Concept"
-						}
-					]
-				},
-				{
-					"id": "smokescreenFP",
-					"type": "video",
-					"ref": "podcasts/17.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/podcasts/28.mp4",
-							"cap": "Podcast Art Animation #1"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/29.mp4",
-							"cap": "Podcast Art Animation #2"
-						}
-					]
-				},
-				{
-					"id": "firebug",
-					"type": "video",
-					"ref": "podcasts/21.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/3.jpg",
-							"cap": "Podcast Art"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/4.jpg",
-							"cap": "Podcast Art Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/5.jpg",
-							"cap": "Podcast Art Concept"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/6.mp4",
-							"cap": "Photoshop Process Animation"
-						}
-					]
-				}
-			]
-		},
+	"portfolio": [
 		{
-			"column": [{
-					"id": "doodler",
-					"type": "image",
-					"ref": "podcasts/2.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/17.jpg",
-							"cap": "Podcast Art Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/18.jpg",
-							"cap": "Podcast Art Concept"
-						}
-					]
-				},
+			"column": [
 				{
-					"id": "borderlands",
-					"type": "image",
-					"ref": "podcasts/6.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/23.jpg",
-							"cap": "Podcast Art Concept"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/24.mp4",
-							"cap": "Podcast Art Animation"
-						}
-					]
-				},
-				{
-					"id": "badBlood2",
-					"type": "image",
-					"ref": "podcasts/14.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/32.jpg",
-							"cap": "Podcast Art Concept"
-						}
-					]
-				},
-				{
-					"id": "doodler2",
-					"type": "image",
-					"ref": "podcasts/22.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/18.jpg",
-							"cap": "Podcast Art Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/17.jpg",
-							"cap": "Podcast Art Concept"
-						}
-					]
-				}
-			]
-		},
-		{
-			"column": [{
-					"id": "broken",
+					"id": "Row_01_01",
 					"type": "video",
-					"ref": "podcasts/3.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/19.jpg",
-							"cap": "Podcast Art"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/20.mp4",
-							"cap": "Podcast Art Animation #1"
-						},
-						{
-							"type": "video",
-							"ref": "projects/podcasts/21.mp4",
-							"cap": "Podcast Art Animation #2"
-						}
-					]
-				},
-				{
-					"id": "eclipsed",
-					"type": "image",
-					"ref": "podcasts/7.jpg",
+					"ref": "podcasts/Row_01_01.mp4",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/podcasts/25.jpg",
-							"cap": "Podcast Art Concept"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "neon",
+					"id": "Row_02_01",
 					"type": "video",
-					"ref": "podcasts/11.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/13.jpg",
-							"cap": "Alternate Podcast Art Concept"
-						},
+					"ref": "podcasts/Row_02_01.mp4",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/podcasts/12.jpg",
-							"cap": "Alternate Podcast Moodboard"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "firebug2",
+					"id": "Row_03_01",
 					"type": "image",
-					"ref": "podcasts/15.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/5.jpg",
-							"cap": "Podcast Art Concept"
-						},
+					"ref": "podcasts/Row_03_01.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/podcasts/3.jpg",
-							"cap": "Podcast Cover Art"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/4.jpg",
-							"cap": "Podcast Art Concept"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				}
-			]
+			]	
 		},
 		{
-			"column": [{
-				"id": "neon2",
-				"type": "video",
-				"ref": "podcasts/24.mp4",
-				"slides": [{
-						"type": "image",
-						"ref": "projects/podcasts/6.jpg",
-						"cap": "Podcast Art"
-					},
-					{
-						"type": "image",
-						"ref": "projects/podcasts/7.jpg",
-						"cap": "Moodboard"
-					},
-					{
-						"type": "image",
-						"ref": "projects/podcasts/8.jpg",
-						"cap": "Episodic Template Example"
-					},
-					{
-						"type": "image",
-						"ref": "projects/podcasts/9.jpg",
-						"cap": "Episodic Template Example"
-					},
-					{
-						"type": "image",
-						"ref": "projects/podcasts/10.jpg",
-						"cap": "Episodic Template Example"
-					},
-					{
-						"type": "image",
-						"ref": "projects/podcasts/11.jpg",
-						"cap": "Episodic Template Example"
-					}
-				]
-				},
+			"column": [
 				{
-					"id": "paranormalState2",
-					"type": "image",
-					"ref": "podcasts/12.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/16.jpg",
-							"cap": "Podcast Art"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/15.jpg",
-							"cap": "Podcast Art Concept"
-						}
-					]
-				},
-				{
-					"id": "passionEconomy2",
+					"id": "Row_01_02",
 					"type": "video",
-					"ref": "podcasts/16.mp4",
-					"slides": [{
-							"type": "video",
-							"ref": "projects/podcasts/1.mp4",
-							"cap": "Podcast Art Animation #2"
-						},
+					"ref": "podcasts/Row_01_02.mp4",
+					"slides": [
 						{
-							"type": "video",
-							"ref": "projects/podcasts/2.mp4",
-							"cap": "Podcast Art Animation #1"
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "twistedTech",
+					"id": "Row_02_02",
 					"type": "image",
-					"ref": "podcasts/23.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/podcasts/34.jpg",
-							"cap": "Podcast Art Concept"
-						},
+					"ref": "podcasts/Row_02_02.jpg",
+					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/podcasts/35.jpg",
-							"cap": "Podcast Art"
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_03_02",
+					"type": "video",
+					"ref": "podcasts/Row_03_02.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
 						}
 					]
 				}
-			]
+			]	
+		},
+		{
+			"column": [
+				{
+					"id": "Row_01_03",
+					"type": "image",
+					"ref": "podcasts/Row_01_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_02_03",
+					"type": "image",
+					"ref": "podcasts/Row_02_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_03_03",
+					"type": "image",
+					"ref": "podcasts/Row_03_03.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "projects/xxxxx.jpg",
+							"cap": ""
+						}
+					]
+				}
+			]	
 		}
 	]
 }

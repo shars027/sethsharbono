@@ -116,46 +116,46 @@ populateLinks = columns => {
 
 }
 
-populateSlider = slides => {
-  const navs = document.querySelectorAll('#modal a');
-  if(slides.length == 1){
-    navs.forEach(function(nav){
-      nav.classList.add('hide');
-    })
-  }else{
-    navs.forEach(function(nav){
-      nav.classList.remove('hide');
-    })
-  }
-  const oldSlides = document.querySelectorAll('#modal .modalContent .mySlides');
-   for (let i = 0; i < oldSlides.length; i++) {
-       oldSlides[i].remove();
-   }
-  const reversed = slides.reverse();
-  reversed.forEach(function(slide){
-    let code = '<div class="mySlides">';
-    if(slide.type == 'videolink'){
-      code += displayFunctions[slide.type](slide.ref, '', '', slide.link);
-    }else{
-      if(slide.videocontrols == undefined){
-        code += displayFunctions[slide.type](slide.ref);
-      }else{
-        code += displayFunctions[slide.type](slide.ref, '', '', '', true);
-      }
-    }
-    if(slide.cap != undefined){
-      code += `<div class="caption-container">${slide.cap}</div>`;
-    }
-    code += '</div>';
-    document.querySelector('#modal .modalContent').insertAdjacentHTML('afterbegin', code);
-  })
-  document.querySelector('#modal .modalContent .mySlides:first-of-type').classList.add('active-slide');
-  //add load listeners for images
-  const imgs = document.querySelectorAll('#modal .modalContent .mySlides .toLoad');
-  for (let i = 0; i < imgs.length; i++) {
-    imgs[i].addEventListener("load", checkLoading);
-  }
-}
+// populateSlider = slides => {
+//   const navs = document.querySelectorAll('#modal a');
+//   if(slides.length == 1){
+//     navs.forEach(function(nav){
+//       nav.classList.add('hide');
+//     })
+//   }else{
+//     navs.forEach(function(nav){
+//       nav.classList.remove('hide');
+//     })
+//   }
+//   const oldSlides = document.querySelectorAll('#modal .modalContent .mySlides');
+//    for (let i = 0; i < oldSlides.length; i++) {
+//        oldSlides[i].remove();
+//    }
+//   const reversed = slides.reverse();
+//   reversed.forEach(function(slide){
+//     let code = '<div class="mySlides">';
+//     if(slide.type == 'videolink'){
+//       code += displayFunctions[slide.type](slide.ref, '', '', slide.link);
+//     }else{
+//       if(slide.videocontrols == undefined){
+//         code += displayFunctions[slide.type](slide.ref);
+//       }else{
+//         code += displayFunctions[slide.type](slide.ref, '', '', '', true);
+//       }
+//     }
+//     if(slide.cap != undefined){
+//       code += `<div class="caption-container">${slide.cap}</div>`;
+//     }
+//     code += '</div>';
+//     document.querySelector('#modal .modalContent').insertAdjacentHTML('afterbegin', code);
+//   })
+//   document.querySelector('#modal .modalContent .mySlides:first-of-type').classList.add('active-slide');
+//   //add load listeners for images
+//   const imgs = document.querySelectorAll('#modal .modalContent .mySlides .toLoad');
+//   for (let i = 0; i < imgs.length; i++) {
+//     imgs[i].addEventListener("load", checkLoading);
+//   }
+// }
 
 //Actions
 open = evt => {
