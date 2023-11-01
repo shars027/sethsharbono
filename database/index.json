@@ -51,18 +51,6 @@
 					]
 				},
 				{
-					"id": "Row_05_01",
-					"type": "image",
-					"ref": "music/Row_05_01.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/xxxxx.jpg",
-							"cap": ""
-						}
-					]
-				},
-				{
 					"id": "Row_06_01",
 					"type": "image",
 					"ref": "music/Row_06_01.jpg",
@@ -283,18 +271,6 @@
 					]
 				},
 				{
-					"id": "Row_05_02",
-					"type": "image",
-					"ref": "music/Row_05_02.jpg",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/xxxxx.jpg",
-							"cap": ""
-						}
-					]
-				},
-				{
 					"id": "Row_06_02",
 					"type": "image",
 					"ref": "music/Row_06_02.jpg",
@@ -506,18 +482,6 @@
 					"id": "Row_04_03",
 					"type": "video",
 					"ref": "music/Row_04_03.mp4",
-					"slides": [
-						{
-							"type": "image",
-							"ref": "projects/xxxxx.jpg",
-							"cap": ""
-						}
-					]
-				},
-				{
-					"id": "Row_05_03",
-					"type": "image",
-					"ref": "music/Row_05_03.jpg",
 					"slides": [
 						{
 							"type": "image",
