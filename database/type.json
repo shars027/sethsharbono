@@ -1,354 +1,270 @@
 {
-	"portfolio": [{
-			"column": [{
-					"id": "roses",
-					"type": "image",
-					"ref": "type/1.jpg",
-					"background": "black",
-					"color": "white",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/roses/1.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/2.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "video",
-							"ref": "projects/roses/3.mp4",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/4.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/5.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/6.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/7.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/8.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/roses/9.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						}
-					]
-				},
-				{
-					"id": "nuevoElemento",
-					"type": "video",
-					"ref": "type/9.mp4",
-					"background": "rgb(15, 15, 15)",
-					"color":"white",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/2.png",
-							"cap": "Artist Emblem"
-						}
-					]
-				},
-				{
-                    "id": "pollen",
-                    "type": "image",
-                    "ref": "type/2.jpg",
-                    "slides": [{
-                            "type": "video",
-                            "ref": "projects/pollen/1.mp4",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/2.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/3.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/4.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/5.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/6.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/7.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/8.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/9.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/10.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/11.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/12.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/13.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        },
-                        {
-                            "type": "image",
-                            "ref": "projects/pollen/14.jpg",
-                            "cap": "Logo + Brand Guidelines"
-                        }
-                        
-                    ]
-                },
-				{
-					"id": "gdb2",
-					"type": "image",
-					"ref": "type/24.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color":"white",
-					"slides": [{
-						"type": "image",
-						"ref": "projects/type/16.jpg",
-						"cap": "Business Unit Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/type/17.jpg",
-						"cap": "Business Unit Logo Concept"
-					},
-					{
-						"type": "image",
-						"ref": "projects/type/18.jpg",
-						"cap": "Business Unit Logo Concept"
-					}
-					]
-				}
-			]
-		},
+	"portfolio": [
 		{
-			"column": [{
-				"id": "zachHood",
-				"type": "image",
-				"ref": "type/b2.jpg",
-				"slides": [{
-						"type": "image",
-						"ref": "projects/type/7.jpg",
-						"cap": "Artist Logo"
-					}
-				]
-			},
+			"column": [
 				{
-					"id": "coast",
-					"type": "image",
-					"ref": "type/6.jpg",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/coastal/1.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						},
-						{
-							"type": "image",
-							"ref": "projects/coastal/2.jpg",
-							"cap": "Custom Typeface – Work In Progress"
-						}
-					]
-				},
-				{
-					"id": "s",
-					"type": "image",
-					"ref": "type/18.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color":"white",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/type/11.jpg",
-							"cap": "Artist Logo Concept"
-						}
-					]
-				},
-				{
-                    "id": "livingGreen",
-                    "type": "image",
-                    "ref": "type/13.jpg",
-                    "slides": [{
-                            "type": "image",
-                            "ref": "projects/type/6.jpg",
-                            "cap": "Internal Corporate Initiative Logo – Encouraging teams to 'reduce' their carbon footprint"
-                        }
-                    ]
-                }
-			]
-		},
-		{
-			"column": [{
-					"id": "neon",
+					"id": "Row_01_01",
 					"type": "video",
-					"ref": "type/3.mp4",
-					"slides": [{
+					"ref": "three/Row_01_01/1.mp4",
+					"slides": [ {
 							"type": "image",
-							"ref": "projects/podcasts/6.jpg",
-							"cap": "Podcast Cover Art"
+							"ref": "three/Row_01_01/1.jpg",
+							"cap": ""
 						},
 						{
 							"type": "image",
-							"ref": "projects/podcasts/7.jpg",
-							"cap": "Moodboard"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/8.jpg",
-							"cap": "Episodic Template Example"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/9.jpg",
-							"cap": "Episodic Template Example"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/10.jpg",
-							"cap": "Episodic Template Example"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/11.jpg",
-							"cap": "Episodic Template Example"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/12.jpg",
-							"cap": "Alternate Moodboard"
-						},
-						{
-							"type": "image",
-							"ref": "projects/podcasts/13.jpg",
-							"cap": "Alternate Podcast Art + Logo Concept"
+							"ref": "three/Row_01_01/2.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "systematicType",
-					"type": "videolink",
-					"ref": "type/7.mp4",
-					"link": "projects/systematictype/index.html"
-					
-				},
-				
-				{
-					"id": "compass",
+					"id": "Row_02_01",
 					"type": "image",
-					"ref": "type/19.jpg",
-					"slides": [{
+					"ref": "three/Row_02_01/1.jpg",
+					"slides": [ {
 							"type": "image",
-							"ref": "projects/type/3.jpg",
-							"cap": "Software Logo Concept"
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_03_01",
+					"type": "image",
+					"ref": "three/Row_03_01/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_04_01",
+					"type": "image",
+					"ref": "three/Row_04_01/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_05_01",
+					"type": "image",
+					"ref": "three/Row_05_01/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_01",
+					"type": "image",
+					"ref": "three/Row_06_01/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_01",
+					"type": "image",
+					"ref": "three/Row_07_01/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_08_01",
+					"type": "image",
+					"ref": "three/Row_08_01/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
 						}
 					]
 				}
 			]
 		},
 		{
-			"column": [{
-					"id": "mc30",
-					"type": "video",
-					"ref": "music/mc.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/mc/1.jpg",
-							"cap": "Mariah Carey's Career Anniversary – Campaign Logo"
-						}
-					]
-				},
+			"column": [
 				{
-					"id": "summer",
-					"type": "video",
-					"ref": "type/b8.mp4",
-					"slides": [{
-							"type": "image",
-							"ref": "projects/playlists/6.jpg",
-							"cap": "Sony Playlist Cover with Custom Typeography"
-						}
-					]
-				},
-				{
-					"id": "gdb3",
+					"id": "Row_01_02",
 					"type": "image",
-					"ref": "type/22.jpg",
-					"background": "rgb(0, 0, 0)",
-					"color":"white",
-					"slides": [{
+					"ref": "three/Row_01_02/1.jpg",
+					"slides": [ {
 							"type": "image",
-							"ref": "projects/type/13.jpg",
-							"cap": "Business Unit Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/type/14.jpg",
-							"cap": "Business Unit Logo Concept"
-						},
-						{
-							"type": "image",
-							"ref": "projects/type/15.jpg",
-							"cap": "Business Unit Logo Concept"
+							"ref": "three/row_/2.jpg",
+							"cap": ""
 						}
 					]
 				},
 				{
-					"id": "jg",
+					"id": "Row_02_02",
+					"type": "video",
+					"ref": "three/Row_02_02/1.mp4",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_03_02",
 					"type": "image",
-					"ref": "type/20.jpg",
-					"slides": [{
+					"ref": "three/Row_03_02/1.jpg",
+					"slides": [ {
 							"type": "image",
-							"ref": "projects/type/jg.jpg",
-							"cap": "Logo"
-						},
-						{
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_04_02",
+					"type": "video",
+					"ref": "three/Row_04_02/1.mp4",
+					"slides": [ {
 							"type": "image",
-							"ref": "projects/type/jg2.jpg",
-							"cap": "Logo"
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_05_02",
+					"type": "image",
+					"ref": "three/Row_05_02/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_02",
+					"type": "image",
+					"ref": "three/Row_06_02/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_02",
+					"type": "image",
+					"ref": "three/Row_07_02/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_08_02",
+					"type": "image",
+					"ref": "three/Row_08_02/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"column": [
+				{
+					"id": "Row_01_03",
+					"type": "video",
+					"ref": "three/Row_01_03/1.mp4",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_02_03",
+					"type": "video",
+					"ref": "three/Row_02_03/1.mp4",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_03_03",
+					"type": "image",
+					"ref": "three/Row_03_03/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_04_03",
+					"type": "image",
+					"ref": "three/Row_04_03/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_05_03",
+					"type": "image",
+					"ref": "three/Row_05_03/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_03",
+					"type": "image",
+					"ref": "three/Row_06_03/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_03",
+					"type": "image",
+					"ref": "three/Row_07_03/1.jpg",
+					"slides": [ {
+							"type": "image",
+							"ref": "three/row_/2.jpg",
+							"cap": ""
 						}
 					]
 				}

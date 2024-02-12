@@ -5,51 +5,104 @@
 				{
 					"id": "Row_01_01",
 					"type": "video",
-					"ref": "podcasts/Row_01_01.mp4",
+					"ref": "two/Row_01_01/1.mp4",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/Row_01_01/1.jpg",
+							"cap": ""
+						},
+						{
+							"type": "image",
+							"ref": "two/Row_01_01/2.jpg",
 							"cap": ""
 						}
 					]
 				},
 				{
 					"id": "Row_02_01",
-					"type": "video",
-					"ref": "podcasts/Row_02_01.mp4",
+					"type": "image",
+					"ref": "two/Row_02_01/1.jpg",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/row_/2.jpg",
 							"cap": ""
 						}
 					]
 				},
 				{
 					"id": "Row_03_01",
-					"type": "image",
-					"ref": "podcasts/Row_03_01.jpg",
+					"type": "video",
+					"ref": "two/Row_03_01/1.mp4",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_04_01",
+					"type": "image",
+					"ref": "two/Row_04_01/1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_05_01",
+					"type": "image",
+					"ref": "two/Row_05_01/1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_01",
+					"type": "video",
+					"ref": "two/Row_06_01/1.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_01",
+					"type": "image",
+					"ref": "two/Row_07_01/1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
 							"cap": ""
 						}
 					]
 				}
-			]	
+			]
 		},
 		{
 			"column": [
 				{
 					"id": "Row_01_02",
-					"type": "video",
-					"ref": "podcasts/Row_01_02.mp4",
+					"type": "image",
+					"ref": "two/Row_01_02/1.jpg",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/row_/2.jpg",
 							"cap": ""
 						}
 					]
@@ -57,11 +110,11 @@
 				{
 					"id": "Row_02_02",
 					"type": "image",
-					"ref": "podcasts/Row_02_02.jpg",
+					"ref": "two/Row_02_02/1.jpg",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/row_/2.jpg",
 							"cap": ""
 						}
 					]
@@ -69,39 +122,87 @@
 				{
 					"id": "Row_03_02",
 					"type": "video",
-					"ref": "podcasts/Row_03_02.mp4",
+					"ref": "two/Row_03_02/1.mp4",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_04_02",
+					"type": "image",
+					"ref": "two/Row_04_02/1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_05_02",
+					"type": "image",
+					"ref": "two/Row_05_02/1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_02",
+					"type": "video",
+					"ref": "two/Row_06_02/1.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_02",
+					"type": "video",
+					"ref": "two/Row_07_02/1.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
 							"cap": ""
 						}
 					]
 				}
-			]	
+			]
 		},
 		{
 			"column": [
 				{
 					"id": "Row_01_03",
 					"type": "image",
-					"ref": "podcasts/Row_01_03.jpg",
+					"ref": "two/Row_01_03/1.jpg",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/row_/2.jpg",
 							"cap": ""
 						}
 					]
 				},
 				{
 					"id": "Row_02_03",
-					"type": "image",
-					"ref": "podcasts/Row_02_03.jpg",
+					"type": "video",
+					"ref": "two/Row_02_03/1.mp4",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/row_/2.jpg",
 							"cap": ""
 						}
 					]
@@ -109,16 +210,64 @@
 				{
 					"id": "Row_03_03",
 					"type": "image",
-					"ref": "podcasts/Row_03_03.jpg",
+					"ref": "two/Row_03_03/1.jpg",
 					"slides": [
 						{
 							"type": "image",
-							"ref": "projects/xxxxx.jpg",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_04_03",
+					"type": "image",
+					"ref": "two/Row_04_03/1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_05_03",
+					"type": "video",
+					"ref": "two/Row_05_03/1.mp4",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_06_03",
+					"type": "image",
+					"ref": "two/Row_06_03/1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
+							"cap": ""
+						}
+					]
+				},
+				{
+					"id": "Row_07_03",
+					"type": "image",
+					"ref": "two/Row_07_03/1.jpg",
+					"slides": [
+						{
+							"type": "image",
+							"ref": "two/row_/2.jpg",
 							"cap": ""
 						}
 					]
 				}
-			]	
+			]
 		}
 	]
 }
