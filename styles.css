@@ -275,6 +275,7 @@ a {
   overflow-y: scroll;
   position: absolute;
   left: 12.5%;
+  padding-bottom: 50px;
 }
 
 .row {
