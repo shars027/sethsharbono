@@ -407,6 +407,12 @@ a {
   line-height: 1.5;
 }
 
+#message {
+  text-align: center; 
+  margin-top: 5px; 
+  padding: 0px 5vw
+}
+
 /* #aboutme div b {
   font-family: Montserrat, sans-serif;
   font-weight: 800;
@@ -510,6 +516,15 @@ a {
     font-size: 12px;
   }
 
+  .column {
+    -ms-flex: calc(45% - 10px); /* IE10 */
+    flex: calc(45% - 10px);
+    max-width: calc(50% - 10px);
+    margin: 0;
+    padding: 1.25%;
+    margin-bottom: 10px;
+  }
+
   nav ul li a {
     text-align: center;
   }
@@ -542,6 +557,8 @@ a {
 
   #project_body {
     padding-top: 45px;
+    width: 100%;
+    left: 0;
   }
 
   nav ul li {
@@ -577,8 +594,8 @@ a {
     left: calc(33vw + 10px);
   }
   .close {
-    bottom: 20px;
-    padding: 15px 5px;
+    bottom: 40px;
+    padding: 10px 5px;
   }
 
   #bio {
