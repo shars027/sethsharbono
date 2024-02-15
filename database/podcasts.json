@@ -9,13 +9,8 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/Row_01_01/1.jpg",
-							"cap": ""
-						},
-						{
-							"type": "image",
 							"ref": "two/Row_01_01/2.jpg",
-							"cap": ""
+							"cap": "This is a test"
 						}
 					]
 				},
@@ -26,7 +21,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_02_01/2.jpg",
 							"cap": ""
 						}
 					]
@@ -38,7 +33,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_03_01/2.jpg",
 							"cap": ""
 						}
 					]
@@ -50,7 +45,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_04_01/2.jpg",
 							"cap": ""
 						}
 					]
@@ -62,7 +57,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_05_01/2.jpg",
 							"cap": ""
 						}
 					]
@@ -74,7 +69,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_06_01/2.jpg",
 							"cap": ""
 						}
 					]
@@ -86,7 +81,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_07_01/2.jpg",
 							"cap": ""
 						}
 					]
@@ -102,7 +97,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_01_02/2.jpg",
 							"cap": ""
 						}
 					]
@@ -114,7 +109,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_02_02/2.jpg",
 							"cap": ""
 						}
 					]
@@ -126,7 +121,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_03_02/2.jpg",
 							"cap": ""
 						}
 					]
@@ -138,7 +133,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_04_02/2.jpg",
 							"cap": ""
 						}
 					]
@@ -150,7 +145,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_05_02/2.jpg",
 							"cap": ""
 						}
 					]
@@ -161,8 +156,8 @@
 					"ref": "two/Row_06_02/1.mp4",
 					"slides": [
 						{
-							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"type": "video",
+							"ref": "two/Row_06_02/2.mp4",
 							"cap": ""
 						}
 					]
@@ -174,7 +169,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_07_02/2.jpg",
 							"cap": ""
 						}
 					]
@@ -190,7 +185,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_01_03/2.jpg",
 							"cap": ""
 						}
 					]
@@ -202,7 +197,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_02_03/2.jpg",
 							"cap": ""
 						}
 					]
@@ -214,7 +209,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_03_03/2.jpg",
 							"cap": ""
 						}
 					]
@@ -226,7 +221,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_04_03/2.jpg",
 							"cap": ""
 						}
 					]
@@ -237,8 +232,8 @@
 					"ref": "two/Row_05_03/1.mp4",
 					"slides": [
 						{
-							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"type": "video",
+							"ref": "two/Row_05_03/2.mp4",
 							"cap": ""
 						}
 					]
@@ -250,7 +245,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_06_03/2.jpg",
 							"cap": ""
 						}
 					]
@@ -262,7 +257,7 @@
 					"slides": [
 						{
 							"type": "image",
-							"ref": "two/row_/2.jpg",
+							"ref": "two/Row_07_03/2.jpg",
 							"cap": ""
 						}
 					]
