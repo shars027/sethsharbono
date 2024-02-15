@@ -169,7 +169,7 @@ nav ul li:hover > ul {
 /* Container for main menu */
 nav ul {
   list-style: none;
-  min-width: 170px;
+  min-width: calc(12.5vw - 10px);
 
   position: relative;
   display: inline-table;
@@ -234,7 +234,7 @@ nav ul li a {
 .prev,
 .next {
   position: absolute;
-  padding: 15px 5px;
+  padding: 10px 5px;
   width: 65px;
   text-align: center;
   user-select: none;
@@ -250,7 +250,7 @@ nav ul li a {
 .close {
   position: fixed;
   left: 20px;
-  padding: 15px 25px;
+  padding: 10px 20px;
 }
 
 /* drop down container */
@@ -292,28 +292,27 @@ a {
   flex: calc(33.33% - 25px);
   max-width: calc(33.33% - 25px);
   padding: 0 12.5px;
-  /* cursor: pointer; */
+  cursor: pointer;
 }
 
 .column img {
   margin-top: 15px;
   vertical-align: middle;
-  /* min-height: calc(0.5625 * (25vw - 10px)); */
   min-height: 10px;
   width: 100%;
   border-radius: 5px;
 }
 
-/* .column img:hover {
+.column img:hover {
   filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.025));
-  transform: scale(1.025);
+  transform: scale(1.05);
   transition: 0.2s ease;
 }
 .column video:hover {
   filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.025));
   transform: scale(1.025);
   transition: 0.2s ease;
-} */
+}
 
 .column video {
   margin-top: 15px;
@@ -331,22 +330,31 @@ a {
   z-index: 0;
   left: 0;
   top: 0;
-  padding-top: 90px;
+  padding-top: 80px;
   width: 100%;
-  height: calc(100% - 90px);
-  background-color: white;
+  height: calc(100% - 80px);
+  background-color: rgba(255, 255, 255);
+}
+
+/* This is the width of the slide */
+.modalContent { 
+  position: absolute;
+  width: 100%;
+  right: 0;
+  height: calc(100% - 120px);
+  padding-bottom: 20px;
 }
 
 .mySlides > img,
 .mySlides > video {
-  position: fixed;
+  position: absolute;
   right: 0;
   left: 0;
   top: 0;
   bottom: 0;
   margin: auto;
-  max-height: calc(100% - 180px);
-  max-width: calc(100% - 40px);
+  max-height: calc(100%);
+  max-width: calc(75% - 40px);
   border-radius: 5px;
 }
 
@@ -408,6 +416,10 @@ a {
 #mo19 div div img {
   max-height: 100%;
   max-width: 100%;
+}
+
+#Row_09_01 {
+  background-color: black;
 }
 
 #mo22 div div .caption-container,
